@@ -1,7 +1,7 @@
 [
   {
     "id": "linalg.vector.concept",
-    "label": "Vectors: magnitude and direction",
+    "label": "Vetores: magnitude e direção",
     "domain": "linear_algebra",
     "subdomain": "linear_algebra.vectors",
     "grading_type": "numeric",
@@ -16,7 +16,7 @@
   },
   {
     "id": "linalg.vector.add",
-    "label": "Vector addition and scalar multiplication",
+    "label": "Adição de vetores e multiplicação escalar",
     "domain": "linear_algebra",
     "subdomain": "linear_algebra.vectors",
     "grading_type": "tuple",
@@ -30,7 +30,7 @@
   },
   {
     "id": "linalg.vector.dot",
-    "label": "Dot product of two vectors",
+    "label": "Produto escalar de dois vetores",
     "domain": "linear_algebra",
     "subdomain": "linear_algebra.vectors",
     "grading_type": "numeric",
@@ -45,7 +45,7 @@
   },
   {
     "id": "linalg.matrix.concept",
-    "label": "Matrices: rows, columns, and entries",
+    "label": "Matrizes: linhas, colunas e entradas",
     "domain": "linear_algebra",
     "subdomain": "linear_algebra.matrices",
     "grading_type": "numeric",
@@ -59,7 +59,7 @@
   },
   {
     "id": "linalg.matrix.add",
-    "label": "Matrix addition and scalar multiplication",
+    "label": "Adição de matriz e multiplicação escalar",
     "domain": "linear_algebra",
     "subdomain": "linear_algebra.matrices",
     "grading_type": "numeric",
@@ -73,7 +73,7 @@
   },
   {
     "id": "linalg.matrix.mult",
-    "label": "Matrix multiplication",
+    "label": "Produto de matrizes",
     "domain": "linear_algebra",
     "subdomain": "linear_algebra.matrices",
     "grading_type": "numeric",
@@ -88,7 +88,7 @@
   },
   {
     "id": "linalg.matrix.identity",
-    "label": "Identity matrix and matrix inverses",
+    "label": "Matriz de identidade e matriz inversa",
     "domain": "linear_algebra",
     "subdomain": "linear_algebra.matrices",
     "grading_type": "numeric",
@@ -102,7 +102,7 @@
   },
   {
     "id": "linalg.det.2x2",
-    "label": "Determinant of a 2x2 matrix",
+    "label": "Determinante de uma matriz 2x2",
     "domain": "linear_algebra",
     "subdomain": "linear_algebra.determinants",
     "grading_type": "numeric",
@@ -116,7 +116,7 @@
   },
   {
     "id": "linalg.det.3x3",
-    "label": "Determinant of a 3x3 matrix",
+    "label": "Determinante de uma matriz 3x3",
     "domain": "linear_algebra",
     "subdomain": "linear_algebra.determinants",
     "grading_type": "numeric",
@@ -130,7 +130,7 @@
   },
   {
     "id": "linalg.systems.matrix",
-    "label": "Solving systems with matrices",
+    "label": "Resolução de sistemas com matrizes",
     "domain": "linear_algebra",
     "subdomain": "linear_algebra.systems",
     "grading_type": "tuple",
@@ -145,7 +145,7 @@
   },
   {
     "id": "linalg.sys.cramer",
-    "label": "Cramer's rule",
+    "label": "Cramer's Rule",
     "domain": "linear_algebra",
     "subdomain": "linear_algebra.systems",
     "grading_type": "numeric",
@@ -160,7 +160,7 @@
   },
   {
     "id": "linalg.eigen.concept",
-    "label": "Eigenvalues and eigenvectors concept",
+    "label": "Conceito de autovalores e autovetores",
     "domain": "linear_algebra",
     "subdomain": "linear_algebra.eigenvalues",
     "grading_type": "numeric",
@@ -175,7 +175,7 @@
   },
   {
     "id": "linalg.eigen.compute",
-    "label": "Compute eigenvalues of a 2x2 matrix",
+    "label": "Calcular autovalores de uma matriz 2x2",
     "domain": "linear_algebra",
     "subdomain": "linear_algebra.eigenvalues",
     "grading_type": "tuple",
@@ -189,7 +189,7 @@
   },
   {
     "id": "linalg.lintrans.concept",
-    "label": "Linear transformations",
+    "label": "Transformações lineares",
     "domain": "linear_algebra",
     "subdomain": "linear_algebra.transformations",
     "grading_type": "tuple",
@@ -204,7 +204,7 @@
   },
   {
     "id": "linalg.vec.span",
-    "label": "Span and linear independence",
+    "label": "Span e independência linear",
     "domain": "linear_algebra",
     "subdomain": "linear_algebra.vectors",
     "grading_type": "numeric",
@@ -219,7 +219,7 @@
   },
   {
     "id": "linalg.subspace",
-    "label": "Subspaces",
+    "label": "Subespaços",
     "domain": "linear_algebra",
     "subdomain": "linear_algebra.vectors",
     "grading_type": "numeric",
@@ -234,7 +234,7 @@
   },
   {
     "id": "linalg.vec.basis",
-    "label": "Basis and dimension",
+    "label": "Base e dimensão",
     "domain": "linear_algebra",
     "subdomain": "linear_algebra.vectors",
     "grading_type": "numeric",
@@ -248,7 +248,7 @@
   },
   {
     "id": "linalg.matrix.rank",
-    "label": "Rank of a matrix",
+    "label": "Classificação de uma matriz",
     "domain": "linear_algebra",
     "subdomain": "linear_algebra.matrices",
     "grading_type": "numeric",
@@ -263,7 +263,7 @@
   },
   {
     "id": "linalg.eigen.diagonalization",
-    "label": "Matrix diagonalization",
+    "label": "Diagonalização da matriz",
     "domain": "linear_algebra",
     "subdomain": "linear_algebra.eigenvalues",
     "grading_type": "numeric",
@@ -277,7 +277,7 @@
   },
   {
     "id": "linalg.vector.parametric",
-    "label": "Vector and parametric equations of a line",
+    "label": "Equações vetoriais e paramétricas de uma reta",
     "domain": "linear_algebra",
     "subdomain": "linear_algebra.vectors",
     "grading_type": "tuple",
@@ -291,7 +291,7 @@
   },
   {
     "id": "linalg.vector.cosine_similarity",
-    "label": "Cosine similarity between vectors",
+    "label": "Semelhança de cosseno entre vetores",
     "domain": "linear_algebra",
     "subdomain": "linear_algebra.vectors",
     "grading_type": "numeric",
@@ -305,7 +305,7 @@
   },
   {
     "id": "linalg.inner_product",
-    "label": "Inner products and orthogonality",
+    "label": "Produtos internos e ortogonalidade",
     "domain": "linear_algebra",
     "subdomain": "linear_algebra.inner_product",
     "grading_type": "numeric",
@@ -320,7 +320,7 @@
   },
   {
     "id": "linalg.decomp.lu",
-    "label": "LU decomposition",
+    "label": "Decomposição LU",
     "domain": "linear_algebra",
     "subdomain": "linear_algebra.decompositions",
     "grading_type": "numeric",
@@ -335,7 +335,7 @@
   },
   {
     "id": "linalg.decomp.qr",
-    "label": "QR decomposition",
+    "label": "Decomposição QR",
     "domain": "linear_algebra",
     "subdomain": "linear_algebra.decompositions",
     "grading_type": "numeric",
@@ -350,7 +350,7 @@
   },
   {
     "id": "linalg.decomp.svd",
-    "label": "Singular value decomposition",
+    "label": "Decomposição do valor singular",
     "domain": "linear_algebra",
     "subdomain": "linear_algebra.decompositions",
     "grading_type": "numeric",
@@ -365,7 +365,7 @@
   },
   {
     "id": "linalg.decomp.jordan",
-    "label": "Jordan normal form",
+    "label": "Jordan forma normal",
     "domain": "linear_algebra",
     "subdomain": "linear_algebra.decompositions",
     "grading_type": "numeric",
@@ -380,7 +380,7 @@
   },
   {
     "id": "linalg.independence.count",
-    "label": "Linear independence",
+    "label": "Ld",
     "domain": "linear_algebra",
     "subdomain": "linear_algebra.vectors",
     "grading_type": "numeric",
@@ -394,7 +394,7 @@
   },
   {
     "id": "linalg.rank.nullity",
-    "label": "The rank-nullity theorem",
+    "label": "O teorema da classificação-nulidade",
     "domain": "linear_algebra",
     "subdomain": "linear_algebra.matrices",
     "grading_type": "numeric",
@@ -408,7 +408,7 @@
   },
   {
     "id": "linalg.matrix.inverse_2x2",
-    "label": "The inverse of a two-by-two matrix",
+    "label": "O inverso de uma matriz dois por dois",
     "domain": "linear_algebra",
     "subdomain": "linear_algebra.matrices",
     "grading_type": "numeric",
@@ -422,7 +422,7 @@
   },
   {
     "id": "linalg.eigen.trace",
-    "label": "The trace as a sum of eigenvalues",
+    "label": "O traço como uma soma de autovalores",
     "domain": "linear_algebra",
     "subdomain": "linear_algebra.eigenvalues",
     "grading_type": "numeric",
@@ -436,7 +436,7 @@
   },
   {
     "id": "linalg.eigen.det_product",
-    "label": "The determinant as a product of eigenvalues",
+    "label": "O determinante como produto de autovalores",
     "domain": "linear_algebra",
     "subdomain": "linear_algebra.eigenvalues",
     "grading_type": "numeric",
@@ -451,7 +451,7 @@
   },
   {
     "id": "linalg.orth.projection_coeff",
-    "label": "Projection onto a vector",
+    "label": "Projeção sobre um vector",
     "domain": "linear_algebra",
     "subdomain": "linear_algebra.inner_product",
     "grading_type": "numeric",
@@ -465,7 +465,7 @@
   },
   {
     "id": "linalg.vec.norm_squared",
-    "label": "The norm of a vector",
+    "label": "A norma de um vetor",
     "domain": "linear_algebra",
     "subdomain": "linear_algebra.vectors",
     "grading_type": "numeric",
@@ -479,7 +479,7 @@
   },
   {
     "id": "linalg.transform.det_scale",
-    "label": "Rotation-scaling matrices",
+    "label": "Matrizes de escala de rotação",
     "domain": "linear_algebra",
     "subdomain": "linear_algebra.transformations",
     "grading_type": "numeric",
@@ -494,7 +494,7 @@
   },
   {
     "id": "linalg.space.axioms",
-    "label": "Vector spaces and their axioms",
+    "label": "Espaços vetoriais E seus axiomas",
     "domain": "linear_algebra",
     "subdomain": "linear_algebra.vectors",
     "grading_type": "multiple_choice",
@@ -508,7 +508,7 @@
   },
   {
     "id": "linalg.transform.kernel",
-    "label": "Kernel and image of a linear map",
+    "label": "Núcleo e imagem de um mapa linear",
     "domain": "linear_algebra",
     "subdomain": "linear_algebra.transformations",
     "grading_type": "numeric",
@@ -523,7 +523,7 @@
   },
   {
     "id": "linalg.transform.invertible",
-    "label": "Injective, surjective and invertible maps",
+    "label": "Mapas injetores, sobrejetivos e inversíveis",
     "domain": "linear_algebra",
     "subdomain": "linear_algebra.transformations",
     "grading_type": "multiple_choice",
@@ -538,7 +538,7 @@
   },
   {
     "id": "linalg.basis.change",
-    "label": "Coordinates and change of basis",
+    "label": "Coordenadas e mudança de base",
     "domain": "linear_algebra",
     "subdomain": "linear_algebra.vectors",
     "grading_type": "numeric",
@@ -553,7 +553,7 @@
   },
   {
     "id": "linalg.orth.complement",
-    "label": "Orthogonal complements",
+    "label": "Complementares ortogonais",
     "domain": "linear_algebra",
     "subdomain": "linear_algebra.inner_product",
     "grading_type": "numeric",
@@ -568,7 +568,7 @@
   },
   {
     "id": "linalg.orth.projection_matrix",
-    "label": "Projection onto a subspace",
+    "label": "Projeção num subespaço",
     "domain": "linear_algebra",
     "subdomain": "linear_algebra.inner_product",
     "grading_type": "numeric",
@@ -583,7 +583,7 @@
   },
   {
     "id": "linalg.symmetric.spectral",
-    "label": "The spectral theorem for symmetric matrices",
+    "label": "O teorema espectral para matrizes simétricas",
     "domain": "linear_algebra",
     "subdomain": "linear_algebra.eigenvalues",
     "grading_type": "multiple_choice",
@@ -598,7 +598,7 @@
   },
   {
     "id": "linalg.quadratic.definite",
-    "label": "Quadratic forms and definiteness",
+    "label": "Formas quadráticas e definição",
     "domain": "linear_algebra",
     "subdomain": "linear_algebra.eigenvalues",
     "grading_type": "multiple_choice",
@@ -613,7 +613,7 @@
   },
   {
     "id": "linalg.vector.cross",
-    "label": "The cross product",
+    "label": "Produto vetorial",
     "domain": "linear_algebra",
     "subdomain": "linear_algebra.vectors",
     "grading_type": "tuple",
@@ -627,7 +627,7 @@
   },
   {
     "id": "linalg.matrix.condition",
-    "label": "The condition number",
+    "label": "Número da condição",
     "domain": "linear_algebra",
     "subdomain": "linear_algebra.decompositions",
     "grading_type": "numeric",
@@ -642,7 +642,7 @@
   },
   {
     "id": "linalg.eigen.cayley_hamilton",
-    "label": "The Cayley-Hamilton theorem",
+    "label": "O teorema de Cayley-Hamilton",
     "domain": "linear_algebra",
     "subdomain": "linear_algebra.eigenvalues",
     "grading_type": "multiple_choice",

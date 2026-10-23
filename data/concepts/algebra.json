@@ -1,7 +1,7 @@
 [
   {
     "id": "alg.linear.slope",
-    "label": "Slope of a line from two points",
+    "label": "Inclinação de uma linha a partir de dois pontos",
     "domain": "algebra",
     "subdomain": "algebra.linear",
     "grading_type": "numeric",
@@ -16,7 +16,7 @@
   },
   {
     "id": "alg.linear.slope_intercept",
-    "label": "Slope-intercept form y = mx + b",
+    "label": "Forma de interceptação de inclinação y = mx + b",
     "domain": "algebra",
     "subdomain": "algebra.linear",
     "grading_type": "expression",
@@ -30,7 +30,7 @@
   },
   {
     "id": "alg.linear.graph",
-    "label": "Graph a linear equation",
+    "label": "Representar graficamente uma equação linear",
     "domain": "algebra",
     "subdomain": "algebra.linear",
     "grading_type": "numeric",
@@ -44,7 +44,7 @@
   },
   {
     "id": "alg.linear.standard_form",
-    "label": "Standard form of a linear equation Ax + By = C",
+    "label": "Forma padrão de uma equação linear Ax + By = C",
     "domain": "algebra",
     "subdomain": "algebra.linear",
     "grading_type": "multiple_choice",
@@ -58,7 +58,7 @@
   },
   {
     "id": "alg.linear.parallel_perp",
-    "label": "Parallel and perpendicular lines",
+    "label": "Linhas paralelas e perpendiculares",
     "domain": "algebra",
     "subdomain": "algebra.linear",
     "grading_type": "numeric",
@@ -72,7 +72,7 @@
   },
   {
     "id": "alg.eq.multi_step",
-    "label": "Solve multi-step equations",
+    "label": "Resolver equações de várias etapas",
     "domain": "algebra",
     "subdomain": "algebra.equations",
     "grading_type": "numeric",
@@ -87,7 +87,7 @@
   },
   {
     "id": "alg.eq.vars_both_sides",
-    "label": "Variables on both sides of an equation",
+    "label": "Variáveis em ambos os lados de uma equação",
     "domain": "algebra",
     "subdomain": "algebra.equations",
     "grading_type": "numeric",
@@ -101,7 +101,7 @@
   },
   {
     "id": "alg.eq.vars_both_sides.word",
-    "label": "Equations word problems: two offers",
+    "label": "Problemas de palavras de equações: duas ofertas",
     "domain": "algebra",
     "subdomain": "algebra.equations",
     "grading_type": "numeric",
@@ -115,7 +115,7 @@
   },
   {
     "id": "alg.eq.literal",
-    "label": "Literal equations: solve for a variable",
+    "label": "Equações literais: resolva para uma variável",
     "domain": "algebra",
     "subdomain": "algebra.equations",
     "grading_type": "expression",
@@ -129,7 +129,7 @@
   },
   {
     "id": "alg.ineq.multi_step",
-    "label": "Solve multi-step inequalities",
+    "label": "Resolva as desigualdades em várias etapas",
     "domain": "algebra",
     "subdomain": "algebra.inequalities",
     "grading_type": "numeric",
@@ -144,7 +144,7 @@
   },
   {
     "id": "alg.ineq.multi_step.word",
-    "label": "Inequality word problems: at most",
+    "label": "Problemas de palavras de desigualdade: no máximo",
     "domain": "algebra",
     "subdomain": "algebra.inequalities",
     "grading_type": "numeric",
@@ -158,7 +158,7 @@
   },
   {
     "id": "alg.ineq.compound",
-    "label": "Compound inequalities",
+    "label": "Desigualdades compostas",
     "domain": "algebra",
     "subdomain": "algebra.inequalities",
     "grading_type": "numeric",
@@ -172,7 +172,7 @@
   },
   {
     "id": "alg.ineq.two_var",
-    "label": "Graph linear inequalities in two variables",
+    "label": "Gráfico das desigualdades lineares em duas variáveis",
     "domain": "algebra",
     "subdomain": "algebra.inequalities",
     "grading_type": "multiple_choice",
@@ -187,7 +187,7 @@
   },
   {
     "id": "alg.systems.substitution",
-    "label": "Systems of equations: substitution method",
+    "label": "Sistemas de equações: método de substituição",
     "domain": "algebra",
     "subdomain": "algebra.systems",
     "grading_type": "tuple",
@@ -201,7 +201,7 @@
   },
   {
     "id": "alg.systems.elimination",
-    "label": "Systems of equations: elimination method",
+    "label": "Sistemas de equações: método de eliminação",
     "domain": "algebra",
     "subdomain": "algebra.systems",
     "grading_type": "tuple",
@@ -215,7 +215,7 @@
   },
   {
     "id": "alg.systems.word",
-    "label": "Systems of equations word problems",
+    "label": "Problemas de palavras de sistemas de equações",
     "domain": "algebra",
     "subdomain": "algebra.systems",
     "grading_type": "tuple",
@@ -229,7 +229,7 @@
   },
   {
     "id": "alg.poly.concept",
-    "label": "What is a polynomial: terms and degree",
+    "label": "O que é um polinômio: termos e grau",
     "domain": "algebra",
     "subdomain": "algebra.polynomials",
     "grading_type": "numeric",
@@ -243,7 +243,7 @@
   },
   {
     "id": "alg.poly.add_sub",
-    "label": "Add and subtract polynomials",
+    "label": "Adicionar e subtrair polinómios",
     "domain": "algebra",
     "subdomain": "algebra.polynomials",
     "grading_type": "polynomial",
@@ -257,7 +257,7 @@
   },
   {
     "id": "alg.poly.mult_mono",
-    "label": "Multiply monomial by polynomial",
+    "label": "Multiplicar monómio por polinómio",
     "domain": "algebra",
     "subdomain": "algebra.polynomials",
     "grading_type": "polynomial",
@@ -272,7 +272,7 @@
   },
   {
     "id": "alg.poly.foil",
-    "label": "Multiply two binomials using FOIL",
+    "label": "Multiplique dois binómios usando PAPEL ALUMÍNIO",
     "domain": "algebra",
     "subdomain": "algebra.polynomials",
     "grading_type": "polynomial",
@@ -286,7 +286,7 @@
   },
   {
     "id": "alg.poly.special",
-    "label": "Special products: difference of squares and perfect squares",
+    "label": "Produtos especiais: diferença de quadrados e quadrados perfeitos",
     "domain": "algebra",
     "subdomain": "algebra.polynomials",
     "grading_type": "polynomial",
@@ -300,7 +300,7 @@
   },
   {
     "id": "alg.factor.gcf",
-    "label": "Factor out the greatest common factor",
+    "label": "Fatorar o maior fator comum",
     "domain": "algebra",
     "subdomain": "algebra.factoring",
     "grading_type": "expression",
@@ -315,7 +315,7 @@
   },
   {
     "id": "alg.factor.trinomial",
-    "label": "Factor trinomials of the form x\u00b2 + bx + c",
+    "label": "Trinômios fatoriais da forma x² + bx + c",
     "domain": "algebra",
     "subdomain": "algebra.factoring",
     "grading_type": "expression",
@@ -330,7 +330,7 @@
   },
   {
     "id": "alg.factor.diff_squares",
-    "label": "Factor difference of two squares",
+    "label": "Diferença de fator de dois quadrados",
     "domain": "algebra",
     "subdomain": "algebra.factoring",
     "grading_type": "expression",
@@ -345,7 +345,7 @@
   },
   {
     "id": "alg.factor.ac_method",
-    "label": "Factor trinomials ax\u00b2 + bx + c using AC method",
+    "label": "Trinômios fatoriais ax² + bx + c pelo método AC",
     "domain": "algebra",
     "subdomain": "algebra.factoring",
     "grading_type": "expression",
@@ -359,7 +359,7 @@
   },
   {
     "id": "alg.quad.solve_factor",
-    "label": "Solve quadratics by factoring",
+    "label": "Resolver quadráticas por factoring",
     "domain": "algebra",
     "subdomain": "algebra.quadratics",
     "grading_type": "numeric",
@@ -373,7 +373,7 @@
   },
   {
     "id": "alg.quad.complete_square",
-    "label": "Completing the square",
+    "label": "Completar o quadrado",
     "domain": "algebra",
     "subdomain": "algebra.quadratics",
     "grading_type": "numeric",
@@ -388,7 +388,7 @@
   },
   {
     "id": "alg.quad.formula",
-    "label": "Quadratic formula",
+    "label": "Fórmula quadrática",
     "domain": "algebra",
     "subdomain": "algebra.quadratics",
     "grading_type": "numeric",
@@ -403,7 +403,7 @@
   },
   {
     "id": "alg.quad.discriminant",
-    "label": "Discriminant: number of real solutions",
+    "label": "Discriminante: número de soluções reais",
     "domain": "algebra",
     "subdomain": "algebra.quadratics",
     "grading_type": "multiple_choice",
@@ -417,7 +417,7 @@
   },
   {
     "id": "alg.conic.circle",
-    "label": "Equation and graph of a circle",
+    "label": "Equação e gráfico de um círculo",
     "domain": "algebra",
     "subdomain": "algebra.conics",
     "grading_type": "numeric",
@@ -432,7 +432,7 @@
   },
   {
     "id": "alg.conic.ellipse",
-    "label": "Equation and graph of an ellipse",
+    "label": "Equação e gráfico de uma elipse",
     "domain": "algebra",
     "subdomain": "algebra.conics",
     "grading_type": "numeric",
@@ -446,7 +446,7 @@
   },
   {
     "id": "alg.func.concept",
-    "label": "What is a function: domain and range",
+    "label": "O que é uma função: domínio e alcance",
     "domain": "algebra",
     "subdomain": "algebra.functions",
     "grading_type": "numeric",
@@ -460,7 +460,7 @@
   },
   {
     "id": "alg.func.notation",
-    "label": "Function notation f(x)",
+    "label": "Notação de função f(x)",
     "domain": "algebra",
     "subdomain": "algebra.functions",
     "grading_type": "numeric",
@@ -474,7 +474,7 @@
   },
   {
     "id": "alg.func.evaluate",
-    "label": "Evaluate a function at a given value",
+    "label": "Avaliar uma função a um determinado valor",
     "domain": "algebra",
     "subdomain": "algebra.functions",
     "grading_type": "numeric",
@@ -488,7 +488,7 @@
   },
   {
     "id": "alg.func.linear",
-    "label": "Linear functions and their graphs",
+    "label": "Funções lineares E seus gráficos",
     "domain": "algebra",
     "subdomain": "algebra.functions",
     "grading_type": "multiple_choice",
@@ -503,7 +503,7 @@
   },
   {
     "id": "alg.func.quad",
-    "label": "Quadratic functions and parabolas",
+    "label": "Funções quadráticas e parábolas",
     "domain": "algebra",
     "subdomain": "algebra.functions",
     "grading_type": "numeric",
@@ -518,7 +518,7 @@
   },
   {
     "id": "alg.exp.concept",
-    "label": "Exponential functions: growth and decay",
+    "label": "Funções exponenciais: crescimento e decaimento",
     "domain": "algebra",
     "subdomain": "algebra.exponential",
     "grading_type": "numeric",
@@ -533,7 +533,7 @@
   },
   {
     "id": "alg.exp.evaluate",
-    "label": "Evaluate exponential expressions",
+    "label": "Avaliar expressões exponenciais",
     "domain": "algebra",
     "subdomain": "algebra.exponential",
     "grading_type": "numeric",
@@ -547,7 +547,7 @@
   },
   {
     "id": "alg.log.concept",
-    "label": "What is a logarithm",
+    "label": "O que é um logaritmo",
     "domain": "algebra",
     "subdomain": "algebra.logarithms",
     "grading_type": "multiple_choice",
@@ -561,7 +561,7 @@
   },
   {
     "id": "alg.log.evaluate",
-    "label": "Evaluate logarithms",
+    "label": "Avaliar logaritmos",
     "domain": "algebra",
     "subdomain": "algebra.logarithms",
     "grading_type": "numeric",
@@ -575,7 +575,7 @@
   },
   {
     "id": "alg.log.properties",
-    "label": "Properties of logarithms",
+    "label": "Propriedades dos logaritmos",
     "domain": "algebra",
     "subdomain": "algebra.logarithms",
     "grading_type": "expression",
@@ -589,7 +589,7 @@
   },
   {
     "id": "alg.seq.arithmetic",
-    "label": "Arithmetic sequences",
+    "label": "Sequências aritméticas",
     "domain": "algebra",
     "subdomain": "algebra.sequences",
     "grading_type": "numeric",
@@ -603,7 +603,7 @@
   },
   {
     "id": "alg.seq.geometric",
-    "label": "Geometric sequences",
+    "label": "Sequências geométricas",
     "domain": "algebra",
     "subdomain": "algebra.sequences",
     "grading_type": "numeric",
@@ -618,7 +618,7 @@
   },
   {
     "id": "alg.seq.sum_arith",
-    "label": "Sum of arithmetic series",
+    "label": "Soma das séries aritméticas",
     "domain": "algebra",
     "subdomain": "algebra.sequences",
     "grading_type": "numeric",
@@ -632,7 +632,7 @@
   },
   {
     "id": "alg.seq.sum_geo",
-    "label": "Sum of geometric series",
+    "label": "Soma das séries geométricas",
     "domain": "algebra",
     "subdomain": "algebra.sequences",
     "grading_type": "numeric",
@@ -646,7 +646,7 @@
   },
   {
     "id": "alg.poly.monomial",
-    "label": "What is a monomial",
+    "label": "O que é um monómio",
     "domain": "algebra",
     "subdomain": "algebra.polynomials",
     "grading_type": "multiple_choice",
@@ -660,7 +660,7 @@
   },
   {
     "id": "alg.ineq.interval",
-    "label": "Interval notation",
+    "label": "Notação de intervalo",
     "domain": "algebra",
     "subdomain": "algebra.inequalities",
     "grading_type": "multiple_choice",
@@ -674,7 +674,7 @@
   },
   {
     "id": "alg.eq.absolute_value",
-    "label": "Equations involving absolute value",
+    "label": "Equações envolvendo valor absoluto",
     "domain": "algebra",
     "subdomain": "algebra.equations",
     "grading_type": "tuple",
@@ -688,7 +688,7 @@
   },
   {
     "id": "alg.eq.rational",
-    "label": "Rational equations",
+    "label": "Equações racionais",
     "domain": "algebra",
     "subdomain": "algebra.equations",
     "grading_type": "symbolic",
@@ -702,7 +702,7 @@
   },
   {
     "id": "alg.eq.irrational",
-    "label": "Irrational equations (equations with radicals)",
+    "label": "Equações irracionais (equações com radicais)",
     "domain": "algebra",
     "subdomain": "algebra.equations",
     "grading_type": "symbolic",
@@ -716,7 +716,7 @@
   },
   {
     "id": "alg.eq.exponential",
-    "label": "Exponential equations",
+    "label": "Equações exponenciais",
     "domain": "algebra",
     "subdomain": "algebra.equations",
     "grading_type": "symbolic",
@@ -730,7 +730,7 @@
   },
   {
     "id": "alg.eq.logarithmic",
-    "label": "Logarithmic equations",
+    "label": "Equações logarítmicas",
     "domain": "algebra",
     "subdomain": "algebra.equations",
     "grading_type": "symbolic",
@@ -744,7 +744,7 @@
   },
   {
     "id": "alg.eq.polynomial",
-    "label": "Polynomial equations (higher degree)",
+    "label": "Equações polinomiais (maior grau)",
     "domain": "algebra",
     "subdomain": "algebra.equations",
     "grading_type": "tuple",
@@ -758,7 +758,7 @@
   },
   {
     "id": "alg.eq.binomial",
-    "label": "Binomial equations",
+    "label": "Equações binomiais",
     "domain": "algebra",
     "subdomain": "algebra.equations",
     "grading_type": "symbolic",
@@ -772,7 +772,7 @@
   },
   {
     "id": "alg.eq.trinomial",
-    "label": "Trinomial equations",
+    "label": "Equações trinomiais",
     "domain": "algebra",
     "subdomain": "algebra.equations",
     "grading_type": "symbolic",
@@ -786,7 +786,7 @@
   },
   {
     "id": "alg.eq.extraneous_roots",
-    "label": "Extraneous solutions and loss of roots",
+    "label": "Soluções estranhas e perda de raízes",
     "domain": "algebra",
     "subdomain": "algebra.equations",
     "grading_type": "numeric",
@@ -801,7 +801,7 @@
   },
   {
     "id": "alg.quad.quadratic",
-    "label": "Quadratic equations: overview and solving methods",
+    "label": "Equações quadráticas: visão geral e métodos de resolução",
     "domain": "algebra",
     "subdomain": "algebra.quadratics",
     "grading_type": "symbolic",
@@ -817,7 +817,7 @@
   },
   {
     "id": "alg.quad.incomplete",
-    "label": "Incomplete quadratic equations",
+    "label": "Equações quadráticas incompletas",
     "domain": "algebra",
     "subdomain": "algebra.quadratics",
     "grading_type": "tuple",
@@ -831,7 +831,7 @@
   },
   {
     "id": "alg.quad.complex",
-    "label": "Quadratic equations with complex solutions",
+    "label": "Equações quadráticas com soluções complexas",
     "domain": "algebra",
     "subdomain": "algebra.quadratics",
     "grading_type": "symbolic",
@@ -846,7 +846,7 @@
   },
   {
     "id": "alg.quad.parametric",
-    "label": "Quadratic equations with parameters",
+    "label": "Equações quadráticas com parâmetros",
     "domain": "algebra",
     "subdomain": "algebra.quadratics",
     "grading_type": "symbolic",
@@ -860,7 +860,7 @@
   },
   {
     "id": "alg.ineq.quadratic",
-    "label": "Quadratic inequalities",
+    "label": "Desigualdades quadráticas",
     "domain": "algebra",
     "subdomain": "algebra.inequalities",
     "grading_type": "symbolic",
@@ -875,7 +875,7 @@
   },
   {
     "id": "alg.ineq.rational",
-    "label": "Rational inequalities",
+    "label": "Desigualdades racionais",
     "domain": "algebra",
     "subdomain": "algebra.inequalities",
     "grading_type": "symbolic",
@@ -889,7 +889,7 @@
   },
   {
     "id": "alg.ineq.irrational",
-    "label": "Irrational inequalities",
+    "label": "Desigualdades irracionais",
     "domain": "algebra",
     "subdomain": "algebra.inequalities",
     "grading_type": "symbolic",
@@ -903,7 +903,7 @@
   },
   {
     "id": "alg.ineq.logarithmic",
-    "label": "Logarithmic inequalities",
+    "label": "Desigualdades logarítmicas",
     "domain": "algebra",
     "subdomain": "algebra.inequalities",
     "grading_type": "symbolic",
@@ -918,7 +918,7 @@
   },
   {
     "id": "alg.ineq.absolute_value",
-    "label": "Inequalities with absolute value",
+    "label": "Desigualdades com valor absoluto",
     "domain": "algebra",
     "subdomain": "algebra.inequalities",
     "grading_type": "symbolic",
@@ -932,7 +932,7 @@
   },
   {
     "id": "alg.ineq.sign_analysis",
-    "label": "Sign analysis method for inequalities",
+    "label": "Método de análise de sinais para desigualdades",
     "domain": "algebra",
     "subdomain": "algebra.inequalities",
     "grading_type": "tuple",
@@ -946,7 +946,7 @@
   },
   {
     "id": "alg.ineq.systems",
-    "label": "Systems of inequalities",
+    "label": "Sistemas de desigualdades",
     "domain": "algebra",
     "subdomain": "algebra.inequalities",
     "grading_type": "symbolic",
@@ -960,7 +960,7 @@
   },
   {
     "id": "alg.func.domain",
-    "label": "Determining the domain of a function",
+    "label": "Determinar o domínio de uma função",
     "domain": "algebra",
     "subdomain": "algebra.functions",
     "grading_type": "numeric",
@@ -974,7 +974,7 @@
   },
   {
     "id": "alg.func.even_odd",
-    "label": "Even and odd functions",
+    "label": "Funções pares e ímpares",
     "domain": "algebra",
     "subdomain": "algebra.functions",
     "grading_type": "symbolic",
@@ -988,7 +988,7 @@
   },
   {
     "id": "alg.func.monotonicity",
-    "label": "Increasing and decreasing functions",
+    "label": "Funções crescentes e decrescentes",
     "domain": "algebra",
     "subdomain": "algebra.functions",
     "grading_type": "symbolic",
@@ -1002,7 +1002,7 @@
   },
   {
     "id": "alg.func.composite",
-    "label": "Composite functions",
+    "label": "Funções compostas",
     "domain": "algebra",
     "subdomain": "algebra.functions",
     "grading_type": "symbolic",
@@ -1016,7 +1016,7 @@
   },
   {
     "id": "alg.func.inverse",
-    "label": "Inverse functions",
+    "label": "Funções inversas",
     "domain": "algebra",
     "subdomain": "algebra.functions",
     "grading_type": "symbolic",
@@ -1030,7 +1030,7 @@
   },
   {
     "id": "alg.func.absolute_value",
-    "label": "Absolute value function",
+    "label": "Função de valor absoluto",
     "domain": "algebra",
     "subdomain": "algebra.functions",
     "grading_type": "symbolic",
@@ -1044,7 +1044,7 @@
   },
   {
     "id": "alg.func.rational",
-    "label": "Rational functions",
+    "label": "Funções racionais",
     "domain": "algebra",
     "subdomain": "algebra.functions",
     "grading_type": "symbolic",
@@ -1058,7 +1058,7 @@
   },
   {
     "id": "alg.func.graph_analysis",
-    "label": "Analyzing graphs of functions",
+    "label": "Analisar gráficos de funções",
     "domain": "algebra",
     "subdomain": "algebra.functions",
     "grading_type": "numeric",
@@ -1073,7 +1073,7 @@
   },
   {
     "id": "alg.func.sign",
-    "label": "Sign function",
+    "label": "Função sinal",
     "domain": "algebra",
     "subdomain": "algebra.functions",
     "grading_type": "symbolic",
@@ -1087,7 +1087,7 @@
   },
   {
     "id": "alg.func.sigmoid",
-    "label": "Sigmoid function (logistic function)",
+    "label": "Função sigmoide (função logística)",
     "domain": "algebra",
     "subdomain": "algebra.functions",
     "grading_type": "symbolic",
@@ -1101,7 +1101,7 @@
   },
   {
     "id": "alg.func.dirichlet",
-    "label": "Dirichlet function and pathological functions",
+    "label": "Função de Dirichlet e funções patológicas",
     "domain": "algebra",
     "subdomain": "algebra.functions",
     "grading_type": "symbolic",
@@ -1115,7 +1115,7 @@
   },
   {
     "id": "alg.poly.division",
-    "label": "Polynomial division",
+    "label": "Divisão polinomial",
     "domain": "algebra",
     "subdomain": "algebra.polynomials",
     "grading_type": "symbolic",
@@ -1129,7 +1129,7 @@
   },
   {
     "id": "alg.poly.roots",
-    "label": "Roots of a polynomial",
+    "label": "Raízes de um polinômio",
     "domain": "algebra",
     "subdomain": "algebra.polynomials",
     "grading_type": "tuple",
@@ -1144,7 +1144,7 @@
   },
   {
     "id": "alg.poly.synthetic_division",
-    "label": "Synthetic division method",
+    "label": "Método de divisão sintética",
     "domain": "algebra",
     "subdomain": "algebra.polynomials",
     "grading_type": "symbolic",
@@ -1158,7 +1158,7 @@
   },
   {
     "id": "alg.poly.vieta",
-    "label": "Vieta's formulas",
+    "label": "Fórmulas da Vieta",
     "domain": "algebra",
     "subdomain": "algebra.polynomials",
     "grading_type": "symbolic",
@@ -1172,7 +1172,7 @@
   },
   {
     "id": "alg.conic.parabola",
-    "label": "Parabola: equation and graph",
+    "label": "Parábola: equação e gráfico",
     "domain": "algebra",
     "subdomain": "algebra.conics",
     "grading_type": "symbolic",
@@ -1186,7 +1186,7 @@
   },
   {
     "id": "alg.conic.hyperbola",
-    "label": "Hyperbola: equation and graph",
+    "label": "Hipérbole: equação e gráfico",
     "domain": "algebra",
     "subdomain": "algebra.conics",
     "grading_type": "symbolic",
@@ -1200,7 +1200,7 @@
   },
   {
     "id": "alg.systems.concept",
-    "label": "Systems of linear equations: introduction",
+    "label": "Sistemas de equações lineares: introdução",
     "domain": "algebra",
     "subdomain": "algebra.systems",
     "grading_type": "numeric",
@@ -1214,7 +1214,7 @@
   },
   {
     "id": "alg.systems.gaussian",
-    "label": "Gaussian elimination for solving linear systems",
+    "label": "Eliminação gaussiana para resolução de sistemas lineares",
     "domain": "algebra",
     "subdomain": "algebra.systems",
     "grading_type": "tuple",
@@ -1228,7 +1228,7 @@
   },
   {
     "id": "alg.func.injectivity",
-    "label": "Injective, surjective, and bijective functions",
+    "label": "Funções injetoras, sobrejetivas e bijetivas",
     "domain": "algebra",
     "subdomain": "algebra.functions",
     "grading_type": "numeric",
@@ -1243,7 +1243,7 @@
   },
   {
     "id": "alg.func.power",
-    "label": "Power functions x^a",
+    "label": "Funções de energia x^a",
     "domain": "algebra",
     "subdomain": "algebra.functions",
     "grading_type": "numeric",
@@ -1258,7 +1258,7 @@
   },
   {
     "id": "alg.func.irrational",
-    "label": "Irrational (root) functions",
+    "label": "Funções irracionais (raiz)",
     "domain": "algebra",
     "subdomain": "algebra.functions",
     "grading_type": "numeric",
@@ -1273,7 +1273,7 @@
   },
   {
     "id": "alg.linear.two_points",
-    "label": "Equation of a line through two points",
+    "label": "Equação de uma reta através de dois pontos",
     "domain": "algebra",
     "subdomain": "algebra.linear",
     "grading_type": "expression",
@@ -1288,7 +1288,7 @@
   },
   {
     "id": "alg.linear.intercepts",
-    "label": "x- and y-intercepts of a line",
+    "label": "x- e y-interceptações de uma linha",
     "domain": "algebra",
     "subdomain": "algebra.linear",
     "grading_type": "tuple",
@@ -1303,7 +1303,7 @@
   },
   {
     "id": "alg.factor.grouping",
-    "label": "Factoring four-term polynomials by grouping",
+    "label": "Fatoração de polinômios de quatro termos por agrupamento",
     "domain": "algebra",
     "subdomain": "algebra.factoring",
     "grading_type": "expression",
@@ -1318,7 +1318,7 @@
   },
   {
     "id": "alg.factor.cubes",
-    "label": "Sum and difference of cubes",
+    "label": "Soma e diferença de cubos",
     "domain": "algebra",
     "subdomain": "algebra.factoring",
     "grading_type": "expression",
@@ -1333,7 +1333,7 @@
   },
   {
     "id": "alg.quad.vertex_form",
-    "label": "Vertex form by completing the square",
+    "label": "Forma do vértice preenchendo o quadrado",
     "domain": "algebra",
     "subdomain": "algebra.quadratics",
     "grading_type": "tuple",
@@ -1347,7 +1347,7 @@
   },
   {
     "id": "alg.quad.word_problem",
-    "label": "Quadratic word problems: area",
+    "label": "Problemas de palavras quadráticas: área",
     "domain": "algebra",
     "subdomain": "algebra.quadratics",
     "grading_type": "numeric",
@@ -1361,7 +1361,7 @@
   },
   {
     "id": "alg.poly.end_behavior",
-    "label": "End behavior of a polynomial",
+    "label": "Comportamento final de um polinômio",
     "domain": "algebra",
     "subdomain": "algebra.polynomials",
     "grading_type": "multiple_choice",
@@ -1375,7 +1375,7 @@
   },
   {
     "id": "alg.rational.simplify",
-    "label": "Simplifying rational expressions",
+    "label": "Simplificação de expressões racionais",
     "domain": "algebra",
     "subdomain": "algebra.rational",
     "grading_type": "expression",
@@ -1390,7 +1390,7 @@
   },
   {
     "id": "alg.rational.mult_div",
-    "label": "Multiply and divide rational expressions",
+    "label": "Multiplicar e dividir expressões racionais",
     "domain": "algebra",
     "subdomain": "algebra.rational",
     "grading_type": "expression",
@@ -1404,7 +1404,7 @@
   },
   {
     "id": "alg.rational.add_sub",
-    "label": "Add and subtract rational expressions",
+    "label": "Adicionar e subtrair expressões racionais",
     "domain": "algebra",
     "subdomain": "algebra.rational",
     "grading_type": "expression",
@@ -1418,7 +1418,7 @@
   },
   {
     "id": "alg.radical.rational_exponents",
-    "label": "Rational exponents",
+    "label": "Expoentes racionais",
     "domain": "algebra",
     "subdomain": "algebra.radicals",
     "grading_type": "numeric",
@@ -1433,7 +1433,7 @@
   },
   {
     "id": "alg.radical.rationalize",
-    "label": "Rationalizing a denominator",
+    "label": "Racionalização de um denominador",
     "domain": "algebra",
     "subdomain": "algebra.radicals",
     "grading_type": "tuple",
@@ -1447,7 +1447,7 @@
   },
   {
     "id": "alg.func.variation",
-    "label": "Direct and inverse variation",
+    "label": "Variação direta e inversa",
     "domain": "algebra",
     "subdomain": "algebra.functions",
     "grading_type": "numeric",
@@ -1462,7 +1462,7 @@
   },
   {
     "id": "alg.log.change_base",
-    "label": "Change of base",
+    "label": "Mudança de base.",
     "domain": "algebra",
     "subdomain": "algebra.logarithms",
     "grading_type": "numeric",
@@ -1477,7 +1477,7 @@
   },
   {
     "id": "alg.conic.classify",
-    "label": "Classifying a conic from its equation",
+    "label": "Classificação de uma cónica a partir da sua equação",
     "domain": "algebra",
     "subdomain": "algebra.conics",
     "grading_type": "multiple_choice",
@@ -1494,7 +1494,7 @@
   },
   {
     "id": "alg.func.piecewise",
-    "label": "Evaluating a piecewise function",
+    "label": "Avaliação de uma função por partes",
     "domain": "algebra",
     "subdomain": "algebra.functions",
     "grading_type": "numeric",
@@ -1508,7 +1508,7 @@
   },
   {
     "id": "alg.func.transformations",
-    "label": "Transformations of graphs",
+    "label": "Transformações de gráficos",
     "domain": "algebra",
     "subdomain": "algebra.functions",
     "grading_type": "multiple_choice",
@@ -1522,7 +1522,7 @@
   },
   {
     "id": "alg.func.inverse_domain",
-    "label": "Domain and range of an inverse function",
+    "label": "Domínio e intervalo de uma função inversa",
     "domain": "algebra",
     "subdomain": "algebra.functions",
     "grading_type": "multiple_choice",
@@ -1536,7 +1536,7 @@
   },
   {
     "id": "alg.exp.graph",
-    "label": "Graphs of exponential functions",
+    "label": "Gráficos de funções exponenciais",
     "domain": "algebra",
     "subdomain": "algebra.exponential",
     "grading_type": "numeric",
@@ -1550,7 +1550,7 @@
   },
   {
     "id": "alg.exp.compound",
-    "label": "Compound interest",
+    "label": "Anatocismo",
     "domain": "algebra",
     "subdomain": "algebra.exponential",
     "grading_type": "numeric",
@@ -1564,7 +1564,7 @@
   },
   {
     "id": "alg.log.graph",
-    "label": "Graphs of logarithmic functions",
+    "label": "Gráficos de funções logarítmicas",
     "domain": "algebra",
     "subdomain": "algebra.logarithms",
     "grading_type": "multiple_choice",
@@ -1578,7 +1578,7 @@
   },
   {
     "id": "alg.log.model",
-    "label": "Solving logarithmic models",
+    "label": "Resolução de modelos logarítmicos",
     "domain": "algebra",
     "subdomain": "algebra.logarithms",
     "grading_type": "numeric",
@@ -1592,7 +1592,7 @@
   },
   {
     "id": "alg.radical.simplify",
-    "label": "Simplifying radical expressions",
+    "label": "Simplificar expressões radicais",
     "domain": "algebra",
     "subdomain": "algebra.radicals",
     "grading_type": "numeric",
@@ -1606,7 +1606,7 @@
   },
   {
     "id": "alg.radical.operations",
-    "label": "Operations with radicals",
+    "label": "Operações com radicais",
     "domain": "algebra",
     "subdomain": "algebra.radicals",
     "grading_type": "numeric",
@@ -1620,7 +1620,7 @@
   },
   {
     "id": "alg.radical.conjugate",
-    "label": "Rationalizing with conjugates",
+    "label": "Racionalização com conjugados",
     "domain": "algebra",
     "subdomain": "algebra.radicals",
     "grading_type": "numeric",
@@ -1634,7 +1634,7 @@
   },
   {
     "id": "alg.rational.complex_fraction",
-    "label": "Simplifying complex fractions",
+    "label": "Simplificar frações complexas",
     "domain": "algebra",
     "subdomain": "algebra.rational",
     "grading_type": "numeric",
@@ -1648,7 +1648,7 @@
   },
   {
     "id": "alg.rational.proportions",
-    "label": "Solving proportions",
+    "label": "Resolver proporções",
     "domain": "algebra",
     "subdomain": "algebra.rational",
     "grading_type": "numeric",
@@ -1662,7 +1662,7 @@
   },
   {
     "id": "alg.rational.asymptotes",
-    "label": "Asymptotes of rational functions",
+    "label": "Assíntotas de funções racionais",
     "domain": "algebra",
     "subdomain": "algebra.rational",
     "grading_type": "numeric",
@@ -1676,7 +1676,7 @@
   },
   {
     "id": "alg.systems.three_var",
-    "label": "Systems of three equations",
+    "label": "Sistemas de três equações",
     "domain": "algebra",
     "subdomain": "algebra.systems",
     "grading_type": "numeric",
@@ -1690,7 +1690,7 @@
   },
   {
     "id": "alg.systems.matrices",
-    "label": "Solving systems with matrices",
+    "label": "Resolução de sistemas com matrizes",
     "domain": "algebra",
     "subdomain": "algebra.systems",
     "grading_type": "multiple_choice",
@@ -1704,7 +1704,7 @@
   },
   {
     "id": "alg.systems.nonlinear",
-    "label": "Nonlinear systems",
+    "label": "Sistemas não lineares",
     "domain": "algebra",
     "subdomain": "algebra.systems",
     "grading_type": "numeric",
@@ -1718,7 +1718,7 @@
   },
   {
     "id": "alg.seq.sigma",
-    "label": "Sigma notation",
+    "label": "Notação Sigma",
     "domain": "algebra",
     "subdomain": "algebra.sequences",
     "grading_type": "numeric",
@@ -1732,7 +1732,7 @@
   },
   {
     "id": "alg.seq.induction",
-    "label": "Proof by induction",
+    "label": "Prova por indução",
     "domain": "algebra",
     "subdomain": "algebra.sequences",
     "grading_type": "multiple_choice",
@@ -1746,7 +1746,7 @@
   },
   {
     "id": "alg.poly.factor_theorem",
-    "label": "The factor theorem",
+    "label": "O teorema DO fator",
     "domain": "algebra",
     "subdomain": "algebra.polynomials",
     "grading_type": "numeric",
@@ -1760,7 +1760,7 @@
   },
   {
     "id": "alg.poly.rational_root",
-    "label": "The rational root theorem",
+    "label": "O teorema da raiz racional",
     "domain": "algebra",
     "subdomain": "algebra.polynomials",
     "grading_type": "numeric",

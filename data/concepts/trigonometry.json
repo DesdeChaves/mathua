@@ -1,7 +1,7 @@
 [
   {
     "id": "trig.basics.radians",
-    "label": "Radians and degrees conversion",
+    "label": "Conversão de radianos e graus",
     "domain": "trigonometry",
     "subdomain": "trigonometry.basics",
     "grading_type": "multiple_choice",
@@ -17,7 +17,7 @@
   },
   {
     "id": "trig.basics.unit_circle",
-    "label": "Unit circle: sine and cosine of standard angles",
+    "label": "Círculo unitário: seno e cosseno de ângulos padrão",
     "domain": "trigonometry",
     "subdomain": "trigonometry.basics",
     "grading_type": "multiple_choice",
@@ -33,7 +33,7 @@
   },
   {
     "id": "trig.basics.sin_cos_def",
-    "label": "Sine and cosine definitions in right triangles",
+    "label": "Definições de seno e cosseno em triângulos retângulos",
     "domain": "trigonometry",
     "subdomain": "trigonometry.basics",
     "grading_type": "numeric",
@@ -49,7 +49,7 @@
   },
   {
     "id": "trig.basics.tan_def",
-    "label": "Tangent definition and ratio identity",
+    "label": "Definição de tangente e identidade de razão",
     "domain": "trigonometry",
     "subdomain": "trigonometry.basics",
     "grading_type": "numeric",
@@ -64,7 +64,7 @@
   },
   {
     "id": "trig.basics.reciprocal",
-    "label": "Reciprocal trig functions: csc, sec, cot",
+    "label": "Funções trigonométricas recíprocas: csc, sec, COT",
     "domain": "trigonometry",
     "subdomain": "trigonometry.basics",
     "grading_type": "numeric",
@@ -79,7 +79,7 @@
   },
   {
     "id": "trig.ident.pythagorean",
-    "label": "Pythagorean identity sin\u00b2\u03b8 + cos\u00b2\u03b8 = 1",
+    "label": "Identidade pitagórica sin²θ + cos²θ = 1",
     "domain": "trigonometry",
     "subdomain": "trigonometry.identities",
     "grading_type": "numeric",
@@ -94,7 +94,7 @@
   },
   {
     "id": "trig.basics.special_angles",
-    "label": "Exact values for 30\u00b0, 45\u00b0, 60\u00b0",
+    "label": "Valores exatos para 30°, 45°, 60°",
     "domain": "trigonometry",
     "subdomain": "trigonometry.basics",
     "grading_type": "multiple_choice",
@@ -108,7 +108,7 @@
   },
   {
     "id": "trig.basics.reference_angle",
-    "label": "Reference angles and quadrants",
+    "label": "Ângulos e quadrantes de referência",
     "domain": "trigonometry",
     "subdomain": "trigonometry.basics",
     "grading_type": "multiple_choice",
@@ -122,7 +122,7 @@
   },
   {
     "id": "trig.graph.sin",
-    "label": "Graph of sine function",
+    "label": "Gráfico da função seno",
     "domain": "trigonometry",
     "subdomain": "trigonometry.graphs",
     "grading_type": "multiple_choice",
@@ -137,7 +137,7 @@
   },
   {
     "id": "trig.graph.cos",
-    "label": "Graph of cosine function",
+    "label": "Gráfico da função cosseno",
     "domain": "trigonometry",
     "subdomain": "trigonometry.graphs",
     "grading_type": "multiple_choice",
@@ -151,7 +151,7 @@
   },
   {
     "id": "trig.graph.period",
-    "label": "Amplitude, period, and phase shift",
+    "label": "Amplitude, período e mudança de fase",
     "domain": "trigonometry",
     "subdomain": "trigonometry.graphs",
     "grading_type": "numeric",
@@ -165,7 +165,7 @@
   },
   {
     "id": "trig.adv.inverse",
-    "label": "Inverse trig functions",
+    "label": "Funções trigonométricas inversas",
     "domain": "trigonometry",
     "subdomain": "trigonometry.advanced",
     "grading_type": "multiple_choice",
@@ -180,7 +180,7 @@
   },
   {
     "id": "trig.adv.law_sines",
-    "label": "Law of sines",
+    "label": "Lei dos senos",
     "domain": "trigonometry",
     "subdomain": "trigonometry.advanced",
     "grading_type": "numeric",
@@ -195,7 +195,7 @@
   },
   {
     "id": "trig.adv.law_cosines",
-    "label": "Law of cosines",
+    "label": "Lei dos cossenos",
     "domain": "trigonometry",
     "subdomain": "trigonometry.advanced",
     "grading_type": "numeric",
@@ -210,7 +210,7 @@
   },
   {
     "id": "trig.adv.arctan",
-    "label": "Arctangent and arccotangent functions",
+    "label": "Funções Arcotangentes e Arcotangentes",
     "domain": "trigonometry",
     "subdomain": "trigonometry.advanced",
     "grading_type": "symbolic",
@@ -224,7 +224,7 @@
   },
   {
     "id": "trig.hyperbolic.sinh_cosh",
-    "label": "Hyperbolic sine and cosine functions",
+    "label": "Funções hiperbólicas de seno e cosseno",
     "domain": "trigonometry",
     "subdomain": "trigonometry.hyperbolic",
     "grading_type": "symbolic",
@@ -238,7 +238,7 @@
   },
   {
     "id": "trig.hyperbolic.tanh_coth",
-    "label": "Hyperbolic tangent and cotangent functions",
+    "label": "Funções tangentes e cotangentes hiperbólicas",
     "domain": "trigonometry",
     "subdomain": "trigonometry.hyperbolic",
     "grading_type": "symbolic",
@@ -252,7 +252,7 @@
   },
   {
     "id": "trig.basics.right_triangle",
-    "label": "Right triangle trigonometry",
+    "label": "Trigonometria do triângulo retângulo",
     "domain": "trigonometry",
     "subdomain": "trigonometry.basics",
     "grading_type": "symbolic",
@@ -266,7 +266,7 @@
   },
   {
     "id": "trig.ident.identities",
-    "label": "Trigonometric identities",
+    "label": "Identidades trigonométricas",
     "domain": "trigonometry",
     "subdomain": "trigonometry.identities",
     "grading_type": "symbolic",
@@ -280,7 +280,7 @@
   },
   {
     "id": "trig.eq.basic",
-    "label": "Basic trigonometric equations",
+    "label": "Equações trigonométricas básicas",
     "domain": "trigonometry",
     "subdomain": "trigonometry.identities",
     "grading_type": "tuple",
@@ -294,7 +294,7 @@
   },
   {
     "id": "trig.eq.homogeneous",
-    "label": "Homogeneous trigonometric equations",
+    "label": "Equações trigonométricas homogêneas",
     "domain": "trigonometry",
     "subdomain": "trigonometry.identities",
     "grading_type": "tuple",
@@ -308,7 +308,7 @@
   },
   {
     "id": "trig.ineq.basic",
-    "label": "Trigonometric inequalities",
+    "label": "Desigualdades trigonométricas",
     "domain": "trigonometry",
     "subdomain": "trigonometry.identities",
     "grading_type": "symbolic",
@@ -322,7 +322,7 @@
   },
   {
     "id": "trig.func.sine",
-    "label": "Sine function: properties, derivatives, and integrals",
+    "label": "Função seno: propriedades, derivadas e integrais",
     "domain": "trigonometry",
     "subdomain": "trigonometry.functions",
     "grading_type": "numeric",
@@ -337,7 +337,7 @@
   },
   {
     "id": "trig.func.cosine",
-    "label": "Cosine function: properties, derivatives, and integrals",
+    "label": "Função cosseno: propriedades, derivadas e integrais",
     "domain": "trigonometry",
     "subdomain": "trigonometry.functions",
     "grading_type": "numeric",
@@ -351,7 +351,7 @@
   },
   {
     "id": "trig.func.tangent",
-    "label": "Tangent function: asymptotes, derivative, and integral",
+    "label": "Função tangente: assíntotas, derivadas e integrais",
     "domain": "trigonometry",
     "subdomain": "trigonometry.functions",
     "grading_type": "numeric",
@@ -366,7 +366,7 @@
   },
   {
     "id": "trig.func.cotangent",
-    "label": "Cotangent function: asymptotes, derivative, and integral",
+    "label": "Função cotangente: assíntotas, derivadas e integrais",
     "domain": "trigonometry",
     "subdomain": "trigonometry.functions",
     "grading_type": "numeric",
@@ -380,7 +380,7 @@
   },
   {
     "id": "trig.func.secant",
-    "label": "Secant function: reciprocal properties and calculus",
+    "label": "Função secante: propriedades recíprocas e cálculo",
     "domain": "trigonometry",
     "subdomain": "trigonometry.functions",
     "grading_type": "numeric",
@@ -395,7 +395,7 @@
   },
   {
     "id": "trig.func.cosecant",
-    "label": "Cosecant function: reciprocal properties and calculus",
+    "label": "Função cossecante: propriedades recíprocas e cálculo",
     "domain": "trigonometry",
     "subdomain": "trigonometry.functions",
     "grading_type": "numeric",
@@ -410,7 +410,7 @@
   },
   {
     "id": "trig.func.arcsine",
-    "label": "Arcsine function: inverse properties and calculus",
+    "label": "Função arcsina: propriedades inversas e cálculo",
     "domain": "trigonometry",
     "subdomain": "trigonometry.functions",
     "grading_type": "multiple_choice",
@@ -425,7 +425,7 @@
   },
   {
     "id": "trig.func.arccosine",
-    "label": "Arccosine function: inverse properties and calculus",
+    "label": "Função arco-cosseno: propriedades inversas e cálculo",
     "domain": "trigonometry",
     "subdomain": "trigonometry.functions",
     "grading_type": "multiple_choice",
@@ -439,7 +439,7 @@
   },
   {
     "id": "trig.func.arctangent",
-    "label": "Arctangent function: asymptotes and calculus",
+    "label": "Função Arctangente: assíntotas e cálculo",
     "domain": "trigonometry",
     "subdomain": "trigonometry.functions",
     "grading_type": "multiple_choice",
@@ -454,7 +454,7 @@
   },
   {
     "id": "trig.func.arccotangent",
-    "label": "Arccotangent function: asymptotes and calculus",
+    "label": "Função arqueotangente: assíntotas e cálculo",
     "domain": "trigonometry",
     "subdomain": "trigonometry.functions",
     "grading_type": "multiple_choice",
@@ -468,7 +468,7 @@
   },
   {
     "id": "trig.basics.coterminal",
-    "label": "Coterminal angles",
+    "label": "Ângulos coterminais",
     "domain": "trigonometry",
     "subdomain": "trigonometry.basics",
     "grading_type": "numeric",
@@ -482,7 +482,7 @@
   },
   {
     "id": "trig.basics.quadrant",
-    "label": "Quadrant of an angle",
+    "label": "Quadrante de um ângulo",
     "domain": "trigonometry",
     "subdomain": "trigonometry.basics",
     "grading_type": "numeric",
@@ -496,7 +496,7 @@
   },
   {
     "id": "trig.basics.arc_length",
-    "label": "Arc length",
+    "label": "Comprimento de arco.",
     "domain": "trigonometry",
     "subdomain": "trigonometry.basics",
     "grading_type": "numeric",
@@ -510,7 +510,7 @@
   },
   {
     "id": "trig.basics.sector_area",
-    "label": "Sector area",
+    "label": "SETOR/ÁREA",
     "domain": "trigonometry",
     "subdomain": "trigonometry.basics",
     "grading_type": "numeric",
@@ -524,7 +524,7 @@
   },
   {
     "id": "trig.ident.double_angle",
-    "label": "The double-angle formula",
+    "label": "A fórmula de ângulo duplo",
     "domain": "trigonometry",
     "subdomain": "trigonometry.identities",
     "grading_type": "numeric",
@@ -538,7 +538,7 @@
   },
   {
     "id": "trig.ident.cofunction",
-    "label": "Cofunction identities",
+    "label": "Identidades de cofunção",
     "domain": "trigonometry",
     "subdomain": "trigonometry.identities",
     "grading_type": "numeric",
@@ -552,7 +552,7 @@
   },
   {
     "id": "trig.adv.heron_area",
-    "label": "Area from three sides",
+    "label": "Área de três lados",
     "domain": "trigonometry",
     "subdomain": "trigonometry.advanced",
     "grading_type": "numeric",
@@ -566,7 +566,7 @@
   },
   {
     "id": "trig.graph.amplitude",
-    "label": "Amplitude of a graph",
+    "label": "Amplitude de um gráfico",
     "domain": "trigonometry",
     "subdomain": "trigonometry.graphs",
     "grading_type": "numeric",
@@ -580,7 +580,7 @@
   },
   {
     "id": "trig.ident.sum_diff",
-    "label": "Sum and difference formulas",
+    "label": "Fórmulas de soma e diferença",
     "domain": "trigonometry",
     "subdomain": "trigonometry.identities",
     "grading_type": "numeric",
@@ -594,7 +594,7 @@
   },
   {
     "id": "trig.ident.half_angle",
-    "label": "Half-angle formulas",
+    "label": "Fórmulas de meio ângulo",
     "domain": "trigonometry",
     "subdomain": "trigonometry.identities",
     "grading_type": "numeric",
@@ -608,7 +608,7 @@
   },
   {
     "id": "trig.eq.quadratic",
-    "label": "Quadratic trigonometric equations",
+    "label": "Equações trigonométricas quadráticas",
     "domain": "trigonometry",
     "subdomain": "trigonometry.identities",
     "grading_type": "numeric",
@@ -622,7 +622,7 @@
   },
   {
     "id": "trig.adv.ambiguous_case",
-    "label": "The ambiguous case",
+    "label": "O caso ambíguo",
     "domain": "trigonometry",
     "subdomain": "trigonometry.advanced",
     "grading_type": "numeric",
@@ -636,7 +636,7 @@
   },
   {
     "id": "trig.adv.area_sas",
-    "label": "Area from two sides and an included angle",
+    "label": "Área de dois lados e um ângulo incluído",
     "domain": "trigonometry",
     "subdomain": "trigonometry.advanced",
     "grading_type": "numeric",
@@ -650,7 +650,7 @@
   },
   {
     "id": "trig.adv.vector_magnitude",
-    "label": "Magnitude of a vector",
+    "label": "Magnitude de um vector",
     "domain": "trigonometry",
     "subdomain": "trigonometry.advanced",
     "grading_type": "numeric",
@@ -664,7 +664,7 @@
   },
   {
     "id": "trig.adv.vector_dot",
-    "label": "Dot product",
+    "label": "Produto escalar",
     "domain": "trigonometry",
     "subdomain": "trigonometry.advanced",
     "grading_type": "numeric",
@@ -678,7 +678,7 @@
   },
   {
     "id": "trig.graph.phase_shift",
-    "label": "Phase shift",
+    "label": "Desvio de fase",
     "domain": "trigonometry",
     "subdomain": "trigonometry.graphs",
     "grading_type": "numeric",
@@ -692,7 +692,7 @@
   },
   {
     "id": "trig.basics.periodicity",
-    "label": "Periodicity of trigonometric functions",
+    "label": "Periodicidade das funções trigonométricas",
     "domain": "trigonometry",
     "subdomain": "trigonometry.basics",
     "grading_type": "numeric",
@@ -707,7 +707,7 @@
   },
   {
     "id": "trig.basics.angular_velocity",
-    "label": "Angular velocity and linear speed",
+    "label": "Velocidade angular e velocidade linear",
     "domain": "trigonometry",
     "subdomain": "trigonometry.basics",
     "grading_type": "numeric",
@@ -722,7 +722,7 @@
   },
   {
     "id": "trig.basics.bearings",
-    "label": "Bearings and navigation",
+    "label": "Rolamentos e navegação",
     "domain": "trigonometry",
     "subdomain": "trigonometry.basics",
     "grading_type": "numeric",
@@ -737,7 +737,7 @@
   },
   {
     "id": "trig.ident.product_to_sum",
-    "label": "Product-to-sum formulas",
+    "label": "Fórmulas de produto para soma",
     "domain": "trigonometry",
     "subdomain": "trigonometry.identities",
     "grading_type": "multiple_choice",
@@ -752,7 +752,7 @@
   },
   {
     "id": "trig.ident.sum_to_product",
-    "label": "Sum-to-product formulas",
+    "label": "Fórmulas soma-a-produto",
     "domain": "trigonometry",
     "subdomain": "trigonometry.identities",
     "grading_type": "multiple_choice",
@@ -767,7 +767,7 @@
   },
   {
     "id": "trig.ident.triple_angle",
-    "label": "Triple-angle formulas",
+    "label": "Fórmulas de ângulo triplo",
     "domain": "trigonometry",
     "subdomain": "trigonometry.identities",
     "grading_type": "numeric",
@@ -782,7 +782,7 @@
   },
   {
     "id": "trig.ident.power_reduction",
-    "label": "Power-reduction formulas",
+    "label": "Fórmulas de redução de energia",
     "domain": "trigonometry",
     "subdomain": "trigonometry.identities",
     "grading_type": "numeric",
@@ -797,7 +797,7 @@
   },
   {
     "id": "trig.ident.pythagorean_variants",
-    "label": "Variants of the Pythagorean identity",
+    "label": "Variantes da identidade pitagórica",
     "domain": "trigonometry",
     "subdomain": "trigonometry.identities",
     "grading_type": "multiple_choice",
@@ -812,7 +812,7 @@
   },
   {
     "id": "trig.eq.general_solution",
-    "label": "General solutions of trigonometric equations",
+    "label": "Soluções gerais de equações trigonométricas",
     "domain": "trigonometry",
     "subdomain": "trigonometry.identities",
     "grading_type": "multiple_choice",
@@ -827,7 +827,7 @@
   },
   {
     "id": "trig.eq.linear",
-    "label": "Linear trigonometric equations",
+    "label": "Equações trigonométricas lineares",
     "domain": "trigonometry",
     "subdomain": "trigonometry.identities",
     "grading_type": "numeric",
@@ -842,7 +842,7 @@
   },
   {
     "id": "trig.ineq.advanced",
-    "label": "Trigonometric inequalities on an interval",
+    "label": "Desigualdades trigonométricas num intervalo",
     "domain": "trigonometry",
     "subdomain": "trigonometry.identities",
     "grading_type": "multiple_choice",
@@ -857,7 +857,7 @@
   },
   {
     "id": "trig.graph.tan",
-    "label": "Graph of the tangent function",
+    "label": "Gráfico da função tangente",
     "domain": "trigonometry",
     "subdomain": "trigonometry.graphs",
     "grading_type": "multiple_choice",
@@ -872,7 +872,7 @@
   },
   {
     "id": "trig.graph.transformations",
-    "label": "Transformations of sinusoidal graphs",
+    "label": "Transformações de grafos sinusoidais",
     "domain": "trigonometry",
     "subdomain": "trigonometry.graphs",
     "grading_type": "multiple_choice",
@@ -887,7 +887,7 @@
   },
   {
     "id": "trig.graph.inverse",
-    "label": "Graphs of inverse trigonometric functions",
+    "label": "Gráficos de funções trigonométricas inversas",
     "domain": "trigonometry",
     "subdomain": "trigonometry.graphs",
     "grading_type": "multiple_choice",
@@ -902,7 +902,7 @@
   },
   {
     "id": "trig.graph.reciprocal",
-    "label": "Graphs of the reciprocal trigonometric functions",
+    "label": "Gráficos das funções trigonométricas recíprocas",
     "domain": "trigonometry",
     "subdomain": "trigonometry.graphs",
     "grading_type": "multiple_choice",
@@ -917,7 +917,7 @@
   },
   {
     "id": "trig.hyperbolic.identities",
-    "label": "Hyperbolic identities",
+    "label": "Identidades hiperbólicas",
     "domain": "trigonometry",
     "subdomain": "trigonometry.hyperbolic",
     "grading_type": "multiple_choice",
@@ -932,7 +932,7 @@
   },
   {
     "id": "trig.hyperbolic.inverse",
-    "label": "Inverse hyperbolic functions",
+    "label": "Funções hiperbólicas inversas",
     "domain": "trigonometry",
     "subdomain": "trigonometry.hyperbolic",
     "grading_type": "numeric",
@@ -947,7 +947,7 @@
   },
   {
     "id": "trig.hyperbolic.derivative",
-    "label": "Derivatives of hyperbolic functions",
+    "label": "Derivadas de funções hiperbólicas",
     "domain": "trigonometry",
     "subdomain": "trigonometry.hyperbolic",
     "grading_type": "multiple_choice",
@@ -962,7 +962,7 @@
   },
   {
     "id": "trig.adv.polar",
-    "label": "Polar coordinates",
+    "label": "Coordenadas polares.",
     "domain": "trigonometry",
     "subdomain": "trigonometry.advanced",
     "grading_type": "numeric",
@@ -977,7 +977,7 @@
   },
   {
     "id": "trig.adv.vector_projection",
-    "label": "Scalar projection of a vector",
+    "label": "Projeção escalar de um vetor",
     "domain": "trigonometry",
     "subdomain": "trigonometry.advanced",
     "grading_type": "numeric",

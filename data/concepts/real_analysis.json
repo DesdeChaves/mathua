@@ -1,7 +1,7 @@
 [
   {
     "id": "ra.order.supremum",
-    "label": "Supremum and infimum",
+    "label": "Supremum e Infimum",
     "domain": "real_analysis",
     "subdomain": "real_analysis.order",
     "grading_type": "numeric",
@@ -15,7 +15,7 @@
   },
   {
     "id": "ra.order.completeness",
-    "label": "The completeness axiom",
+    "label": "O axioma da completude",
     "domain": "real_analysis",
     "subdomain": "real_analysis.order",
     "grading_type": "multiple_choice",
@@ -29,7 +29,7 @@
   },
   {
     "id": "ra.order.archimedean",
-    "label": "The Archimedean property",
+    "label": "A propriedade de Arquimedes",
     "domain": "real_analysis",
     "subdomain": "real_analysis.order",
     "grading_type": "numeric",
@@ -43,7 +43,7 @@
   },
   {
     "id": "ra.order.nested_intervals",
-    "label": "Nested intervals",
+    "label": "Intervalos aninhados",
     "domain": "real_analysis",
     "subdomain": "real_analysis.order",
     "grading_type": "multiple_choice",
@@ -57,7 +57,7 @@
   },
   {
     "id": "ra.order.density",
-    "label": "Density of the rationals",
+    "label": "Densidade dos racionais",
     "domain": "real_analysis",
     "subdomain": "real_analysis.order",
     "grading_type": "multiple_choice",
@@ -71,7 +71,7 @@
   },
   {
     "id": "ra.order.countable",
-    "label": "Countable sets",
+    "label": "Conjuntos contáveis",
     "domain": "real_analysis",
     "subdomain": "real_analysis.order",
     "grading_type": "multiple_choice",
@@ -85,7 +85,7 @@
   },
   {
     "id": "ra.order.uncountable",
-    "label": "The uncountability of the reals",
+    "label": "A incontabilidade dos reais",
     "domain": "real_analysis",
     "subdomain": "real_analysis.order",
     "grading_type": "multiple_choice",
@@ -99,7 +99,7 @@
   },
   {
     "id": "ra.order.extended",
-    "label": "The extended real line",
+    "label": "A linha real estendida",
     "domain": "real_analysis",
     "subdomain": "real_analysis.order",
     "grading_type": "multiple_choice",
@@ -113,7 +113,7 @@
   },
   {
     "id": "ra.seq.convergence",
-    "label": "Convergence of sequences",
+    "label": "Convergência de sequências",
     "domain": "real_analysis",
     "subdomain": "real_analysis.seq",
     "grading_type": "numeric",
@@ -127,7 +127,7 @@
   },
   {
     "id": "ra.seq.monotone",
-    "label": "Monotone convergence",
+    "label": "Convergência monótona",
     "domain": "real_analysis",
     "subdomain": "real_analysis.seq",
     "grading_type": "numeric",
@@ -142,7 +142,7 @@
   },
   {
     "id": "ra.seq.subsequence",
-    "label": "Subsequences",
+    "label": "Subsequências",
     "domain": "real_analysis",
     "subdomain": "real_analysis.seq",
     "grading_type": "multiple_choice",
@@ -156,7 +156,7 @@
   },
   {
     "id": "ra.seq.bolzano_weierstrass",
-    "label": "The Bolzano-Weierstrass theorem",
+    "label": "O teorema de Bolzano-Weierstrass",
     "domain": "real_analysis",
     "subdomain": "real_analysis.seq",
     "grading_type": "multiple_choice",

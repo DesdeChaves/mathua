@@ -1,7 +1,7 @@
 [
   {
     "id": "nt.basics.divisibility",
-    "label": "Divisibility rules",
+    "label": "Regras de divisibilidade",
     "domain": "number_theory",
     "subdomain": "number_theory.basics",
     "grading_type": "multiple_choice",
@@ -15,7 +15,7 @@
   },
   {
     "id": "nt.basics.gcd_euclidean",
-    "label": "Euclidean algorithm for GCD",
+    "label": "Algoritmo euclidiano para GCD",
     "domain": "number_theory",
     "subdomain": "number_theory.basics",
     "grading_type": "numeric",
@@ -30,7 +30,7 @@
   },
   {
     "id": "nt.basics.modular",
-    "label": "Modular arithmetic",
+    "label": "Aritmética modular",
     "domain": "number_theory",
     "subdomain": "number_theory.basics",
     "grading_type": "numeric",
@@ -45,7 +45,7 @@
   },
   {
     "id": "nt.basics.congruence",
-    "label": "Congruence relations",
+    "label": "Relações de congruência",
     "domain": "number_theory",
     "subdomain": "number_theory.basics",
     "grading_type": "multiple_choice",
@@ -59,7 +59,7 @@
   },
   {
     "id": "nt.adv.fermat_little",
-    "label": "Fermat's little theorem",
+    "label": "Pequeno teorema de Fermat",
     "domain": "number_theory",
     "subdomain": "number_theory.advanced",
     "grading_type": "numeric",
@@ -74,7 +74,7 @@
   },
   {
     "id": "nt.adv.euler_phi",
-    "label": "Euler's totient function",
+    "label": "Função totient de Euler",
     "domain": "number_theory",
     "subdomain": "number_theory.advanced",
     "grading_type": "numeric",
@@ -89,7 +89,7 @@
   },
   {
     "id": "nt.adv.diophantine",
-    "label": "Linear Diophantine equations",
+    "label": "Equações diofantinas lineares",
     "domain": "number_theory",
     "subdomain": "number_theory.advanced",
     "grading_type": "multiple_choice",
@@ -104,7 +104,7 @@
   },
   {
     "id": "nt.app.crypto",
-    "label": "Introduction to RSA cryptography",
+    "label": "Introdução à criptografia RSA",
     "domain": "number_theory",
     "subdomain": "number_theory.applications",
     "grading_type": "numeric",
@@ -118,7 +118,7 @@
   },
   {
     "id": "nt.basics.bezout",
-    "label": "B\u00e9zout's identity",
+    "label": "Identidade de Bézout",
     "domain": "number_theory",
     "subdomain": "number_theory.basics",
     "grading_type": "numeric",
@@ -132,7 +132,7 @@
   },
   {
     "id": "nt.basics.crt",
-    "label": "Chinese remainder theorem",
+    "label": "Teorema do resto chinês",
     "domain": "number_theory",
     "subdomain": "number_theory.basics",
     "grading_type": "numeric",
@@ -147,7 +147,7 @@
   },
   {
     "id": "nt.adv.wilson",
-    "label": "Wilson's theorem",
+    "label": "Teorema de Wilson",
     "domain": "number_theory",
     "subdomain": "number_theory.advanced",
     "grading_type": "numeric",
@@ -161,7 +161,7 @@
   },
   {
     "id": "nt.basics.prime_inf",
-    "label": "Infinitude of primes",
+    "label": "Infinitude dos números primos",
     "domain": "number_theory",
     "subdomain": "number_theory.basics",
     "grading_type": "multiple_choice",
@@ -175,7 +175,7 @@
   },
   {
     "id": "nt.adv.legendre",
-    "label": "Legendre symbol",
+    "label": "Símbolo Legendre",
     "domain": "number_theory",
     "subdomain": "number_theory.advanced",
     "grading_type": "numeric",
@@ -189,7 +189,7 @@
   },
   {
     "id": "nt.adv.quadratic_reciprocity",
-    "label": "Quadratic reciprocity",
+    "label": "Reciprocidade quadrática",
     "domain": "number_theory",
     "subdomain": "number_theory.advanced",
     "grading_type": "multiple_choice",
@@ -203,7 +203,7 @@
   },
   {
     "id": "nt.basics.order_mod",
-    "label": "Order modulo n",
+    "label": "Módulo de pedido n",
     "domain": "number_theory",
     "subdomain": "number_theory.basics",
     "grading_type": "numeric",
@@ -217,7 +217,7 @@
   },
   {
     "id": "nt.adv.primitive_root",
-    "label": "Primitive roots",
+    "label": "Raízes primitivas",
     "domain": "number_theory",
     "subdomain": "number_theory.advanced",
     "grading_type": "multiple_choice",
@@ -232,7 +232,7 @@
   },
   {
     "id": "nt.adv.mobius",
-    "label": "M\u00f6bius function and inversion",
+    "label": "Função de Möbius e inversão",
     "domain": "number_theory",
     "subdomain": "number_theory.advanced",
     "grading_type": "numeric",
@@ -246,7 +246,7 @@
   },
   {
     "id": "nt.analytic.prime_number_theorem",
-    "label": "Prime number theorem",
+    "label": "Teorema do número primo",
     "domain": "number_theory",
     "subdomain": "number_theory.analytic",
     "grading_type": "multiple_choice",
@@ -261,7 +261,7 @@
   },
   {
     "id": "nt.adv.dirichlet",
-    "label": "Dirichlet's theorem on arithmetic progressions",
+    "label": "Teorema de Dirichlet sobre progressões aritméticas",
     "domain": "number_theory",
     "subdomain": "number_theory.advanced",
     "grading_type": "multiple_choice",
@@ -276,7 +276,7 @@
   },
   {
     "id": "nt.adv.sieve",
-    "label": "Sieve of Eratosthenes and Brun's sieve",
+    "label": "Peneira de Eratóstenes e peneira de Brun",
     "domain": "number_theory",
     "subdomain": "number_theory.advanced",
     "grading_type": "multiple_choice",
@@ -290,7 +290,7 @@
   },
   {
     "id": "nt.analytic.zeta",
-    "label": "Riemann zeta function",
+    "label": "Função zeta de Riemann",
     "domain": "number_theory",
     "subdomain": "number_theory.analytic",
     "grading_type": "multiple_choice",
@@ -304,7 +304,7 @@
   },
   {
     "id": "nt.adv.chebyshev",
-    "label": "Chebyshev functions",
+    "label": "Funções de Chebyshev",
     "domain": "number_theory",
     "subdomain": "number_theory.advanced",
     "grading_type": "multiple_choice",
@@ -318,7 +318,7 @@
   },
   {
     "id": "nt.adv.elliptic_curve",
-    "label": "Elliptic curves and BSD",
+    "label": "Curvas elípticas e BSD",
     "domain": "number_theory",
     "subdomain": "number_theory.advanced",
     "grading_type": "multiple_choice",
@@ -332,7 +332,7 @@
   },
   {
     "id": "nt.adv.continued_fractions",
-    "label": "Continued fractions",
+    "label": "Frações contínuas",
     "domain": "number_theory",
     "subdomain": "number_theory.advanced",
     "grading_type": "multiple_choice",
@@ -346,7 +346,7 @@
   },
   {
     "id": "nt.adv.class_number",
-    "label": "Class numbers",
+    "label": "Números de classe",
     "domain": "number_theory",
     "subdomain": "number_theory.advanced",
     "grading_type": "multiple_choice",
@@ -360,7 +360,7 @@
   },
   {
     "id": "nt.divisor.count",
-    "label": "Counting divisors",
+    "label": "Contagem de divisores",
     "domain": "number_theory",
     "subdomain": "number_theory.basics",
     "grading_type": "numeric",
@@ -374,7 +374,7 @@
   },
   {
     "id": "nt.divisor.sum",
-    "label": "The sum of the divisors",
+    "label": "A soma dos divisores",
     "domain": "number_theory",
     "subdomain": "number_theory.basics",
     "grading_type": "numeric",
@@ -388,7 +388,7 @@
   },
   {
     "id": "nt.prime.exponent",
-    "label": "The exponent of a prime in a factorial",
+    "label": "O expoente de um primo num fatorial",
     "domain": "number_theory",
     "subdomain": "number_theory.advanced",
     "grading_type": "numeric",
@@ -402,7 +402,7 @@
   },
   {
     "id": "nt.congruence.linear",
-    "label": "Linear congruences",
+    "label": "Congruências lineares",
     "domain": "number_theory",
     "subdomain": "number_theory.basics",
     "grading_type": "numeric",
@@ -416,7 +416,7 @@
   },
   {
     "id": "nt.pythagorean.hypotenuse",
-    "label": "Primitive Pythagorean triples",
+    "label": "Triplos pitagóricos primitivos",
     "domain": "number_theory",
     "subdomain": "number_theory.advanced",
     "grading_type": "numeric",
@@ -430,7 +430,7 @@
   },
   {
     "id": "nt.residue.count",
-    "label": "Quadratic residues",
+    "label": "Resíduos quadráticos",
     "domain": "number_theory",
     "subdomain": "number_theory.advanced",
     "grading_type": "numeric",
@@ -444,7 +444,7 @@
   },
   {
     "id": "nt.base.convert",
-    "label": "Writing a number in another base",
+    "label": "Escrever um número noutra base",
     "domain": "number_theory",
     "subdomain": "number_theory.basics",
     "grading_type": "numeric",
@@ -458,7 +458,7 @@
   },
   {
     "id": "nt.adv.jacobi",
-    "label": "The Jacobi symbol",
+    "label": "O símbolo Jacobi",
     "domain": "number_theory",
     "subdomain": "number_theory.advanced",
     "grading_type": "numeric",
@@ -472,7 +472,7 @@
   },
   {
     "id": "nt.adv.discrete_log",
-    "label": "Discrete logarithms",
+    "label": "Logaritmos discretos",
     "domain": "number_theory",
     "subdomain": "number_theory.advanced",
     "grading_type": "numeric",
@@ -486,7 +486,7 @@
   },
   {
     "id": "nt.adv.modular_sqrt",
-    "label": "Square roots modulo a prime",
+    "label": "Raízes quadradas modulo a prime",
     "domain": "number_theory",
     "subdomain": "number_theory.advanced",
     "grading_type": "numeric",
@@ -500,7 +500,7 @@
   },
   {
     "id": "nt.adv.two_squares",
-    "label": "Sums of two squares",
+    "label": "soma dos quadrados",
     "domain": "number_theory",
     "subdomain": "number_theory.advanced",
     "grading_type": "numeric",
@@ -514,7 +514,7 @@
   },
   {
     "id": "nt.adv.pell",
-    "label": "Pell's equation",
+    "label": "Equação de Pell",
     "domain": "number_theory",
     "subdomain": "number_theory.advanced",
     "grading_type": "numeric",
@@ -528,7 +528,7 @@
   },
   {
     "id": "nt.adv.pisano",
-    "label": "Pisano periods",
+    "label": "Períodos de Pisano",
     "domain": "number_theory",
     "subdomain": "number_theory.advanced",
     "grading_type": "numeric",
@@ -542,7 +542,7 @@
   },
   {
     "id": "nt.adv.carmichael_function",
-    "label": "The Carmichael function",
+    "label": "A função Carmichael",
     "domain": "number_theory",
     "subdomain": "number_theory.advanced",
     "grading_type": "numeric",
@@ -556,7 +556,7 @@
   },
   {
     "id": "nt.adv.miller_rabin",
-    "label": "The Miller-Rabin test",
+    "label": "O teste de Miller-Rabin",
     "domain": "number_theory",
     "subdomain": "number_theory.advanced",
     "grading_type": "multiple_choice",
@@ -570,7 +570,7 @@
   },
   {
     "id": "nt.adv.prime_gap",
-    "label": "Prime gaps and the next prime",
+    "label": "Lacunas prime e o próximo prime",
     "domain": "number_theory",
     "subdomain": "number_theory.advanced",
     "grading_type": "numeric",
@@ -584,7 +584,7 @@
   },
   {
     "id": "nt.adv.bertrand",
-    "label": "Bertrand's postulate",
+    "label": "Postulado de Bertrand",
     "domain": "number_theory",
     "subdomain": "number_theory.advanced",
     "grading_type": "multiple_choice",

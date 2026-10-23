@@ -1,7 +1,7 @@
 [
   {
     "id": "numa.errors.absolute",
-    "label": "Absolute and relative error",
+    "label": "Erro absoluto e relativo",
     "domain": "numerical_analysis",
     "subdomain": "numerical_analysis.errors",
     "grading_type": "numeric",
@@ -13,7 +13,7 @@
   },
   {
     "id": "numa.errors.roundoff",
-    "label": "Floating-point roundoff and machine epsilon",
+    "label": "Roundoff de ponto flutuante e epsilon de máquina",
     "domain": "numerical_analysis",
     "subdomain": "numerical_analysis.errors",
     "grading_type": "multiple_choice",
@@ -27,7 +27,7 @@
   },
   {
     "id": "numa.errors.cancellation",
-    "label": "Catastrophic cancellation",
+    "label": "Cancelamento catastrófico",
     "domain": "numerical_analysis",
     "subdomain": "numerical_analysis.errors",
     "grading_type": "numeric",
@@ -41,7 +41,7 @@
   },
   {
     "id": "numa.errors.conditioning",
-    "label": "The condition number of a problem",
+    "label": "O número da condição de um problema",
     "domain": "numerical_analysis",
     "subdomain": "numerical_analysis.errors",
     "grading_type": "numeric",
@@ -55,7 +55,7 @@
   },
   {
     "id": "numa.errors.stability",
-    "label": "Stability of an algorithm",
+    "label": "Estabilidade de um algoritmo",
     "domain": "numerical_analysis",
     "subdomain": "numerical_analysis.errors",
     "grading_type": "multiple_choice",
@@ -69,7 +69,7 @@
   },
   {
     "id": "numa.errors.taylor",
-    "label": "Taylor truncation error",
+    "label": "Erro de truncamento de Taylor",
     "domain": "numerical_analysis",
     "subdomain": "numerical_analysis.errors",
     "grading_type": "multiple_choice",
@@ -83,7 +83,7 @@
   },
   {
     "id": "numa.roots.bisection",
-    "label": "The bisection method",
+    "label": "Método da biseção.",
     "domain": "numerical_analysis",
     "subdomain": "numerical_analysis.roots",
     "grading_type": "numeric",
@@ -97,7 +97,7 @@
   },
   {
     "id": "numa.roots.fixed_point",
-    "label": "Fixed-point iteration",
+    "label": "Iteração de ponto fixo",
     "domain": "numerical_analysis",
     "subdomain": "numerical_analysis.roots",
     "grading_type": "numeric",
@@ -111,7 +111,7 @@
   },
   {
     "id": "numa.roots.newton",
-    "label": "Newton's method",
+    "label": "Método de Newton",
     "domain": "numerical_analysis",
     "subdomain": "numerical_analysis.roots",
     "grading_type": "numeric",
@@ -126,7 +126,7 @@
   },
   {
     "id": "numa.roots.secant",
-    "label": "The secant method",
+    "label": "Método da secante.",
     "domain": "numerical_analysis",
     "subdomain": "numerical_analysis.roots",
     "grading_type": "numeric",
@@ -140,7 +140,7 @@
   },
   {
     "id": "numa.roots.false_position",
-    "label": "The method of false position",
+    "label": "O método da posição falsa",
     "domain": "numerical_analysis",
     "subdomain": "numerical_analysis.roots",
     "grading_type": "multiple_choice",
@@ -154,7 +154,7 @@
   },
   {
     "id": "numa.roots.order",
-    "label": "Order of convergence",
+    "label": "Ordem de convergência",
     "domain": "numerical_analysis",
     "subdomain": "numerical_analysis.roots",
     "grading_type": "numeric",
@@ -168,7 +168,7 @@
   },
   {
     "id": "numa.roots.multiple",
-    "label": "Multiple roots and modified Newton",
+    "label": "Raízes múltiplas E Newton modificado",
     "domain": "numerical_analysis",
     "subdomain": "numerical_analysis.roots",
     "grading_type": "multiple_choice",
@@ -182,7 +182,7 @@
   },
   {
     "id": "numa.roots.bracketing",
-    "label": "Bracketing versus open methods",
+    "label": "Bracketing versus métodos abertos",
     "domain": "numerical_analysis",
     "subdomain": "numerical_analysis.roots",
     "grading_type": "multiple_choice",
@@ -197,7 +197,7 @@
   },
   {
     "id": "numa.roots.horner",
-    "label": "Horner's method and polynomial roots",
+    "label": "Método de Horner e raízes polinomiais",
     "domain": "numerical_analysis",
     "subdomain": "numerical_analysis.roots",
     "grading_type": "numeric",
@@ -211,7 +211,7 @@
   },
   {
     "id": "numa.interp.lagrange",
-    "label": "Lagrange interpolation",
+    "label": "Interpolação de Lagrange",
     "domain": "numerical_analysis",
     "subdomain": "numerical_analysis.interp",
     "grading_type": "numeric",
@@ -225,7 +225,7 @@
   },
   {
     "id": "numa.interp.divided_differences",
-    "label": "Newton's divided differences",
+    "label": "As diferenças divididas de Newton",
     "domain": "numerical_analysis",
     "subdomain": "numerical_analysis.interp",
     "grading_type": "numeric",
@@ -239,7 +239,7 @@
   },
   {
     "id": "numa.interp.error",
-    "label": "The interpolation error",
+    "label": "O erro de interpolação",
     "domain": "numerical_analysis",
     "subdomain": "numerical_analysis.interp",
     "grading_type": "multiple_choice",
@@ -253,7 +253,7 @@
   },
   {
     "id": "numa.interp.chebyshev",
-    "label": "Chebyshev nodes",
+    "label": "Nódulos de Chebyshev",
     "domain": "numerical_analysis",
     "subdomain": "numerical_analysis.interp",
     "grading_type": "multiple_choice",
@@ -267,7 +267,7 @@
   },
   {
     "id": "numa.interp.splines",
-    "label": "Cubic splines",
+    "label": "Splines cúbicos",
     "domain": "numerical_analysis",
     "subdomain": "numerical_analysis.interp",
     "grading_type": "multiple_choice",
@@ -281,7 +281,7 @@
   },
   {
     "id": "numa.interp.least_squares",
-    "label": "Least squares",
+    "label": "Mínimos quadrados",
     "domain": "numerical_analysis",
     "subdomain": "numerical_analysis.interp",
     "grading_type": "numeric",
@@ -295,7 +295,7 @@
   },
   {
     "id": "numa.interp.normal_equations",
-    "label": "The normal equations",
+    "label": "equações normais",
     "domain": "numerical_analysis",
     "subdomain": "numerical_analysis.interp",
     "grading_type": "numeric",
@@ -309,7 +309,7 @@
   },
   {
     "id": "numa.interp.orthogonal",
-    "label": "Orthogonal polynomials",
+    "label": "Polinómios ortogonais",
     "domain": "numerical_analysis",
     "subdomain": "numerical_analysis.interp",
     "grading_type": "multiple_choice",
@@ -323,7 +323,7 @@
   },
   {
     "id": "numa.interp.extrapolation",
-    "label": "Extrapolation and its dangers",
+    "label": "Extrapolação E seus perigos",
     "domain": "numerical_analysis",
     "subdomain": "numerical_analysis.interp",
     "grading_type": "multiple_choice",
@@ -337,7 +337,7 @@
   },
   {
     "id": "numa.integration.trapezoid",
-    "label": "The trapezoid rule",
+    "label": "A regra do trapézio",
     "domain": "numerical_analysis",
     "subdomain": "numerical_analysis.integration",
     "grading_type": "numeric",
@@ -351,7 +351,7 @@
   },
   {
     "id": "numa.integration.midpoint",
-    "label": "The midpoint rule",
+    "label": "A regra do ponto médio",
     "domain": "numerical_analysis",
     "subdomain": "numerical_analysis.integration",
     "grading_type": "numeric",
@@ -365,7 +365,7 @@
   },
   {
     "id": "numa.integration.simpson",
-    "label": "Simpson's rule",
+    "label": "Regra de Simpson",
     "domain": "numerical_analysis",
     "subdomain": "numerical_analysis.integration",
     "grading_type": "numeric",
@@ -379,7 +379,7 @@
   },
   {
     "id": "numa.integration.composite",
-    "label": "Composite rules",
+    "label": "Regras compostas",
     "domain": "numerical_analysis",
     "subdomain": "numerical_analysis.integration",
     "grading_type": "numeric",
@@ -393,7 +393,7 @@
   },
   {
     "id": "numa.integration.error",
-    "label": "Error bounds for quadrature",
+    "label": "Limites de erro para quadratura",
     "domain": "numerical_analysis",
     "subdomain": "numerical_analysis.integration",
     "grading_type": "multiple_choice",
@@ -407,7 +407,7 @@
   },
   {
     "id": "numa.integration.romberg",
-    "label": "Romberg integration",
+    "label": "Integração Romberg",
     "domain": "numerical_analysis",
     "subdomain": "numerical_analysis.integration",
     "grading_type": "multiple_choice",
@@ -421,7 +421,7 @@
   },
   {
     "id": "numa.integration.gauss",
-    "label": "Gaussian quadrature",
+    "label": "Quadratura de Gauss.",
     "domain": "numerical_analysis",
     "subdomain": "numerical_analysis.integration",
     "grading_type": "numeric",
@@ -435,7 +435,7 @@
   },
   {
     "id": "numa.integration.adaptive",
-    "label": "Adaptive quadrature",
+    "label": "Quadratura adaptativa",
     "domain": "numerical_analysis",
     "subdomain": "numerical_analysis.integration",
     "grading_type": "multiple_choice",
@@ -449,7 +449,7 @@
   },
   {
     "id": "numa.integration.improper",
-    "label": "Integrating to infinity",
+    "label": "Integrando-se ao infinito",
     "domain": "numerical_analysis",
     "subdomain": "numerical_analysis.integration",
     "grading_type": "multiple_choice",
@@ -463,7 +463,7 @@
   },
   {
     "id": "numa.linear.elimination",
-    "label": "Gaussian elimination",
+    "label": "Eliminação gaussiana",
     "domain": "numerical_analysis",
     "subdomain": "numerical_analysis.linear",
     "grading_type": "numeric",
@@ -477,7 +477,7 @@
   },
   {
     "id": "numa.linear.pivoting",
-    "label": "Partial pivoting",
+    "label": "Pivotamento parcial",
     "domain": "numerical_analysis",
     "subdomain": "numerical_analysis.linear",
     "grading_type": "multiple_choice",
@@ -491,7 +491,7 @@
   },
   {
     "id": "numa.linear.lu",
-    "label": "LU factorization",
+    "label": "Factorização LU",
     "domain": "numerical_analysis",
     "subdomain": "numerical_analysis.linear",
     "grading_type": "numeric",
@@ -505,7 +505,7 @@
   },
   {
     "id": "numa.linear.jacobi",
-    "label": "The Jacobi method",
+    "label": "O método Jacobi",
     "domain": "numerical_analysis",
     "subdomain": "numerical_analysis.linear",
     "grading_type": "numeric",
@@ -519,7 +519,7 @@
   },
   {
     "id": "numa.linear.gauss_seidel",
-    "label": "The Gauss-Seidel method",
+    "label": "método de Gauss-Seidel",
     "domain": "numerical_analysis",
     "subdomain": "numerical_analysis.linear",
     "grading_type": "multiple_choice",
@@ -533,7 +533,7 @@
   },
   {
     "id": "numa.linear.power",
-    "label": "The power method",
+    "label": "O método Power",
     "domain": "numerical_analysis",
     "subdomain": "numerical_analysis.linear",
     "grading_type": "numeric",
@@ -547,7 +547,7 @@
   },
   {
     "id": "numa.linear.least_squares_qr",
-    "label": "Least squares by QR",
+    "label": "Mínimos quadrados por QR",
     "domain": "numerical_analysis",
     "subdomain": "numerical_analysis.linear",
     "grading_type": "multiple_choice",
