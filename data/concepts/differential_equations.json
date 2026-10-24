@@ -16,7 +16,7 @@
   },
   {
     "id": "ode.first_order.separable",
-    "label": "Equações diferenciais separáveis",
+    "label": "Separáveis equações diferenciais",
     "domain": "differential_equations",
     "subdomain": "differential_equations.first_order",
     "grading_type": "numeric",
@@ -106,7 +106,7 @@
   },
   {
     "id": "ode.adv.systems",
-    "label": "SISTEMAS DE EQUAÇÕES DIFERENCIAIS.",
+    "label": "DIFERENCIAIS EQUACOES DE SISTEMAS.",
     "domain": "differential_equations",
     "subdomain": "differential_equations.systems",
     "grading_type": "numeric",
@@ -304,7 +304,7 @@
   },
   {
     "id": "ode.boundary_value",
-    "label": "Problemas de valor de limite",
+    "label": "Problema de valor de limite",
     "domain": "differential_equations",
     "subdomain": "differential_equations.boundary",
     "grading_type": "numeric",
