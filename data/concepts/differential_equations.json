@@ -1,0 +1,602 @@
+[
+  {
+    "id": "ode.basics.concept",
+    "label": "O que é uma equação diferencial",
+    "domain": "differential_equations",
+    "subdomain": "differential_equations.basics",
+    "grading_type": "numeric",
+    "prerequisites": [
+      "calc.deriv.concept",
+      "calc.integral.indefinite"
+    ],
+    "mastery_threshold": {
+      "streak": 10,
+      "avg_time_seconds": 15.0
+    }
+  },
+  {
+    "id": "ode.first_order.separable",
+    "label": "Equações diferenciais separáveis",
+    "domain": "differential_equations",
+    "subdomain": "differential_equations.first_order",
+    "grading_type": "numeric",
+    "prerequisites": [
+      "ode.basics.concept",
+      "calc.integral.substitution"
+    ],
+    "mastery_threshold": {
+      "streak": 10,
+      "avg_time_seconds": 25.0
+    }
+  },
+  {
+    "id": "ode.first_order.linear",
+    "label": "ODEs lineares de primeira ordem",
+    "domain": "differential_equations",
+    "subdomain": "differential_equations.first_order",
+    "grading_type": "numeric",
+    "prerequisites": [
+      "ode.first_order.separable",
+      "calc.deriv.exp_log"
+    ],
+    "mastery_threshold": {
+      "streak": 10,
+      "avg_time_seconds": 28.0
+    }
+  },
+  {
+    "id": "ode.first_order.exact",
+    "label": "Equações exatas",
+    "domain": "differential_equations",
+    "subdomain": "differential_equations.first_order",
+    "grading_type": "numeric",
+    "prerequisites": [
+      "ode.first_order.linear",
+      "calc.deriv.implicit"
+    ],
+    "mastery_threshold": {
+      "streak": 10,
+      "avg_time_seconds": 30.0
+    }
+  },
+  {
+    "id": "ode.second_order.homogeneous",
+    "label": "ODEs homogêneas de segunda ordem",
+    "domain": "differential_equations",
+    "subdomain": "differential_equations.second_order",
+    "grading_type": "numeric",
+    "prerequisites": [
+      "ode.first_order.linear",
+      "alg.quad.formula"
+    ],
+    "mastery_threshold": {
+      "streak": 10,
+      "avg_time_seconds": 30.0
+    }
+  },
+  {
+    "id": "ode.second_order.nonhomogeneous",
+    "label": "ODEs de segunda ordem não homogêneas",
+    "domain": "differential_equations",
+    "subdomain": "differential_equations.second_order",
+    "grading_type": "numeric",
+    "prerequisites": [
+      "ode.second_order.homogeneous",
+      "alg.eq.vars_both_sides"
+    ],
+    "mastery_threshold": {
+      "streak": 10,
+      "avg_time_seconds": 35.0
+    }
+  },
+  {
+    "id": "ode.transforms.laplace",
+    "label": "LAPLACE TRANSFORMS",
+    "domain": "differential_equations",
+    "subdomain": "differential_equations.transforms",
+    "grading_type": "numeric",
+    "prerequisites": [
+      "ode.second_order.nonhomogeneous",
+      "calc.integral.parts"
+    ],
+    "mastery_threshold": {
+      "streak": 10,
+      "avg_time_seconds": 35.0
+    }
+  },
+  {
+    "id": "ode.adv.systems",
+    "label": "SISTEMAS DE EQUAÇÕES DIFERENCIAIS.",
+    "domain": "differential_equations",
+    "subdomain": "differential_equations.systems",
+    "grading_type": "numeric",
+    "prerequisites": [
+      "ode.second_order.homogeneous",
+      "linalg.eigen.compute"
+    ],
+    "mastery_threshold": {
+      "streak": 10,
+      "avg_time_seconds": 35.0
+    }
+  },
+  {
+    "id": "ode.second_order.variation_params",
+    "label": "Variação dos Parâmetros<x id=\"1\"/>:",
+    "domain": "differential_equations",
+    "subdomain": "differential_equations.second_order",
+    "grading_type": "numeric",
+    "prerequisites": [
+      "ode.second_order.nonhomogeneous"
+    ],
+    "mastery_threshold": {
+      "streak": 10,
+      "avg_time_seconds": 30.0
+    }
+  },
+  {
+    "id": "ode.transforms.convolution",
+    "label": "Transformadas de Convolução e Laplace",
+    "domain": "differential_equations",
+    "subdomain": "differential_equations.transforms",
+    "grading_type": "numeric",
+    "prerequisites": [
+      "ode.transforms.laplace"
+    ],
+    "mastery_threshold": {
+      "streak": 10,
+      "avg_time_seconds": 28.0
+    }
+  },
+  {
+    "id": "ode.systems.linear_phase",
+    "label": "Sistemas lineares e retratos de fase",
+    "domain": "differential_equations",
+    "subdomain": "differential_equations.systems",
+    "grading_type": "numeric",
+    "prerequisites": [
+      "ode.adv.systems"
+    ],
+    "mastery_threshold": {
+      "streak": 10,
+      "avg_time_seconds": 30.0
+    }
+  },
+  {
+    "id": "ode.numerical.euler",
+    "label": "Método de Euler",
+    "domain": "differential_equations",
+    "subdomain": "differential_equations.numerical",
+    "grading_type": "numeric",
+    "prerequisites": [
+      "ode.first_order.separable"
+    ],
+    "mastery_threshold": {
+      "streak": 10,
+      "avg_time_seconds": 20.0
+    }
+  },
+  {
+    "id": "ode.numerical.rk4",
+    "label": "Método Runge-Kutta de 4ª ordem",
+    "domain": "differential_equations",
+    "subdomain": "differential_equations.numerical",
+    "grading_type": "numeric",
+    "prerequisites": [
+      "ode.numerical.euler"
+    ],
+    "mastery_threshold": {
+      "streak": 10,
+      "avg_time_seconds": 24.0
+    }
+  },
+  {
+    "id": "ode.stability",
+    "label": "Estabilidade dos equilíbrios",
+    "domain": "differential_equations",
+    "subdomain": "differential_equations.stability",
+    "grading_type": "numeric",
+    "prerequisites": [
+      "ode.systems.linear_phase"
+    ],
+    "mastery_threshold": {
+      "streak": 10,
+      "avg_time_seconds": 24.0
+    }
+  },
+  {
+    "id": "ode.pde.characteristics",
+    "label": "PDEs e características de primeira ordem",
+    "domain": "differential_equations",
+    "subdomain": "differential_equations.pde",
+    "grading_type": "numeric",
+    "prerequisites": [
+      "ode.basics.concept",
+      "calc.deriv.partial"
+    ],
+    "mastery_threshold": {
+      "streak": 10,
+      "avg_time_seconds": 26.0
+    }
+  },
+  {
+    "id": "ode.transforms.fourier",
+    "label": "Transformadas de Fourier e ODEs",
+    "domain": "differential_equations",
+    "subdomain": "differential_equations.transforms",
+    "grading_type": "numeric",
+    "prerequisites": [
+      "ode.transforms.convolution"
+    ],
+    "mastery_threshold": {
+      "streak": 10,
+      "avg_time_seconds": 28.0
+    }
+  },
+  {
+    "id": "ode.nonlinear.bifurcation",
+    "label": "Bifurcações em ODEs não lineares",
+    "domain": "differential_equations",
+    "subdomain": "differential_equations.nonlinear",
+    "grading_type": "numeric",
+    "prerequisites": [
+      "ode.stability"
+    ],
+    "mastery_threshold": {
+      "streak": 10,
+      "avg_time_seconds": 26.0
+    }
+  },
+  {
+    "id": "ode.pde.wave",
+    "label": "Equação de onda e solução de d'Alembert",
+    "domain": "differential_equations",
+    "subdomain": "differential_equations.pde",
+    "grading_type": "numeric",
+    "prerequisites": [
+      "ode.pde.characteristics"
+    ],
+    "mastery_threshold": {
+      "streak": 10,
+      "avg_time_seconds": 26.0
+    }
+  },
+  {
+    "id": "ode.pde.heat",
+    "label": "Equação do calor e separação das variáveis",
+    "domain": "differential_equations",
+    "subdomain": "differential_equations.pde",
+    "grading_type": "numeric",
+    "prerequisites": [
+      "ode.pde.wave"
+    ],
+    "mastery_threshold": {
+      "streak": 10,
+      "avg_time_seconds": 28.0
+    }
+  },
+  {
+    "id": "ode.green.function",
+    "label": "Funções de Green",
+    "domain": "differential_equations",
+    "subdomain": "differential_equations.transforms",
+    "grading_type": "numeric",
+    "prerequisites": [
+      "ode.transforms.fourier"
+    ],
+    "mastery_threshold": {
+      "streak": 10,
+      "avg_time_seconds": 26.0
+    }
+  },
+  {
+    "id": "ode.sturm_liouville",
+    "label": "Teoria de Sturm-Liouville",
+    "domain": "differential_equations",
+    "subdomain": "differential_equations.stability",
+    "grading_type": "numeric",
+    "prerequisites": [
+      "ode.transforms.laplace"
+    ],
+    "mastery_threshold": {
+      "streak": 10,
+      "avg_time_seconds": 26.0
+    }
+  },
+  {
+    "id": "ode.boundary_value",
+    "label": "Problemas de valor de limite",
+    "domain": "differential_equations",
+    "subdomain": "differential_equations.boundary",
+    "grading_type": "numeric",
+    "prerequisites": [
+      "ode.sturm_liouville"
+    ],
+    "mastery_threshold": {
+      "streak": 10,
+      "avg_time_seconds": 24.0
+    }
+  },
+  {
+    "id": "ode.nonlinear.lyapunov",
+    "label": "Funções de Lyapunov",
+    "domain": "differential_equations",
+    "subdomain": "differential_equations.nonlinear",
+    "grading_type": "numeric",
+    "prerequisites": [
+      "ode.nonlinear.bifurcation"
+    ],
+    "mastery_threshold": {
+      "streak": 10,
+      "avg_time_seconds": 26.0
+    }
+  },
+  {
+    "id": "ode.pde.laplace_eq",
+    "label": "equação de Laplace",
+    "domain": "differential_equations",
+    "subdomain": "differential_equations.pde",
+    "grading_type": "numeric",
+    "prerequisites": [
+      "ode.pde.heat"
+    ],
+    "mastery_threshold": {
+      "streak": 10,
+      "avg_time_seconds": 24.0
+    }
+  },
+  {
+    "id": "ode.integral.volterra",
+    "label": "Equações integrais de Volterra",
+    "domain": "differential_equations",
+    "subdomain": "differential_equations.integral",
+    "grading_type": "numeric",
+    "prerequisites": [
+      "ode.green.function"
+    ],
+    "mastery_threshold": {
+      "streak": 10,
+      "avg_time_seconds": 26.0
+    }
+  },
+  {
+    "id": "ode.ivp.evaluate",
+    "label": "Resolver um problema de valor inicial",
+    "domain": "differential_equations",
+    "subdomain": "differential_equations.first_order",
+    "grading_type": "numeric",
+    "prerequisites": [
+      "ode.first_order.separable"
+    ],
+    "mastery_threshold": {
+      "streak": 10,
+      "avg_time_seconds": 24.0
+    }
+  },
+  {
+    "id": "ode.characteristic.sum",
+    "label": "The roots of the characteristic equation are",
+    "domain": "differential_equations",
+    "subdomain": "differential_equations.second_order",
+    "grading_type": "numeric",
+    "prerequisites": [
+      "ode.second_order.homogeneous"
+    ],
+    "mastery_threshold": {
+      "streak": 10,
+      "avg_time_seconds": 24.0
+    }
+  },
+  {
+    "id": "ode.equilibrium.nonzero",
+    "label": "Pontos de equilíbrio",
+    "domain": "differential_equations",
+    "subdomain": "differential_equations.stability",
+    "grading_type": "numeric",
+    "prerequisites": [
+      "ode.stability"
+    ],
+    "mastery_threshold": {
+      "streak": 10,
+      "avg_time_seconds": 24.0
+    }
+  },
+  {
+    "id": "ode.wronskian",
+    "label": "The Wronskian",
+    "domain": "differential_equations",
+    "subdomain": "differential_equations.second_order",
+    "grading_type": "numeric",
+    "prerequisites": [
+      "ode.second_order.homogeneous"
+    ],
+    "mastery_threshold": {
+      "streak": 10,
+      "avg_time_seconds": 24.0
+    }
+  },
+  {
+    "id": "ode.numerical.steps",
+    "label": "Passar por um intervalo",
+    "domain": "differential_equations",
+    "subdomain": "differential_equations.numerical",
+    "grading_type": "numeric",
+    "prerequisites": [
+      "ode.numerical.euler"
+    ],
+    "mastery_threshold": {
+      "streak": 10,
+      "avg_time_seconds": 24.0
+    }
+  },
+  {
+    "id": "ode.laplace.value",
+    "label": "Avaliação de uma transformada de Laplace",
+    "domain": "differential_equations",
+    "subdomain": "differential_equations.transforms",
+    "grading_type": "numeric",
+    "prerequisites": [
+      "ode.transforms.laplace"
+    ],
+    "mastery_threshold": {
+      "streak": 10,
+      "avg_time_seconds": 24.0
+    }
+  },
+  {
+    "id": "ode.pde.discriminant",
+    "label": "Classificação de uma PDE de segunda ordem",
+    "domain": "differential_equations",
+    "subdomain": "differential_equations.pde",
+    "grading_type": "numeric",
+    "prerequisites": [
+      "ode.pde.heat"
+    ],
+    "mastery_threshold": {
+      "streak": 10,
+      "avg_time_seconds": 24.0
+    }
+  },
+  {
+    "id": "ode.first_order.bernoulli",
+    "label": "Equações de Bernoulli",
+    "domain": "differential_equations",
+    "subdomain": "differential_equations.first_order",
+    "grading_type": "multiple_choice",
+    "prerequisites": [
+      "ode.first_order.linear"
+    ],
+    "mastery_threshold": {
+      "streak": 10,
+      "avg_time_seconds": 24.0
+    }
+  },
+  {
+    "id": "ode.second_order.cauchy_euler",
+    "label": "Equações de Cauchy-Euler",
+    "domain": "differential_equations",
+    "subdomain": "differential_equations.second_order",
+    "grading_type": "numeric",
+    "prerequisites": [
+      "ode.second_order.homogeneous"
+    ],
+    "mastery_threshold": {
+      "streak": 10,
+      "avg_time_seconds": 24.0
+    }
+  },
+  {
+    "id": "ode.second_order.reduction",
+    "label": "Redução de ordem",
+    "domain": "differential_equations",
+    "subdomain": "differential_equations.second_order",
+    "grading_type": "multiple_choice",
+    "prerequisites": [
+      "ode.second_order.homogeneous",
+      "calc.integral.substitution"
+    ],
+    "mastery_threshold": {
+      "streak": 10,
+      "avg_time_seconds": 24.0
+    }
+  },
+  {
+    "id": "ode.second_order.power_series",
+    "label": "Soluções Power-series",
+    "domain": "differential_equations",
+    "subdomain": "differential_equations.second_order",
+    "grading_type": "numeric",
+    "prerequisites": [
+      "calc.series.power",
+      "ode.second_order.homogeneous"
+    ],
+    "mastery_threshold": {
+      "streak": 10,
+      "avg_time_seconds": 26.0
+    }
+  },
+  {
+    "id": "ode.systems.matrix_exp",
+    "label": "A matriz exponencial",
+    "domain": "differential_equations",
+    "subdomain": "differential_equations.systems",
+    "grading_type": "multiple_choice",
+    "prerequisites": [
+      "ode.adv.systems",
+      "linalg.eigen.diagonalization"
+    ],
+    "mastery_threshold": {
+      "streak": 10,
+      "avg_time_seconds": 28.0
+    }
+  },
+  {
+    "id": "ode.transforms.step",
+    "label": "Passos e impulsos de Heaviside",
+    "domain": "differential_equations",
+    "subdomain": "differential_equations.transforms",
+    "grading_type": "multiple_choice",
+    "prerequisites": [
+      "ode.transforms.laplace"
+    ],
+    "mastery_threshold": {
+      "streak": 10,
+      "avg_time_seconds": 24.0
+    }
+  },
+  {
+    "id": "ode.second_order.spring",
+    "label": "O sistema de massa de mola",
+    "domain": "differential_equations",
+    "subdomain": "differential_equations.second_order",
+    "grading_type": "numeric",
+    "prerequisites": [
+      "ode.second_order.nonhomogeneous"
+    ],
+    "mastery_threshold": {
+      "streak": 10,
+      "avg_time_seconds": 24.0
+    }
+  },
+  {
+    "id": "ode.first_order.mixing",
+    "label": "Problemas de mistura",
+    "domain": "differential_equations",
+    "subdomain": "differential_equations.first_order",
+    "grading_type": "numeric",
+    "prerequisites": [
+      "ode.first_order.linear"
+    ],
+    "mastery_threshold": {
+      "streak": 10,
+      "avg_time_seconds": 24.0
+    }
+  },
+  {
+    "id": "ode.systems.predator_prey",
+    "label": "Sistemas predador-presa",
+    "domain": "differential_equations",
+    "subdomain": "differential_equations.systems",
+    "grading_type": "numeric",
+    "prerequisites": [
+      "ode.adv.systems"
+    ],
+    "mastery_threshold": {
+      "streak": 10,
+      "avg_time_seconds": 26.0
+    }
+  },
+  {
+    "id": "ode.numerical.heun",
+    "label": "O método de Heun",
+    "domain": "differential_equations",
+    "subdomain": "differential_equations.numerical",
+    "grading_type": "numeric",
+    "prerequisites": [
+      "ode.numerical.euler"
+    ],
+    "mastery_threshold": {
+      "streak": 10,
+      "avg_time_seconds": 24.0
+    }
+  }
+]
