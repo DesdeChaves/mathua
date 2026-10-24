@@ -186,7 +186,7 @@
   },
   {
     "id": "ra.seq.series",
-    "label": "Series and partial sums",
+    "label": "Séries e somas parciais",
     "domain": "real_analysis",
     "subdomain": "real_analysis.seq",
     "grading_type": "numeric",
@@ -200,7 +200,7 @@
   },
   {
     "id": "ra.seq.tests",
-    "label": "Comparison and ratio tests",
+    "label": "Testes de comparação e razão",
     "domain": "real_analysis",
     "subdomain": "real_analysis.seq",
     "grading_type": "multiple_choice",
@@ -215,7 +215,7 @@
   },
   {
     "id": "ra.seq.absolute",
-    "label": "Absolute and conditional convergence",
+    "label": "Convergência absoluta e condicional.",
     "domain": "real_analysis",
     "subdomain": "real_analysis.seq",
     "grading_type": "multiple_choice",
@@ -229,7 +229,7 @@
   },
   {
     "id": "ra.seq.rearrangement",
-    "label": "Rearrangement of series",
+    "label": "Rearranjo da série",
     "domain": "real_analysis",
     "subdomain": "real_analysis.seq",
     "grading_type": "multiple_choice",
@@ -243,7 +243,7 @@
   },
   {
     "id": "ra.seq.cauchy_criterion",
-    "label": "The Cauchy criterion for series",
+    "label": "O critério de Cauchy para séries",
     "domain": "real_analysis",
     "subdomain": "real_analysis.seq",
     "grading_type": "multiple_choice",
@@ -257,7 +257,7 @@
   },
   {
     "id": "ra.limit.function",
-    "label": "The limit of a function",
+    "label": "O limite de uma função",
     "domain": "real_analysis",
     "subdomain": "real_analysis.limit",
     "grading_type": "numeric",
@@ -271,7 +271,7 @@
   },
   {
     "id": "ra.limit.sequential",
-    "label": "The sequential criterion",
+    "label": "O critério sequencial",
     "domain": "real_analysis",
     "subdomain": "real_analysis.limit",
     "grading_type": "multiple_choice",
@@ -286,7 +286,7 @@
   },
   {
     "id": "ra.limit.continuity",
-    "label": "Continuity and its algebra",
+    "label": "Continuidade e a sua álgebra",
     "domain": "real_analysis",
     "subdomain": "real_analysis.limit",
     "grading_type": "multiple_choice",
@@ -300,7 +300,7 @@
   },
   {
     "id": "ra.limit.ivt",
-    "label": "The intermediate value theorem",
+    "label": "O teorema do valor intermediário",
     "domain": "real_analysis",
     "subdomain": "real_analysis.limit",
     "grading_type": "multiple_choice",
@@ -314,7 +314,7 @@
   },
   {
     "id": "ra.limit.evt",
-    "label": "The extreme value theorem",
+    "label": "O teorema do valor extremo",
     "domain": "real_analysis",
     "subdomain": "real_analysis.limit",
     "grading_type": "multiple_choice",
@@ -343,7 +343,7 @@
   },
   {
     "id": "ra.limit.compact",
-    "label": "Compactness and Heine-Borel",
+    "label": "Compacidade e Heine-Borel",
     "domain": "real_analysis",
     "subdomain": "real_analysis.limit",
     "grading_type": "multiple_choice",
@@ -371,7 +371,7 @@
   },
   {
     "id": "ra.limit.discontinuity",
-    "label": "Classification of discontinuities",
+    "label": "Classificação das descontinuidades",
     "domain": "real_analysis",
     "subdomain": "real_analysis.limit",
     "grading_type": "multiple_choice",
@@ -399,7 +399,7 @@
   },
   {
     "id": "ra.deriv.mvt",
-    "label": "The mean value theorem",
+    "label": "Teorema do valor médio.",
     "domain": "real_analysis",
     "subdomain": "real_analysis.deriv",
     "grading_type": "numeric",
@@ -413,7 +413,7 @@
   },
   {
     "id": "ra.deriv.chain",
-    "label": "The chain rule",
+    "label": "A regra da cadeia",
     "domain": "real_analysis",
     "subdomain": "real_analysis.deriv",
     "grading_type": "numeric",
@@ -455,7 +455,7 @@
   },
   {
     "id": "ra.deriv.riemann",
-    "label": "The Riemann integral",
+    "label": "A integral de Riemann",
     "domain": "real_analysis",
     "subdomain": "real_analysis.deriv",
     "grading_type": "numeric",
@@ -483,7 +483,7 @@
   },
   {
     "id": "ra.deriv.ftc",
-    "label": "The fundamental theorem of calculus",
+    "label": "O Teorema Fundamental do Cálculo.",
     "domain": "real_analysis",
     "subdomain": "real_analysis.deriv",
     "grading_type": "numeric",
@@ -553,7 +553,7 @@
   },
   {
     "id": "ra.deriv.interchange",
-    "label": "Interchange of limits",
+    "label": "Intercâmbio de limites",
     "domain": "real_analysis",
     "subdomain": "real_analysis.deriv",
     "grading_type": "multiple_choice",
@@ -581,7 +581,7 @@
   },
   {
     "id": "ra.metric.open_closed",
-    "label": "Open and closed sets",
+    "label": "Conjuntos abertos e fechados",
     "domain": "real_analysis",
     "subdomain": "real_analysis.metric",
     "grading_type": "multiple_choice",
@@ -595,7 +595,7 @@
   },
   {
     "id": "ra.metric.closure",
-    "label": "Closure and interior",
+    "label": "Fechamento E interior",
     "domain": "real_analysis",
     "subdomain": "real_analysis.metric",
     "grading_type": "multiple_choice",
@@ -665,7 +665,7 @@
   },
   {
     "id": "ra.metric.contraction",
-    "label": "The contraction mapping principle",
+    "label": "O princípio do mapeamento de contração",
     "domain": "real_analysis",
     "subdomain": "real_analysis.metric",
     "grading_type": "numeric",
