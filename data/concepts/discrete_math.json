@@ -1,7 +1,7 @@
 [
   {
     "id": "discrete.logic.propositions",
-    "label": "Propositional logic: statements and truth values",
+    "label": "Lógica proposicional: afirmações e valores de verdade",
     "domain": "discrete_math",
     "subdomain": "discrete_math.logic",
     "grading_type": "multiple_choice",
@@ -43,7 +43,7 @@
   },
   {
     "id": "discrete.logic.quantifiers",
-    "label": "Quantifiers: universal and existential",
+    "label": "Quantificadores: universal e existencial",
     "domain": "discrete_math",
     "subdomain": "discrete_math.logic",
     "grading_type": "multiple_choice",
@@ -114,7 +114,7 @@
   },
   {
     "id": "discrete.combinatorics.pascal",
-    "label": "Pascal's triangle and binomial theorem",
+    "label": "Triângulo de Pascal e teorema binomial",
     "domain": "discrete_math",
     "subdomain": "discrete_math.combinatorics",
     "grading_type": "multiple_choice",
@@ -129,7 +129,7 @@
   },
   {
     "id": "discrete.graphs.basics",
-    "label": "Graphs: vertices, edges, and degrees",
+    "label": "Gráficos: vértices, arestas e graus",
     "domain": "discrete_math",
     "subdomain": "discrete_math.graph_theory",
     "grading_type": "numeric",
@@ -143,7 +143,7 @@
   },
   {
     "id": "discrete.graphs.paths",
-    "label": "Paths, cycles, and connectivity",
+    "label": "Caminhos, ciclos e conectividade",
     "domain": "discrete_math",
     "subdomain": "discrete_math.graph_theory",
     "grading_type": "multiple_choice",
@@ -157,7 +157,7 @@
   },
   {
     "id": "discrete.graphs.trees",
-    "label": "Trees and spanning trees",
+    "label": "Árvores e árvores extensas",
     "domain": "discrete_math",
     "subdomain": "discrete_math.graph_theory",
     "grading_type": "numeric",
@@ -215,7 +215,7 @@
   },
   {
     "id": "discrete.logic.equivalence",
-    "label": "Logical equivalence, De Morgan and normal forms",
+    "label": "Equivalência lógica, De Morgan e formas normais",
     "domain": "discrete_math",
     "subdomain": "discrete_math.logic",
     "grading_type": "multiple_choice",
@@ -230,7 +230,7 @@
   },
   {
     "id": "discrete.sets.relations",
-    "label": "Relations, functions and partitions",
+    "label": "Relações, funções E partições",
     "domain": "discrete_math",
     "subdomain": "discrete_math.sets",
     "grading_type": "multiple_choice",
@@ -259,7 +259,7 @@
   },
   {
     "id": "discrete.graphs.eulerian",
-    "label": "Eulerian trails, Hamiltonian and coloring",
+    "label": "Trilhas eulerianas, hamiltonianas e coloração",
     "domain": "discrete_math",
     "subdomain": "discrete_math.graph_theory",
     "grading_type": "multiple_choice",
@@ -274,7 +274,7 @@
   },
   {
     "id": "discrete.proof.strong_induction",
-    "label": "Strong induction and well-ordering",
+    "label": "Forte indução e boa ordenação",
     "domain": "discrete_math",
     "subdomain": "discrete_math.proof",
     "grading_type": "multiple_choice",
@@ -289,7 +289,7 @@
   },
   {
     "id": "discrete.combinatorics.stars_bars",
-    "label": "Stars and bars",
+    "label": "Estrelas e bares",
     "domain": "discrete_math",
     "subdomain": "discrete_math.combinatorics",
     "grading_type": "numeric",
@@ -303,7 +303,7 @@
   },
   {
     "id": "discrete.graphs.coloring",
-    "label": "Graph coloring and chromatic number",
+    "label": "Coloração do gráfico e número cromático",
     "domain": "discrete_math",
     "subdomain": "discrete_math.graph_theory",
     "grading_type": "multiple_choice",
@@ -317,7 +317,7 @@
   },
   {
     "id": "discrete.proof.contradiction",
-    "label": "Proof by contradiction",
+    "label": "Prova por contradição",
     "domain": "discrete_math",
     "subdomain": "discrete_math.proof",
     "grading_type": "multiple_choice",
@@ -360,7 +360,7 @@
   },
   {
     "id": "discrete.combinatorics.counting_principle",
-    "label": "The product and sum rules for counting",
+    "label": "As regras de produto e soma para contagem",
     "domain": "discrete_math",
     "subdomain": "discrete_math.combinatorics",
     "grading_type": "numeric",
@@ -390,7 +390,7 @@
   },
   {
     "id": "discrete.combinatorics.multinomial",
-    "label": "Arrangements of a multiset",
+    "label": "Arranjos de um multisset",
     "domain": "discrete_math",
     "subdomain": "discrete_math.combinatorics",
     "grading_type": "numeric",
@@ -463,7 +463,7 @@
   },
   {
     "id": "discrete.combinatorics.double_counting",
-    "label": "Counting the same set two ways",
+    "label": "Contando o mesmo conjunto de duas maneiras",
     "domain": "discrete_math",
     "subdomain": "discrete_math.combinatorics",
     "grading_type": "numeric",
@@ -492,7 +492,7 @@
   },
   {
     "id": "discrete.combinatorics.stirling_second",
-    "label": "Stirling numbers of the second kind",
+    "label": "Números de Stirling do segundo tipo",
     "domain": "discrete_math",
     "subdomain": "discrete_math.combinatorics",
     "grading_type": "numeric",
@@ -520,7 +520,7 @@
   },
   {
     "id": "discrete.combinatorics.compositions",
-    "label": "Compositions of an integer",
+    "label": "Composições de um número inteiro",
     "domain": "discrete_math",
     "subdomain": "discrete_math.combinatorics",
     "grading_type": "numeric",
@@ -562,7 +562,7 @@
   },
   {
     "id": "discrete.logic.inference",
-    "label": "Valid argument forms and fallacies",
+    "label": "Formas de argumento válidas e falácias",
     "domain": "discrete_math",
     "subdomain": "discrete_math.logic",
     "grading_type": "multiple_choice",
@@ -576,7 +576,7 @@
   },
   {
     "id": "discrete.logic.predicates",
-    "label": "Nested quantifiers and their negations",
+    "label": "Quantificadores aninhados e suas negações",
     "domain": "discrete_math",
     "subdomain": "discrete_math.logic",
     "grading_type": "multiple_choice",
@@ -591,7 +591,7 @@
   },
   {
     "id": "discrete.logic.satisfiability",
-    "label": "Tautologies, contradictions and contingencies",
+    "label": "Tautologias, contradições e contingências",
     "domain": "discrete_math",
     "subdomain": "discrete_math.logic",
     "grading_type": "multiple_choice",
@@ -606,7 +606,7 @@
   },
   {
     "id": "discrete.proof.contrapositive",
-    "label": "Proof by contrapositive",
+    "label": "Comprovação por contrapositivo",
     "domain": "discrete_math",
     "subdomain": "discrete_math.proof",
     "grading_type": "multiple_choice",
@@ -650,7 +650,7 @@
   },
   {
     "id": "discrete.sets.powerset",
-    "label": "Power sets and counting subsets",
+    "label": "Conjuntos de potência e subconjuntos de contagem",
     "domain": "discrete_math",
     "subdomain": "discrete_math.sets",
     "grading_type": "numeric",
@@ -665,7 +665,7 @@
   },
   {
     "id": "discrete.sets.partial_order",
-    "label": "Partial orders and comparability",
+    "label": "Pedidos parciais e comparabilidade",
     "domain": "discrete_math",
     "subdomain": "discrete_math.sets",
     "grading_type": "numeric",
@@ -679,7 +679,7 @@
   },
   {
     "id": "discrete.sets.countable",
-    "label": "Countable and uncountable sets",
+    "label": "Conjuntos contáveis e incontáveis",
     "domain": "discrete_math",
     "subdomain": "discrete_math.sets",
     "grading_type": "multiple_choice",
@@ -709,7 +709,7 @@
   },
   {
     "id": "discrete.graphs.bipartite",
-    "label": "Bipartite graphs and matchings",
+    "label": "Gráficos bipartidos e correspondências",
     "domain": "discrete_math",
     "subdomain": "discrete_math.graph_theory",
     "grading_type": "numeric",
@@ -724,7 +724,7 @@
   },
   {
     "id": "discrete.graphs.planar",
-    "label": "Planar graphs and Euler's formula",
+    "label": "Gráficos planares e fórmula de Euler",
     "domain": "discrete_math",
     "subdomain": "discrete_math.graph_theory",
     "grading_type": "numeric",

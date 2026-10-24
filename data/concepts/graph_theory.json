@@ -15,7 +15,7 @@
   },
   {
     "id": "graph.complement",
-    "label": "The complement of a graph",
+    "label": "O complemento de um gráfico",
     "domain": "graph_theory",
     "subdomain": "graph_theory.basics",
     "grading_type": "numeric",
@@ -29,7 +29,7 @@
   },
   {
     "id": "graph.subgraph",
-    "label": "Subgraphs and induced subgraphs",
+    "label": "Subgrafos e subgrafos induzidos",
     "domain": "graph_theory",
     "subdomain": "graph_theory.basics",
     "grading_type": "multiple_choice",
@@ -71,7 +71,7 @@
   },
   {
     "id": "graph.distance",
-    "label": "Distance and diameter",
+    "label": "Distância e diâmetro",
     "domain": "graph_theory",
     "subdomain": "graph_theory.connectivity",
     "grading_type": "numeric",
@@ -113,7 +113,7 @@
   },
   {
     "id": "graph.connectivity",
-    "label": "Vertex and edge connectivity",
+    "label": "Conectividade de vértice e borda",
     "domain": "graph_theory",
     "subdomain": "graph_theory.connectivity",
     "grading_type": "numeric",
@@ -211,7 +211,7 @@
   },
   {
     "id": "graph.chromatic_polynomial",
-    "label": "The chromatic polynomial",
+    "label": "O polinómio cromático",
     "domain": "graph_theory",
     "subdomain": "graph_theory.coloring",
     "grading_type": "numeric",

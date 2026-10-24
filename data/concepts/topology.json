@@ -16,7 +16,7 @@
   },
   {
     "id": "topo.basics.open_closed",
-    "label": "Open and closed sets",
+    "label": "Conjuntos abertos e fechados",
     "domain": "topology",
     "subdomain": "topology.basics",
     "grading_type": "multiple_choice",
@@ -188,7 +188,7 @@
   },
   {
     "id": "topo.homotopy",
-    "label": "Homotopy and fundamental group",
+    "label": "Homotopia e grupo fundamental",
     "domain": "topology",
     "subdomain": "topology.algebraic",
     "grading_type": "multiple_choice",
@@ -274,7 +274,7 @@
   },
   {
     "id": "topo.manifold.orientability",
-    "label": "Orientability of manifolds",
+    "label": "Orientabilidade dos manifolds",
     "domain": "topology",
     "subdomain": "topology.manifolds",
     "grading_type": "multiple_choice",
@@ -330,7 +330,7 @@
   },
   {
     "id": "topo.compactification.stone_cech",
-    "label": "Stone-\u010cech compactification",
+    "label": "Stone-Čech compactification",
     "domain": "topology",
     "subdomain": "topology.compact",
     "grading_type": "multiple_choice",
@@ -448,7 +448,7 @@
   },
   {
     "id": "topo.metric.interior",
-    "label": "Interior, closure and boundary",
+    "label": "Interior, fechamento E limite",
     "domain": "topology",
     "subdomain": "topology.basics",
     "grading_type": "numeric",
@@ -490,7 +490,7 @@
   },
   {
     "id": "topo.metric.complete",
-    "label": "Completeness and Cauchy sequences",
+    "label": "Completude e sequências de Cauchy",
     "domain": "topology",
     "subdomain": "topology.basics",
     "grading_type": "multiple_choice",
@@ -504,7 +504,7 @@
   },
   {
     "id": "topo.metric.basis",
-    "label": "Bases and subbases",
+    "label": "Bases e sub-bases",
     "domain": "topology",
     "subdomain": "topology.constructions",
     "grading_type": "multiple_choice",
@@ -518,7 +518,7 @@
   },
   {
     "id": "topo.metric.subspace",
-    "label": "The subspace topology",
+    "label": "A topologia do subespaço",
     "domain": "topology",
     "subdomain": "topology.constructions",
     "grading_type": "multiple_choice",
@@ -532,7 +532,7 @@
   },
   {
     "id": "topo.metric.dense",
-    "label": "Dense sets and separability",
+    "label": "Conjuntos densos e separabilidade",
     "domain": "topology",
     "subdomain": "topology.constructions",
     "grading_type": "multiple_choice",
@@ -576,7 +576,7 @@
   },
   {
     "id": "topo.invariant.genus",
-    "label": "Genus of a surface",
+    "label": "Género de uma superfície",
     "domain": "topology",
     "subdomain": "topology.invariants",
     "grading_type": "numeric",

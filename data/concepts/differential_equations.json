@@ -106,7 +106,7 @@
   },
   {
     "id": "ode.adv.systems",
-    "label": "Systems of differential equations",
+    "label": "SISTEMAS DE EQUAÇÕES DIFERENCIAIS.",
     "domain": "differential_equations",
     "subdomain": "differential_equations.systems",
     "grading_type": "numeric",
@@ -121,7 +121,7 @@
   },
   {
     "id": "ode.second_order.variation_params",
-    "label": "Variation of parameters",
+    "label": "Variação dos Parâmetros<x id=\"1\"/>:",
     "domain": "differential_equations",
     "subdomain": "differential_equations.second_order",
     "grading_type": "numeric",
@@ -135,7 +135,7 @@
   },
   {
     "id": "ode.transforms.convolution",
-    "label": "Convolution and Laplace transforms",
+    "label": "Transformadas de Convolução e Laplace",
     "domain": "differential_equations",
     "subdomain": "differential_equations.transforms",
     "grading_type": "numeric",
@@ -149,7 +149,7 @@
   },
   {
     "id": "ode.systems.linear_phase",
-    "label": "Linear systems and phase portraits",
+    "label": "Sistemas lineares e retratos de fase",
     "domain": "differential_equations",
     "subdomain": "differential_equations.systems",
     "grading_type": "numeric",
@@ -191,7 +191,7 @@
   },
   {
     "id": "ode.stability",
-    "label": "Stability of equilibria",
+    "label": "Estabilidade dos equilíbrios",
     "domain": "differential_equations",
     "subdomain": "differential_equations.stability",
     "grading_type": "numeric",
@@ -205,7 +205,7 @@
   },
   {
     "id": "ode.pde.characteristics",
-    "label": "First-order PDEs and characteristics",
+    "label": "PDEs e características de primeira ordem",
     "domain": "differential_equations",
     "subdomain": "differential_equations.pde",
     "grading_type": "numeric",
@@ -220,7 +220,7 @@
   },
   {
     "id": "ode.transforms.fourier",
-    "label": "Fourier transforms and ODEs",
+    "label": "Transformadas de Fourier e ODEs",
     "domain": "differential_equations",
     "subdomain": "differential_equations.transforms",
     "grading_type": "numeric",
@@ -248,7 +248,7 @@
   },
   {
     "id": "ode.pde.wave",
-    "label": "Wave equation and d'Alembert solution",
+    "label": "Equação de onda e solução de d'Alembert",
     "domain": "differential_equations",
     "subdomain": "differential_equations.pde",
     "grading_type": "numeric",
@@ -262,7 +262,7 @@
   },
   {
     "id": "ode.pde.heat",
-    "label": "Heat equation and separation of variables",
+    "label": "Equação do calor e separação das variáveis",
     "domain": "differential_equations",
     "subdomain": "differential_equations.pde",
     "grading_type": "numeric",
@@ -357,7 +357,7 @@
       "streak": 10,
       "avg_time_seconds": 26.0
     }
-    },
+  },
   {
     "id": "ode.ivp.evaluate",
     "label": "Solving an initial value problem",
@@ -374,7 +374,7 @@
   },
   {
     "id": "ode.characteristic.sum",
-    "label": "The roots of the characteristic equation",
+    "label": "The roots of the characteristic equation are",
     "domain": "differential_equations",
     "subdomain": "differential_equations.second_order",
     "grading_type": "numeric",
@@ -486,7 +486,7 @@
   },
   {
     "id": "ode.second_order.reduction",
-    "label": "Reduction of order",
+    "label": "Redução de ordem",
     "domain": "differential_equations",
     "subdomain": "differential_equations.second_order",
     "grading_type": "multiple_choice",
@@ -516,7 +516,7 @@
   },
   {
     "id": "ode.systems.matrix_exp",
-    "label": "The matrix exponential",
+    "label": "A matriz exponencial",
     "domain": "differential_equations",
     "subdomain": "differential_equations.systems",
     "grading_type": "multiple_choice",
@@ -531,7 +531,7 @@
   },
   {
     "id": "ode.transforms.step",
-    "label": "Heaviside steps and impulses",
+    "label": "Passos e impulsos de Heaviside",
     "domain": "differential_equations",
     "subdomain": "differential_equations.transforms",
     "grading_type": "multiple_choice",
@@ -545,7 +545,7 @@
   },
   {
     "id": "ode.second_order.spring",
-    "label": "The spring-mass system",
+    "label": "O sistema de massa de mola",
     "domain": "differential_equations",
     "subdomain": "differential_equations.second_order",
     "grading_type": "numeric",

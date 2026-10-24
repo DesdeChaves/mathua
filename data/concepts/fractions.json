@@ -15,7 +15,7 @@
   },
   {
     "id": "frac.basics.parts",
-    "label": "Numerator and denominator",
+    "label": "numerador e denominador",
     "domain": "fractions",
     "subdomain": "fractions.concept",
     "grading_type": "numeric",
@@ -29,7 +29,7 @@
   },
   {
     "id": "frac.basics.number_line",
-    "label": "Fractions on the number line",
+    "label": "Frações na reta numérica",
     "domain": "fractions",
     "subdomain": "fractions.concept",
     "grading_type": "numeric",
@@ -116,7 +116,7 @@
   },
   {
     "id": "frac.add.same",
-    "label": "Add fractions with same denominator",
+    "label": "Adicionar frações com o mesmo denominador",
     "domain": "fractions",
     "subdomain": "fractions.addition",
     "grading_type": "numeric",
@@ -130,7 +130,7 @@
   },
   {
     "id": "frac.add.diff",
-    "label": "Add fractions with different denominators",
+    "label": "Adicionar frações com diferentes denominadores",
     "domain": "fractions",
     "subdomain": "fractions.addition",
     "grading_type": "numeric",
@@ -159,7 +159,7 @@
   },
   {
     "id": "frac.sub.same",
-    "label": "Subtract fractions with same denominator",
+    "label": "Subtrair frações com o mesmo denominador",
     "domain": "fractions",
     "subdomain": "fractions.subtraction",
     "grading_type": "numeric",
@@ -173,7 +173,7 @@
   },
   {
     "id": "frac.sub.diff",
-    "label": "Subtract fractions with different denominators",
+    "label": "Subtrair frações com diferentes denominadores",
     "domain": "fractions",
     "subdomain": "fractions.subtraction",
     "grading_type": "numeric",
@@ -376,7 +376,7 @@
       "streak": 7,
       "avg_time_seconds": 16.0
     }
-    },
+  },
   {
     "id": "frac.reciprocal",
     "label": "Reciprocals",
@@ -393,7 +393,7 @@
   },
   {
     "id": "frac.of_number",
-    "label": "A fraction of a whole number",
+    "label": "Uma fração de um número inteiro",
     "domain": "fractions",
     "subdomain": "fractions.multiplication",
     "grading_type": "numeric",
@@ -421,7 +421,7 @@
   },
   {
     "id": "frac.order_ops",
-    "label": "Order of operations with fractions",
+    "label": "Ordem das operações com frações",
     "domain": "fractions",
     "subdomain": "fractions.concept",
     "grading_type": "numeric",
@@ -461,7 +461,7 @@
       "streak": 7,
       "avg_time_seconds": 16.0
     }
-    },
+  },
   {
     "id": "frac.add.three",
     "label": "Adding three fractions",
@@ -478,7 +478,7 @@
   },
   {
     "id": "frac.of_fraction",
-    "label": "A fraction of a fraction",
+    "label": "Uma fracção de uma fracção",
     "domain": "fractions",
     "subdomain": "fractions.multiplication",
     "grading_type": "numeric",
@@ -492,7 +492,7 @@
   },
   {
     "id": "frac.lcd",
-    "label": "The least common denominator",
+    "label": "O menor denominador comum",
     "domain": "fractions",
     "subdomain": "fractions.equivalence",
     "grading_type": "numeric",
@@ -547,10 +547,10 @@
       "streak": 7,
       "avg_time_seconds": 16.0
     }
-    },
+  },
   {
     "id": "frac.sub.whole",
-    "label": "Subtracting a fraction from a whole number",
+    "label": "Subtrair uma fração de um número inteiro",
     "domain": "fractions",
     "subdomain": "fractions.subtraction",
     "grading_type": "numeric",
@@ -592,7 +592,7 @@
   },
   {
     "id": "frac.of_unit",
-    "label": "Fractions of a unit of measure",
+    "label": "Frações de uma unidade de medida",
     "domain": "fractions",
     "subdomain": "fractions.concept",
     "grading_type": "numeric",
@@ -620,7 +620,7 @@
   },
   {
     "id": "frac.remaining",
-    "label": "The fraction remaining",
+    "label": "A fracção restante",
     "domain": "fractions",
     "subdomain": "fractions.subtraction",
     "grading_type": "numeric",

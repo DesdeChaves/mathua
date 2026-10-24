@@ -15,7 +15,7 @@
   },
   {
     "id": "prob.space.sigma_algebra",
-    "label": "Sigma-algebras and events",
+    "label": "Sigma-álgebras e eventos",
     "domain": "probability_theory",
     "subdomain": "probability_theory.foundations",
     "grading_type": "multiple_choice",
@@ -43,7 +43,7 @@
   },
   {
     "id": "prob.space.continuity",
-    "label": "Continuity of probability",
+    "label": "Continuidade da probabilidade",
     "domain": "probability_theory",
     "subdomain": "probability_theory.foundations",
     "grading_type": "multiple_choice",
@@ -57,7 +57,7 @@
   },
   {
     "id": "prob.cond.multiplication",
-    "label": "The multiplication rule",
+    "label": "regra da multiplicação",
     "domain": "probability_theory",
     "subdomain": "probability_theory.foundations",
     "grading_type": "numeric",
@@ -71,7 +71,7 @@
   },
   {
     "id": "prob.cond.total_probability",
-    "label": "The law of total probability",
+    "label": "lei da probabilidade total",
     "domain": "probability_theory",
     "subdomain": "probability_theory.foundations",
     "grading_type": "numeric",
@@ -85,7 +85,7 @@
   },
   {
     "id": "prob.bayes.prior",
-    "label": "Bayes' theorem with priors",
+    "label": "Teorema de Bayes com antecedentes",
     "domain": "probability_theory",
     "subdomain": "probability_theory.foundations",
     "grading_type": "numeric",
@@ -100,7 +100,7 @@
   },
   {
     "id": "prob.independence.pairwise",
-    "label": "Pairwise and mutual independence",
+    "label": "Em pares e independência mútua",
     "domain": "probability_theory",
     "subdomain": "probability_theory.foundations",
     "grading_type": "multiple_choice",
@@ -128,7 +128,7 @@
   },
   {
     "id": "prob.rv.cdf",
-    "label": "The distribution function",
+    "label": "FUNÇÃO DA DISTRIBUIÇÃO",
     "domain": "probability_theory",
     "subdomain": "probability_theory.random_variables",
     "grading_type": "multiple_choice",
@@ -142,7 +142,7 @@
   },
   {
     "id": "prob.rv.pmf",
-    "label": "The probability mass function",
+    "label": "distribuição de probabilidades",
     "domain": "probability_theory",
     "subdomain": "probability_theory.random_variables",
     "grading_type": "numeric",
@@ -156,7 +156,7 @@
   },
   {
     "id": "prob.rv.pdf",
-    "label": "The probability density function",
+    "label": "função de densidade de probabilidade",
     "domain": "probability_theory",
     "subdomain": "probability_theory.random_variables",
     "grading_type": "numeric",
@@ -184,7 +184,7 @@
   },
   {
     "id": "prob.rv.expectation",
-    "label": "Expectation of a function of a random variable",
+    "label": "Expectativa de uma função de uma variável aleatória",
     "domain": "probability_theory",
     "subdomain": "probability_theory.random_variables",
     "grading_type": "numeric",
@@ -198,7 +198,7 @@
   },
   {
     "id": "prob.rv.variance",
-    "label": "Variance by the second moment",
+    "label": "Variância pelo segundo momento",
     "domain": "probability_theory",
     "subdomain": "probability_theory.random_variables",
     "grading_type": "numeric",
@@ -226,7 +226,7 @@
   },
   {
     "id": "prob.rv.transform",
-    "label": "Transformations of random variables",
+    "label": "Transformações de variáveis aleatórias",
     "domain": "probability_theory",
     "subdomain": "probability_theory.random_variables",
     "grading_type": "numeric",
@@ -254,7 +254,7 @@
   },
   {
     "id": "prob.dist.memoryless",
-    "label": "The memoryless property",
+    "label": "A propriedade sem memória",
     "domain": "probability_theory",
     "subdomain": "probability_theory.distributions",
     "grading_type": "multiple_choice",
@@ -268,7 +268,7 @@
   },
   {
     "id": "prob.dist.poisson_process",
-    "label": "The Poisson process",
+    "label": "processo de Poisson",
     "domain": "probability_theory",
     "subdomain": "probability_theory.distributions",
     "grading_type": "numeric",
@@ -282,7 +282,7 @@
   },
   {
     "id": "prob.dist.exponential_family",
-    "label": "The exponential family",
+    "label": "A família exponencial",
     "domain": "probability_theory",
     "subdomain": "probability_theory.distributions",
     "grading_type": "multiple_choice",
@@ -324,7 +324,7 @@
   },
   {
     "id": "prob.limit.weak_law",
-    "label": "The weak law of large numbers",
+    "label": "A lei fraca dos grandes números",
     "domain": "probability_theory",
     "subdomain": "probability_theory.limits",
     "grading_type": "multiple_choice",
@@ -338,7 +338,7 @@
   },
   {
     "id": "prob.limit.clt",
-    "label": "The central limit theorem",
+    "label": "teorema do limite central",
     "domain": "probability_theory",
     "subdomain": "probability_theory.limits",
     "grading_type": "numeric",
@@ -408,7 +408,7 @@
   },
   {
     "id": "prob.expect.total",
-    "label": "The law of total expectation",
+    "label": "A lei da expectativa total",
     "domain": "probability_theory",
     "subdomain": "probability_theory.joint",
     "grading_type": "numeric",
@@ -422,7 +422,7 @@
   },
   {
     "id": "prob.expect.total_variance",
-    "label": "The law of total variance",
+    "label": "A lei da variância total",
     "domain": "probability_theory",
     "subdomain": "probability_theory.joint",
     "grading_type": "numeric",
@@ -507,7 +507,7 @@
   },
   {
     "id": "prob.conv.strong_law",
-    "label": "The strong law of large numbers",
+    "label": "lei forte dos grandes números",
     "domain": "probability_theory",
     "subdomain": "probability_theory.convergence",
     "grading_type": "multiple_choice",
@@ -521,7 +521,7 @@
   },
   {
     "id": "prob.conv.borel_cantelli",
-    "label": "The Borel-Cantelli lemmas",
+    "label": "princípio de Borel-Cantelli",
     "domain": "probability_theory",
     "subdomain": "probability_theory.convergence",
     "grading_type": "multiple_choice",
@@ -549,7 +549,7 @@
   },
   {
     "id": "prob.conv.delta",
-    "label": "The delta method",
+    "label": "O método delta",
     "domain": "probability_theory",
     "subdomain": "probability_theory.convergence",
     "grading_type": "numeric",
@@ -577,7 +577,7 @@
   },
   {
     "id": "prob.chf.moments",
-    "label": "Moments from the characteristic function",
+    "label": "Momentos da função característica",
     "domain": "probability_theory",
     "subdomain": "probability_theory.characteristic",
     "grading_type": "numeric",
@@ -591,7 +591,7 @@
   },
   {
     "id": "prob.chf.independence",
-    "label": "Characteristic functions of sums",
+    "label": "Funções características das somas",
     "domain": "probability_theory",
     "subdomain": "probability_theory.characteristic",
     "grading_type": "multiple_choice",
@@ -605,7 +605,7 @@
   },
   {
     "id": "prob.chf.continuity",
-    "label": "The continuity theorem",
+    "label": "O teorema da continuidade",
     "domain": "probability_theory",
     "subdomain": "probability_theory.characteristic",
     "grading_type": "multiple_choice",
@@ -619,7 +619,7 @@
   },
   {
     "id": "prob.chf.clt",
-    "label": "The central limit theorem by characteristic functions",
+    "label": "O teorema central do limite por funções características",
     "domain": "probability_theory",
     "subdomain": "probability_theory.characteristic",
     "grading_type": "multiple_choice",

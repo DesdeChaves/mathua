@@ -107,7 +107,7 @@
   },
   {
     "id": "ml.overfitting",
-    "label": "Overfitting and generalization",
+    "label": "Sobreajuste e generalização",
     "domain": "machine_learning",
     "subdomain": "machine_learning.neural_networks",
     "grading_type": "multiple_choice",
@@ -121,7 +121,7 @@
   },
   {
     "id": "ml.validation",
-    "label": "Train/validation split and cross-validation",
+    "label": "Treinamento/divisão de validação e validação cruzada",
     "domain": "machine_learning",
     "subdomain": "machine_learning.neural_networks",
     "grading_type": "numeric",
@@ -135,7 +135,7 @@
   },
   {
     "id": "ml.optim.momentum",
-    "label": "Momentum and Adam optimization",
+    "label": "Otimização de Momentum e Adam",
     "domain": "machine_learning",
     "subdomain": "machine_learning.neural_networks",
     "grading_type": "numeric",
@@ -206,7 +206,7 @@
   },
   {
     "id": "ml.eval.roc",
-    "label": "ROC curves and evaluation metrics",
+    "label": "Curvas ROC e métricas de avaliação",
     "domain": "machine_learning",
     "subdomain": "machine_learning.neural_networks",
     "grading_type": "multiple_choice",
@@ -220,7 +220,7 @@
   },
   {
     "id": "ml.arch.transformer",
-    "label": "Transformers and attention",
+    "label": "Transformadores e atenção",
     "domain": "machine_learning",
     "subdomain": "machine_learning.neural_networks",
     "grading_type": "multiple_choice",
@@ -262,7 +262,7 @@
   },
   {
     "id": "ml.eval.calibration",
-    "label": "Calibration and reliability diagrams",
+    "label": "Diagramas de calibração e confiabilidade",
     "domain": "machine_learning",
     "subdomain": "machine_learning.neural_networks",
     "grading_type": "numeric",
@@ -290,7 +290,7 @@
   },
   {
     "id": "ml.nlp.transformer",
-    "label": "Transformers for NLP",
+    "label": "Transformadores para PNL",
     "domain": "machine_learning",
     "subdomain": "machine_learning.nlp",
     "grading_type": "multiple_choice",
@@ -332,7 +332,7 @@
   },
   {
     "id": "ml.nlp.bert",
-    "label": "BERT and pretraining",
+    "label": "BERT e pré-treinamento",
     "domain": "machine_learning",
     "subdomain": "machine_learning.nlp",
     "grading_type": "multiple_choice",
@@ -360,7 +360,7 @@
   },
   {
     "id": "ml.linreg.least_squares",
-    "label": "The least-squares line",
+    "label": "reta de ajustamento por mínimos quadrados",
     "domain": "machine_learning",
     "subdomain": "machine_learning.regression",
     "grading_type": "numeric",
@@ -374,7 +374,7 @@
   },
   {
     "id": "ml.linreg.predict",
-    "label": "Prediction from a fitted model",
+    "label": "Previsão a partir de um modelo ajustado",
     "domain": "machine_learning",
     "subdomain": "machine_learning.regression",
     "grading_type": "numeric",
@@ -388,7 +388,7 @@
   },
   {
     "id": "ml.reg.ridge_penalty",
-    "label": "The ridge penalty",
+    "label": "A penalidade de crista",
     "domain": "machine_learning",
     "subdomain": "machine_learning.regression",
     "grading_type": "numeric",
@@ -502,7 +502,7 @@
   },
   {
     "id": "ml.grad.vanishing",
-    "label": "Vanishing and exploding gradients",
+    "label": "Gradientes de desaparecimento e explosão",
     "domain": "machine_learning",
     "subdomain": "machine_learning.neural_networks",
     "grading_type": "multiple_choice",
@@ -532,7 +532,7 @@
   },
   {
     "id": "ml.eval.confusion",
-    "label": "The confusion matrix",
+    "label": "A matriz de confusão",
     "domain": "machine_learning",
     "subdomain": "machine_learning.evaluation",
     "grading_type": "numeric",
@@ -547,7 +547,7 @@
   },
   {
     "id": "ml.eval.f1",
-    "label": "The F1 score",
+    "label": "A pontuação F1",
     "domain": "machine_learning",
     "subdomain": "machine_learning.evaluation",
     "grading_type": "numeric",
@@ -637,7 +637,7 @@
   },
   {
     "id": "ml.tree.ensemble",
-    "label": "Bagging and random forests",
+    "label": "Ensacamento e florestas aleatórias",
     "domain": "machine_learning",
     "subdomain": "machine_learning.trees",
     "grading_type": "multiple_choice",

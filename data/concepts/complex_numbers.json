@@ -1,7 +1,7 @@
 [
   {
     "id": "complex.basics.concept",
-    "label": "Imaginary unit i and complex numbers",
+    "label": "Unidade imaginária i e números complexos",
     "domain": "complex_numbers",
     "subdomain": "complex_numbers.basics",
     "grading_type": "complex",
@@ -16,7 +16,7 @@
   },
   {
     "id": "complex.ops.add_sub",
-    "label": "Add and subtract complex numbers",
+    "label": "Adicionar e subtrair números complexos",
     "domain": "complex_numbers",
     "subdomain": "complex_numbers.basics",
     "grading_type": "complex",
@@ -73,7 +73,7 @@
   },
   {
     "id": "complex.adv.polar",
-    "label": "Polar form of complex numbers",
+    "label": "Forma polar dos números complexos",
     "domain": "complex_numbers",
     "subdomain": "complex_numbers.advanced",
     "grading_type": "complex",
@@ -102,7 +102,7 @@
   },
   {
     "id": "complex.adv.roots",
-    "label": "Roots of complex numbers",
+    "label": "Raízes de números complexos",
     "domain": "complex_numbers",
     "subdomain": "complex_numbers.advanced",
     "grading_type": "complex",
@@ -116,7 +116,7 @@
   },
   {
     "id": "complex.adv.exponential",
-    "label": "Exponential form of complex numbers (Euler's formula)",
+    "label": "Forma exponencial dos números complexos (fórmula de Euler)",
     "domain": "complex_numbers",
     "subdomain": "complex_numbers.advanced",
     "grading_type": "symbolic",
@@ -130,7 +130,7 @@
   },
   {
     "id": "complex.adv.logarithm",
-    "label": "Complex logarithm and branches",
+    "label": "Logaritmo complexo e ramificações",
     "domain": "complex_numbers",
     "subdomain": "complex_numbers.advanced",
     "grading_type": "symbolic",
@@ -144,7 +144,7 @@
   },
   {
     "id": "complex.adv.inequalities",
-    "label": "Fundamental inequalities for complex numbers",
+    "label": "Desigualdades fundamentais para números complexos",
     "domain": "complex_numbers",
     "subdomain": "complex_numbers.advanced",
     "grading_type": "symbolic",
@@ -158,7 +158,7 @@
   },
   {
     "id": "complex.ops.modulus",
-    "label": "Modulus of a complex number",
+    "label": "Módulo de um número complexo",
     "domain": "complex_numbers",
     "subdomain": "complex_numbers.basics",
     "grading_type": "numeric",
@@ -172,7 +172,7 @@
   },
   {
     "id": "complex.ops.argument",
-    "label": "Argument of a complex number",
+    "label": "Argumento de um número complexo, C4",
     "domain": "complex_numbers",
     "subdomain": "complex_numbers.basics",
     "grading_type": "numeric",
@@ -216,7 +216,7 @@
   },
   {
     "id": "complex.adv.residue",
-    "label": "Residues and the residue theorem",
+    "label": "Resíduos e o teorema do resíduo",
     "domain": "complex_numbers",
     "subdomain": "complex_numbers.advanced",
     "grading_type": "multiple_choice",
@@ -273,7 +273,7 @@
   },
   {
     "id": "complex.adv.harmonic",
-    "label": "Harmonic functions and mean value",
+    "label": "Funções harmónicas e valor médio",
     "domain": "complex_numbers",
     "subdomain": "complex_numbers.advanced",
     "grading_type": "multiple_choice",
@@ -287,7 +287,7 @@
   },
   {
     "id": "complex.topology.riemann_sphere",
-    "label": "Riemann sphere and stereographic projection",
+    "label": "Esfera de Riemann e projeção estereográfica",
     "domain": "complex_numbers",
     "subdomain": "complex_numbers.topology",
     "grading_type": "multiple_choice",
@@ -330,7 +330,7 @@
   },
   {
     "id": "complex.series.power",
-    "label": "Power series and radius of convergence",
+    "label": "Série de potências e raio de convergência",
     "domain": "complex_numbers",
     "subdomain": "complex_numbers.advanced",
     "grading_type": "multiple_choice",
@@ -373,7 +373,7 @@
   },
   {
     "id": "complex.basics.parts",
-    "label": "Real and imaginary parts",
+    "label": "Partes reais e imaginárias",
     "domain": "complex_numbers",
     "subdomain": "complex_numbers.basics",
     "grading_type": "numeric",
@@ -387,7 +387,7 @@
   },
   {
     "id": "complex.basics.powers",
-    "label": "Powers of complex numbers",
+    "label": "Poderes dos números complexos",
     "domain": "complex_numbers",
     "subdomain": "complex_numbers.basics",
     "grading_type": "complex",
@@ -401,7 +401,7 @@
   },
   {
     "id": "complex.basics.reciprocal",
-    "label": "The reciprocal of a complex number",
+    "label": "O recíproco de um número complexo",
     "domain": "complex_numbers",
     "subdomain": "complex_numbers.basics",
     "grading_type": "complex",
@@ -415,7 +415,7 @@
   },
   {
     "id": "complex.basics.geometry",
-    "label": "Distance in the complex plane",
+    "label": "Distância no plano complexo",
     "domain": "complex_numbers",
     "subdomain": "complex_numbers.basics",
     "grading_type": "numeric",
@@ -429,7 +429,7 @@
   },
   {
     "id": "complex.basics.loci",
-    "label": "Loci in the complex plane",
+    "label": "Loci no plano complexo",
     "domain": "complex_numbers",
     "subdomain": "complex_numbers.basics",
     "grading_type": "multiple_choice",
@@ -459,7 +459,7 @@
   },
   {
     "id": "complex.basics.equations",
-    "label": "Linear equations over the complex numbers",
+    "label": "Equações lineares sobre os números complexos",
     "domain": "complex_numbers",
     "subdomain": "complex_numbers.basics",
     "grading_type": "complex",
@@ -474,7 +474,7 @@
   },
   {
     "id": "complex.adv.conjugate_roots",
-    "label": "Conjugate roots of real polynomials",
+    "label": "Raízes conjugadas de polinômios reais",
     "domain": "complex_numbers",
     "subdomain": "complex_numbers.advanced",
     "grading_type": "multiple_choice",
@@ -489,7 +489,7 @@
   },
   {
     "id": "complex.adv.trig_exponential",
-    "label": "Trigonometric functions from exponentials",
+    "label": "Funções trigonométricas a partir de exponenciais",
     "domain": "complex_numbers",
     "subdomain": "complex_numbers.advanced",
     "grading_type": "multiple_choice",
@@ -533,7 +533,7 @@
   },
   {
     "id": "complex.adv.mobius_fixed",
-    "label": "Fixed points of Moebius transformations",
+    "label": "Pontos fixos das transformações de Moebius",
     "domain": "complex_numbers",
     "subdomain": "complex_numbers.advanced",
     "grading_type": "complex",
@@ -562,7 +562,7 @@
   },
   {
     "id": "complex.adv.cross_ratio",
-    "label": "The cross-ratio",
+    "label": "relação não harmónica",
     "domain": "complex_numbers",
     "subdomain": "complex_numbers.advanced",
     "grading_type": "complex",
@@ -576,7 +576,7 @@
   },
   {
     "id": "complex.topology.open_sets",
-    "label": "Open and closed sets in the plane",
+    "label": "Conjuntos abertos e fechados no plano",
     "domain": "complex_numbers",
     "subdomain": "complex_numbers.topology",
     "grading_type": "multiple_choice",
@@ -591,7 +591,7 @@
   },
   {
     "id": "complex.topology.domain",
-    "label": "Domains in the complex plane",
+    "label": "Domínios no plano complexo",
     "domain": "complex_numbers",
     "subdomain": "complex_numbers.topology",
     "grading_type": "multiple_choice",

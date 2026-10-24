@@ -1,7 +1,7 @@
 [
   {
     "id": "abstract.group.def",
-    "label": "Definition of a group",
+    "label": "Definição de um grupo",
     "domain": "abstract_algebra",
     "subdomain": "abstract_algebra.groups",
     "grading_type": "multiple_choice",
@@ -16,7 +16,7 @@
   },
   {
     "id": "abstract.group.examples",
-    "label": "Examples of groups",
+    "label": "Exemplos de grupos",
     "domain": "abstract_algebra",
     "subdomain": "abstract_algebra.groups",
     "grading_type": "multiple_choice",
@@ -60,7 +60,7 @@
   },
   {
     "id": "abstract.group.subgroup",
-    "label": "Subgroups and cosets",
+    "label": "Subgrupos e cosets",
     "domain": "abstract_algebra",
     "subdomain": "abstract_algebra.groups",
     "grading_type": "numeric",
@@ -74,7 +74,7 @@
   },
   {
     "id": "abstract.rings.def",
-    "label": "Rings and fields",
+    "label": "Anéis e campos",
     "domain": "abstract_algebra",
     "subdomain": "abstract_algebra.rings",
     "grading_type": "multiple_choice",
@@ -104,7 +104,7 @@
   },
   {
     "id": "abstract.structures.field",
-    "label": "Fields: definition, examples, and properties",
+    "label": "Campos: definição, exemplos e propriedades",
     "domain": "abstract_algebra",
     "subdomain": "abstract_algebra.structures",
     "grading_type": "multiple_choice",
@@ -118,7 +118,7 @@
   },
   {
     "id": "abstract.structures.module",
-    "label": "Modules: definition, examples, and properties",
+    "label": "Módulos: definição, exemplos e propriedades",
     "domain": "abstract_algebra",
     "subdomain": "abstract_algebra.structures",
     "grading_type": "multiple_choice",
@@ -146,7 +146,7 @@
   },
   {
     "id": "abstract.group.order",
-    "label": "Order of a group and its elements",
+    "label": "Ordem de um grupo e seus elementos",
     "domain": "abstract_algebra",
     "subdomain": "abstract_algebra.groups",
     "grading_type": "numeric",
@@ -189,7 +189,7 @@
   },
   {
     "id": "abstract.group.normal",
-    "label": "Normal subgroups and conjugacy",
+    "label": "Subgrupos normais e conjugação",
     "domain": "abstract_algebra",
     "subdomain": "abstract_algebra.groups",
     "grading_type": "numeric",
@@ -218,7 +218,7 @@
   },
   {
     "id": "abstract.group.quotient_group",
-    "label": "Quotient groups and isomorphism theorems",
+    "label": "Grupos de quocientes e teoremas de isomorfismo",
     "domain": "abstract_algebra",
     "subdomain": "abstract_algebra.groups",
     "grading_type": "numeric",
@@ -234,7 +234,7 @@
   },
   {
     "id": "abstract.rings.polynomial",
-    "label": "Polynomial rings and field extensions",
+    "label": "Anéis polinomiais e extensões de campo",
     "domain": "abstract_algebra",
     "subdomain": "abstract_algebra.rings",
     "grading_type": "multiple_choice",
@@ -249,7 +249,7 @@
   },
   {
     "id": "abstract.group.action",
-    "label": "Group actions and orbit-stabilizer",
+    "label": "Ações de grupo e estabilizador de órbita",
     "domain": "abstract_algebra",
     "subdomain": "abstract_algebra.groups",
     "grading_type": "numeric",
@@ -292,7 +292,7 @@
   },
   {
     "id": "abstract.field.extension",
-    "label": "Field extensions and splitting fields",
+    "label": "Extensões de campo e campos de divisão",
     "domain": "abstract_algebra",
     "subdomain": "abstract_algebra.fields",
     "grading_type": "multiple_choice",
@@ -322,7 +322,7 @@
   },
   {
     "id": "abstract.rings.localization",
-    "label": "Localization of rings",
+    "label": "Localização dos anéis",
     "domain": "abstract_algebra",
     "subdomain": "abstract_algebra.rings",
     "grading_type": "multiple_choice",
@@ -350,7 +350,7 @@
   },
   {
     "id": "abstract.group.nilpotent",
-    "label": "Nilpotent and solvable groups",
+    "label": "Grupos nilpotentes e solúveis",
     "domain": "abstract_algebra",
     "subdomain": "abstract_algebra.groups",
     "grading_type": "multiple_choice",
@@ -364,7 +364,7 @@
   },
   {
     "id": "abstract.structures.tensor",
-    "label": "Tensor products of modules",
+    "label": "Produtos tensoriais de módulos",
     "domain": "abstract_algebra",
     "subdomain": "abstract_algebra.structures",
     "grading_type": "multiple_choice",
@@ -379,7 +379,7 @@
   },
   {
     "id": "abstract.group.solvable",
-    "label": "Solvable groups and composition series",
+    "label": "Grupos solúveis e séries de composição",
     "domain": "abstract_algebra",
     "subdomain": "abstract_algebra.groups",
     "grading_type": "multiple_choice",
@@ -393,7 +393,7 @@
   },
   {
     "id": "abstract.group.free",
-    "label": "Free groups and presentations",
+    "label": "Grupos e apresentações gratuitas",
     "domain": "abstract_algebra",
     "subdomain": "abstract_algebra.groups",
     "grading_type": "multiple_choice",
@@ -407,7 +407,7 @@
   },
   {
     "id": "abstract.rings.noetherian",
-    "label": "Noetherian rings and Hilbert basis theorem",
+    "label": "Anéis noetherianos e teorema da base de Hilbert",
     "domain": "abstract_algebra",
     "subdomain": "abstract_algebra.rings",
     "grading_type": "multiple_choice",
@@ -421,7 +421,7 @@
   },
   {
     "id": "abstract.field.galois_group",
-    "label": "Galois groups of polynomials",
+    "label": "Grupos de polinómios de Galois",
     "domain": "abstract_algebra",
     "subdomain": "abstract_algebra.fields",
     "grading_type": "multiple_choice",
@@ -449,7 +449,7 @@
   },
   {
     "id": "abstract.group.commutator",
-    "label": "Commutator subgroup and abelianization",
+    "label": "Subgrupo comutador e abelianização",
     "domain": "abstract_algebra",
     "subdomain": "abstract_algebra.groups",
     "grading_type": "numeric",
@@ -463,7 +463,7 @@
   },
   {
     "id": "abstract.group.center",
-    "label": "Center of a group",
+    "label": "Centro de um grupo",
     "domain": "abstract_algebra",
     "subdomain": "abstract_algebra.groups",
     "grading_type": "multiple_choice",
@@ -539,7 +539,7 @@
   },
   {
     "id": "abstract.rings.zero_divisor",
-    "label": "Zero divisors and cancellation",
+    "label": "Divisores zero e cancelamento",
     "domain": "abstract_algebra",
     "subdomain": "abstract_algebra.rings",
     "grading_type": "multiple_choice",
@@ -568,7 +568,7 @@
   },
   {
     "id": "abstract.rings.prime_ideal",
-    "label": "Prime and maximal ideals",
+    "label": "Ideais primos e máximos",
     "domain": "abstract_algebra",
     "subdomain": "abstract_algebra.rings",
     "grading_type": "multiple_choice",
@@ -600,7 +600,7 @@
   },
   {
     "id": "abstract.field.characteristic",
-    "label": "Characteristic of a field",
+    "label": "Característica de um campo",
     "domain": "abstract_algebra",
     "subdomain": "abstract_algebra.fields",
     "grading_type": "numeric",
@@ -615,7 +615,7 @@
   },
   {
     "id": "abstract.field.algebraic",
-    "label": "Algebraic and transcendental elements",
+    "label": "Elementos algébricos e transcendentais",
     "domain": "abstract_algebra",
     "subdomain": "abstract_algebra.fields",
     "grading_type": "multiple_choice",
@@ -630,7 +630,7 @@
   },
   {
     "id": "abstract.structures.submodule",
-    "label": "Submodules and quotient modules",
+    "label": "Submódulos e módulos de quociente",
     "domain": "abstract_algebra",
     "subdomain": "abstract_algebra.structures",
     "grading_type": "multiple_choice",
