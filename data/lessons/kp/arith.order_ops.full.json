@@ -4,24 +4,24 @@
     "section": "Grouping Symbols",
     "subgoals": [
       "Recognize all grouping symbols",
-      "Evaluate the inner groups first"
+      "Avalie os grupos internos primeiro"
     ]
   },
   {
-    "label": "Order of operations",
+    "label": "Ordem de operações",
     "section": "Order of Operations",
     "subgoals": [
-      "Apply BODMAS in full",
+      "Aplicar BODMAS na íntegra",
       "Handle exponents before multiplying",
-      "Work left to right"
+      "Esquerda para a direita"
     ]
   },
   {
-    "label": "Absolute value and grouping",
+    "label": "Valor absoluto e agrupamento",
     "section": "Absolute Value and Implied Grouping",
     "subgoals": [
       "Evaluate absolute values first",
-      "Apply implied grouping",
+      "Aplicar agrupamento implícito",
       "Simplify fully"
     ]
   }

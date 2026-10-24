@@ -3,27 +3,27 @@
     "label": "Prime factorization",
     "section": "Find the Prime Factorization of a Composite Number",
     "subgoals": [
-      "Break the number into any factor pair",
+      "Divida o número em qualquer par de fatores",
       "Factor each branch",
-      "Collect the prime factors"
+      "Recolha os fatores primos"
     ]
   },
   {
     "label": "Factor-tree method",
     "section": "Prime Factorization Using the Factor Tree Method",
     "subgoals": [
-      "Draw the factor tree",
+      "Desenhe a árvore de factores",
       "Factor until every leaf is prime",
-      "Write the product of primes"
+      "Escreva o produto dos números primos"
     ]
   },
   {
     "label": "Using prime factorization",
     "section": "Prime Factorization",
     "subgoals": [
-      "Verify the prime product",
-      "Compare with the ladder method",
-      "Apply prime factorization to the LCM"
+      "Verifique o produto principal",
+      "Comparar com o método da escada",
+      "Aplicar fatoração primária ao GCV"
     ]
   }
 ]

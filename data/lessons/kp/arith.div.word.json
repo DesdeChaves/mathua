@@ -4,15 +4,15 @@
     "section": "Use Division Notation",
     "subgoals": [
       "Encontre as palavras de ação que significam dividir",
-      "Translate the phrase into math",
-      "Choose the dividend and divisor"
+      "Traduzir a frase em matemática",
+      "Escolha o dividendo e o divisor"
     ]
   },
   {
     "label": "Model division",
     "section": "Model Division of Whole Numbers",
     "subgoals": [
-      "Share the items into equal groups",
+      "Compartilhe os itens em grupos iguais",
       "Count per group",
       "Handle leftovers"
     ]
@@ -21,9 +21,9 @@
     "label": "Divide whole numbers",
     "section": "Divide Whole Numbers",
     "subgoals": [
-      "Compute the quotient",
-      "Answer with the correct units",
-      "Check the reasonableness"
+      "Calcular o quociente",
+      "Responda com as unidades corretas",
+      "Verificar a razoabilidade"
     ]
   }
 ]

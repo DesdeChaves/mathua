@@ -1,11 +1,11 @@
 [
   {
-    "label": "Use multiplication notation",
+    "label": "Usar notação de multiplicação",
     "section": "Use Multiplication Notation",
     "subgoals": [
-      "Identify the factors",
-      "Estimate the product",
-      "Prepare the vertical form"
+      "Identificar os factores",
+      "Estimar o produto",
+      "Preparar a forma vertical"
     ]
   },
   {
@@ -13,7 +13,7 @@
     "section": "Model Multiplication of Whole Numbers",
     "subgoals": [
       "Model three-digit by one-digit",
-      "Multiply by the ones first",
+      "Multiplique pelas unidades primeiro",
       "Regroup across columns"
     ]
   },
@@ -23,7 +23,7 @@
     "subgoals": [
       "Multiply ones, then tens, then hundreds",
       "Carry between columns",
-      "Check with estimation"
+      "Verificar com estimativa"
     ]
   }
 ]

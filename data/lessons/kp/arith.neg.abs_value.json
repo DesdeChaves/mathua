@@ -3,27 +3,27 @@
     "label": "Definition",
     "section": "Definition",
     "subgoals": [
-      "Define the absolute value as distance from zero",
-      "Evaluate absolute values of negatives",
-      "Recognize that the result is never negative"
+      "Defina o valor absoluto como distância de zero",
+      "Avaliar valores absolutos de negativos",
+      "Reconhecer que o resultado nunca é negativo"
     ]
   },
   {
     "label": "Properties",
     "section": "Properties",
     "subgoals": [
-      "Apply the product property",
-      "Use the triangle-inequality intuition",
-      "Simplify expressions with absolute value"
+      "Aplicar a propriedade do produto",
+      "Use a intuição de desigualdade triangular",
+      "Simplificar expressões com valor absoluto"
     ]
   },
   {
     "label": "Triangle inequality",
     "section": "Triangle inequality",
     "subgoals": [
-      "State the inequality in words",
+      "Declare a desigualdade em palavras",
       "Verify it on examples",
-      "Use it to bound sums"
+      "Use-o para vincular somas"
     ]
   }
 ]

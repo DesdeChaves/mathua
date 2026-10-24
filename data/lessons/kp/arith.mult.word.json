@@ -1,29 +1,29 @@
 [
   {
-    "label": "Use multiplication notation",
+    "label": "Usar notação de multiplicação",
     "section": "Use Multiplication Notation",
     "subgoals": [
-      "Find the action words that mean multiply",
-      "Translate the phrase into an expression",
-      "Choose the factors"
+      "Encontre as palavras de ação que significam multiplicar",
+      "Traduzir a frase numa expressão",
+      "Escolha os factores"
     ]
   },
   {
     "label": "Model multiplication",
     "section": "Model Multiplication of Whole Numbers",
     "subgoals": [
-      "Draw the equal groups",
-      "Count the total",
-      "Write the multiplication"
+      "Desenhe os grupos iguais",
+      "Contar o total",
+      "Escreva a multiplicação"
     ]
   },
   {
     "label": "Multiply whole numbers",
     "section": "Multiply Whole Numbers",
     "subgoals": [
-      "Compute the product",
-      "Answer with the correct units",
-      "Check the reasonableness"
+      "Calcular o produto",
+      "Responda com as unidades corretas",
+      "Verificar a razoabilidade"
     ]
   }
 ]

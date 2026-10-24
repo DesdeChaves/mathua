@@ -1,11 +1,11 @@
 [
   {
-    "label": "Identify multiples",
+    "label": "Identificar múltiplos",
     "section": "Identify Multiples of Numbers",
     "subgoals": [
       "Define prime by exactly two factors",
-      "Check 1 and the number itself",
-      "List the small primes"
+      "Marque 1 e o número em si",
+      "Liste os números primos pequenos"
     ]
   },
   {
@@ -18,10 +18,10 @@
     ]
   },
   {
-    "label": "Find all factors",
+    "label": "Encontrar todos os fatores",
     "section": "Find All the Factors of a Number",
     "subgoals": [
-      "List the factor pairs",
+      "Liste os pares de fatores",
       "Confirm exactly two factors",
       "Conclude prime"
     ]

@@ -1,29 +1,29 @@
 [
   {
-    "label": "Introduction to powers",
+    "label": "Introdução aos poderes",
     "section": "Introduction to powers",
     "subgoals": [
-      "Identify the base and the exponent",
-      "Expand the power",
-      "Simplify the product"
+      "Identifique a base e o expoente",
+      "Expandir o poder",
+      "Simplifique o produto"
     ]
   },
   {
-    "label": "Powers with real exponents",
+    "label": "Poderes com expoentes reais",
     "section": "Powers with real exponents",
     "subgoals": [
       "Evaluate positive exponents",
-      "Evaluate with a negative base",
+      "Avaliar com uma base negativa",
       "Estimate by comparison"
     ]
   },
   {
-    "label": "Fundamental rules of powers",
+    "label": "Regras fundamentais dos poderes",
     "section": "Fundamental rules of powers",
     "subgoals": [
-      "Apply the product rule",
-      "Apply the quotient rule",
-      "Combine the rules"
+      "Aplicar a regra do produto",
+      "Aplicar a regra do quociente",
+      "Combine as regras"
     ]
   }
 ]

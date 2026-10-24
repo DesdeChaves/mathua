@@ -1,29 +1,29 @@
 [
   {
-    "label": "Basics of scientific notation",
+    "label": "Noções básicas de notação científica",
     "section": "The Basics of Scientific Notation",
     "subgoals": [
-      "Write a number in scientific notation",
-      "Identify the mantissa and the exponent",
+      "Escrever um número em notação científica",
+      "Identifique a mantissa e o expoente",
       "Convert both directions"
     ]
   },
   {
-    "label": "Large and small numbers",
+    "label": "Números grandes e pequenos",
     "section": "Scientific Notation for Large Numbers",
     "subgoals": [
-      "Use positive exponents for large numbers",
-      "Use negative exponents for small numbers",
-      "Write the results compactly"
+      "Use expoentes positivos para números grandes",
+      "Use expoentes negativos para números pequenos",
+      "Escreva os resultados de forma compacta"
     ]
   },
   {
     "label": "Operations in scientific notation",
     "section": "Multiplying and Dividing Using Scientific Notation",
     "subgoals": [
-      "Multiply the mantissas and add exponents",
-      "Divide mantissas and subtract exponents",
-      "Normalize the result"
+      "Multiplique as mantissas e adicione expoentes",
+      "Dividir mantissas e subtrair expoentes",
+      "Normalizar o resultado"
     ]
   }
 ]

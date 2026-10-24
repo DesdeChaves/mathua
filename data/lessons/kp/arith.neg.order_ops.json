@@ -3,27 +3,27 @@
     "label": "Signed numbers",
     "section": "Signed Numbers",
     "subgoals": [
-      "Identify the signs of each term",
-      "Apply the sign rules",
-      "Predict the sign of the result"
+      "Identificar os sinais de cada termo",
+      "Aplicar as regras de sinalização",
+      "Prever o sinal do resultado"
     ]
   },
   {
     "label": "Adding signed numbers",
     "section": "Adding",
     "subgoals": [
-      "Add the absolute values for like signs",
-      "Subtract for opposite signs",
-      "Write the result with the right sign"
+      "Adicione os valores absolutos para sinais semelhantes",
+      "Subtrair para sinais opostos",
+      "Escreva o resultado com o sinal certo"
     ]
   },
   {
     "label": "Multiplying signed numbers",
     "section": "Multiplying",
     "subgoals": [
-      "Multiply the absolute values",
-      "Determine the sign from the count of negatives",
-      "Apply the order of operations"
+      "Multiplique os valores absolutos",
+      "Determine o sinal a partir da contagem de negativos",
+      "Aplicar a ordem das operações"
     ]
   }
 ]

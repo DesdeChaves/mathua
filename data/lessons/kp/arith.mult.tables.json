@@ -1,29 +1,29 @@
 [
   {
-    "label": "Use multiplication notation",
+    "label": "Usar notação de multiplicação",
     "section": "Use Multiplication Notation",
     "subgoals": [
-      "Recognize the factors in a fact",
-      "Say the fact aloud",
-      "Relate 2 × 3 to 3 × 2"
+      "Reconhecer os fatores de um fato",
+      "Diga o fato em voz alta",
+      "Relacionar 2 × 3 a 3 × 2"
     ]
   },
   {
     "label": "Model multiplication",
     "section": "Model Multiplication of Whole Numbers",
     "subgoals": [
-      "Build the array for the fact",
+      "Construa a matriz para o fato",
       "Count in groups",
-      "State the product"
+      "Indique o produto"
     ]
   },
   {
     "label": "Multiply whole numbers",
     "section": "Multiply Whole Numbers",
     "subgoals": [
-      "Recall the 1–12 table fact",
-      "Practice for speed and accuracy",
-      "Use the table to estimate"
+      "Lembre-se do fato da tabela 1–12",
+      "Prática para velocidade e precisão",
+      "Use uma tabela para estimar"
     ]
   }
 ]

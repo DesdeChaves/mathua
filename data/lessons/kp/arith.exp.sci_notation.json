@@ -3,26 +3,26 @@
     "label": "The a times 10^n form",
     "section": "Scientific Notation",
     "subgoals": [
-      "Split a number into a factor between 1 and 10",
-      "Read the power of 10 from the decimal shift",
-      "Flip the exponent sign below 1"
+      "Dividir um número num fator entre 1 e 10",
+      "Leia a potência de 10 do deslocamento decimal",
+      "Inverta o sinal do expoente abaixo de 1"
     ]
   },
   {
-    "label": "Convert decimal to scientific notation",
+    "label": "Converter decimal em notação científica",
     "section": "Convert from Decimal Notation to Scientific Notation",
     "subgoals": [
-      "Move the point to isolate one nonzero digit",
-      "Count the places moved",
-      "Attach 10^n with the shift sign"
+      "Mova o ponto para isolar um dígito diferente de zero",
+      "Contar os lugares movidos",
+      "Anexe 10^n com o sinal de mudança"
     ]
   },
   {
-    "label": "Convert scientific notation to decimal form",
+    "label": "Converter notação científica em forma decimal",
     "section": "Convert Scientific Notation to Decimal Form",
     "subgoals": [
-      "Read n from the power of 10",
-      "Shift right for positive n, left for negative",
+      "Ler n a partir da potência de 10",
+      "Deslocar para a direita para positivo n, para a esquerda para negativo",
       "Add zeros as placeholders"
     ]
   }

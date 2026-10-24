@@ -1,29 +1,29 @@
 [
   {
-    "label": "Introduction to powers",
+    "label": "Introdução aos poderes",
     "section": "Introduction to powers",
     "subgoals": [
-      "Recognize a quotient of powers",
-      "Identify the common base",
+      "Reconhecer um quociente de poderes",
+      "Identificar a base comum",
       "Cancel common factors"
     ]
   },
   {
-    "label": "Fundamental rules of powers",
+    "label": "Regras fundamentais dos poderes",
     "section": "Fundamental rules of powers",
     "subgoals": [
-      "Subtract the exponents of the same base",
-      "Keep the base unchanged",
+      "Subtrair os expoentes da mesma base",
+      "Manter a base inalterada",
       "Handle a zero exponent"
     ]
   },
   {
-    "label": "Powers with real exponents",
+    "label": "Poderes com expoentes reais",
     "section": "Powers with real exponents",
     "subgoals": [
-      "Extend the rule",
+      "Estender a regra",
       "Verify by expanding",
-      "Apply the rule in expressions"
+      "Aplicar a regra em expressões"
     ]
   }
 ]

@@ -1,20 +1,20 @@
 [
   {
-    "label": "Use subtraction notation",
+    "label": "Usar notação de subtração",
     "section": "Use Subtraction Notation",
     "subgoals": [
-      "Recognize the minuend, subtrahend, and difference",
-      "Write subtraction vertically",
-      "Estimate the difference"
+      "Reconheça o minuendo, o subtraendo e a diferença",
+      "Escrever subtração verticalmente",
+      "Estime a diferença"
     ]
   },
   {
     "label": "Model subtraction",
     "section": "Model Subtraction of Whole Numbers",
     "subgoals": [
-      "Model tens and ones",
+      "Dezenas e unidades do modelo",
       "Take away ones first",
-      "Exchange 1 ten for 10 ones when needed"
+      "Troque 1 dez por 10 unidades quando necessário"
     ]
   },
   {

@@ -3,27 +3,27 @@
     "label": "Round first",
     "section": "Round first",
     "subgoals": [
-      "Choose the rounding place",
-      "Look at the digit to its right",
+      "Escolha o local de arredondamento",
+      "Olhe para o dígito à sua direita",
       "Round up at 5 or more"
     ]
   },
   {
-    "label": "Add or subtract the estimates",
+    "label": "Adicionar ou subtrair as estimativas",
     "section": "Add or subtract the estimates",
     "subgoals": [
-      "Keep the original operation",
-      "Use the rounded values",
+      "Manter a operação original",
+      "Use os valores arredondados",
       "Compute mentally"
     ]
   },
   {
-    "label": "Judge the result",
+    "label": "Julgar o resultado",
     "section": "Judge the result",
     "subgoals": [
-      "Compare the estimate with the exact answer",
-      "Look for a missing place value",
-      "Treat the estimate as a check, not the answer"
+      "Compare a estimativa com a resposta exata",
+      "Procure um valor posicional ausente",
+      "Trate a estimativa como um cheque, não como uma resposta"
     ]
   }
 ]

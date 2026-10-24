@@ -1,29 +1,29 @@
 [
   {
-    "label": "Parentheses include the sign",
+    "label": "Os parênteses incluem o sinal",
     "section": "Parentheses include the sign",
     "subgoals": [
-      "Make the negative number the base",
-      "Multiply the base by itself the stated number of times",
-      "Count the negative factors"
+      "Fazer do número negativo a base",
+      "Multiplique a base por si mesma pelo número indicado de vezes",
+      "Contar os fatores negativos"
     ]
   },
   {
-    "label": "No parentheses: the power acts first",
+    "label": "Sem parênteses: o poder age primeiro",
     "section": "No parentheses: the power acts first",
     "subgoals": [
-      "Evaluate the positive base",
-      "Apply the negative sign after the power",
-      "Keep the result negative"
+      "Avaliar a base positiva",
+      "Aplique o sinal negativo após a alimentação",
+      "Manter o resultado negativo"
     ]
   },
   {
-    "label": "Even and odd powers",
+    "label": "Poderes pares e ímpares",
     "section": "Even and odd powers",
     "subgoals": [
-      "Pair the negative factors",
-      "Leave a negative result for an odd count",
-      "Read the parentheses before calculating"
+      "Emparelhar os fatores negativos",
+      "Deixe um resultado negativo para uma contagem ímpar",
+      "Leia os parênteses antes de calcular"
     ]
   }
 ]

@@ -3,27 +3,27 @@
     "label": "Exponent basics",
     "section": "Exponent Basics",
     "subgoals": [
-      "Identify the base and the exponent",
-      "Expand the power",
-      "Extend to negative exponents"
+      "Identifique a base e o expoente",
+      "Expandir o poder",
+      "Estender para expoentes negativos"
     ]
   },
   {
     "label": "Exponent rules",
     "section": "Exponent Rules",
     "subgoals": [
-      "Apply the negative-exponent rule",
-      "Rewrite as a reciprocal",
-      "Evaluate the result"
+      "Aplicar a regra do expoente negativo",
+      "Reescrever como recíproco",
+      "Avaliar o resultado"
     ]
   },
   {
     "label": "Product rule",
     "section": "Product Rule",
     "subgoals": [
-      "Add exponents with the same base",
+      "Adicionar expoentes com a mesma base",
       "Handle negative exponents in products",
-      "Simplify the expression"
+      "Simplifique a expressão"
     ]
   }
 ]

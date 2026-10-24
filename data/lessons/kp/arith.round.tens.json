@@ -1,29 +1,29 @@
 [
   {
-    "label": "Place value of a digit",
+    "label": "Valor posicional de um dígito",
     "section": "Identify the Place Value of a Digit",
     "subgoals": [
-      "Find the rounding digit (tens)",
-      "Look at the digit to its right",
-      "Decide to round up or down"
+      "Encontre o dígito de arredondamento (dezenas)",
+      "Olhe para o dígito à sua direita",
+      "Decida arredondar para cima ou para baixo"
     ]
   },
   {
     "label": "Model whole numbers",
     "section": "Model Whole Numbers",
     "subgoals": [
-      "Locate the number on a number line",
-      "Mark the nearest tens",
-      "Pick the closer bound"
+      "Localize o número numa linha numérica",
+      "Marque as dezenas mais próximas",
+      "Escolha o limite mais próximo"
     ]
   },
   {
     "label": "Round whole numbers",
     "section": "Round Whole Numbers",
     "subgoals": [
-      "Apply the rounding rule",
-      "Write the rounded number with zeros",
-      "Check against the number line"
+      "Aplicar a regra de arredondamento",
+      "Escreva o número arredondado com zeros",
+      "Verifique contra a linha numérica"
     ]
   }
 ]

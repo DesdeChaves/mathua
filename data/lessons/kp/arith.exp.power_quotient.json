@@ -1,29 +1,29 @@
 [
   {
-    "label": "Raise numerator and denominator",
+    "label": "Aumentar numerador e denominador",
     "section": "Raise numerator and denominator",
     "subgoals": [
-      "Apply the exponent to the numerator",
-      "Apply the exponent to the denominator",
-      "Keep the fraction bar"
+      "Aplique o expoente ao numerador",
+      "Aplicar o expoente ao denominador",
+      "Manter a barra de fracções"
     ]
   },
   {
-    "label": "Keep the fraction",
+    "label": "Manter a fracção",
     "section": "Keep the fraction",
     "subgoals": [
-      "Evaluate the denominator power",
-      "Leave the numerator power in variable form",
-      "Do not move the denominator into the numerator"
+      "Avaliar a potência do denominador",
+      "Deixe a potência do numerador na forma variável",
+      "Não mova o denominador para o numerador"
     ]
   },
   {
-    "label": "Check the denominator",
+    "label": "Verifique o denominador",
     "section": "Check the denominator",
     "subgoals": [
-      "Confirm the denominator is nonzero",
-      "Substitute a value for the variable",
-      "Compare the original and simplified values"
+      "Confirme se o denominador é diferente de zero",
+      "Substitua um valor para a variável",
+      "Compare os valores originais e simplificados"
     ]
   }
 ]

@@ -1,20 +1,20 @@
 [
   {
-    "label": "The inverse of cubing",
+    "label": "O inverso da cubagem",
     "section": "The inverse of cubing",
     "subgoals": [
-      "Write the cube of the root",
-      "Identify the index as 3",
-      "Recover the root from the cube"
+      "Escreva o cubo da raiz",
+      "Identifique o índice como 3",
+      "Recuperar a raiz do cubo"
     ]
   },
   {
     "label": "Perfect cubes",
     "section": "Perfect cubes",
     "subgoals": [
-      "List the cubes of whole numbers",
-      "Match the radicand to a cube",
-      "Report the whole-number root"
+      "Listar os cubos de números inteiros",
+      "Combine o radicando a um cubo",
+      "Relatar a raiz do número inteiro"
     ]
   },
   {
@@ -22,8 +22,8 @@
     "section": "Negative radicands",
     "subgoals": [
       "Cube a negative number",
-      "Keep the negative sign under an odd index",
-      "Check by cubing the answer"
+      "Mantenha o sinal negativo sob um índice Odd",
+      "Verifique ao cubo a resposta"
     ]
   }
 ]

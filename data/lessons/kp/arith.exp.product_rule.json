@@ -1,29 +1,29 @@
 [
   {
-    "label": "Introduction to powers",
+    "label": "Introdução aos poderes",
     "section": "Introduction to powers",
     "subgoals": [
-      "Recognize a product of powers",
-      "Identify the common base",
-      "Count the factors"
+      "Reconhecer um produto de poderes",
+      "Identificar a base comum",
+      "Contar os factores"
     ]
   },
   {
-    "label": "Fundamental rules of powers",
+    "label": "Regras fundamentais dos poderes",
     "section": "Fundamental rules of powers",
     "subgoals": [
-      "Add the exponents of the same base",
-      "Keep the base unchanged",
-      "Apply to a product of three powers"
+      "Adicione os expoentes da mesma base",
+      "Manter a base inalterada",
+      "Aplicar a um produto de três poderes"
     ]
   },
   {
-    "label": "Powers with real exponents",
+    "label": "Poderes com expoentes reais",
     "section": "Powers with real exponents",
     "subgoals": [
-      "Extend the rule to larger exponents",
+      "Estender a regra para expoentes maiores",
       "Verify by expanding",
-      "Apply the rule in expressions"
+      "Aplicar a regra em expressões"
     ]
   }
 ]

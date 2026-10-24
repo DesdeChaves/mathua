@@ -4,26 +4,26 @@
     "section": "Grouping Symbols",
     "subgoals": [
       "Spot nested parentheses",
-      "Start with the innermost group",
+      "Comece com o grupo mais interno",
       "Work outward"
     ]
   },
   {
-    "label": "Order of operations",
+    "label": "Ordem de operações",
     "section": "Order of Operations",
     "subgoals": [
-      "Apply the full order inside each group",
+      "Aplique o pedido completo dentro de cada grupo",
       "Track operations carefully",
       "Simplify step by step"
     ]
   },
   {
-    "label": "Absolute value and grouping",
+    "label": "Valor absoluto e agrupamento",
     "section": "Absolute Value and Implied Grouping",
     "subgoals": [
       "Recognize absolute value inside brackets",
-      "Evaluate the innermost part first",
-      "Simplify the expression"
+      "Avalie a parte mais interna primeiro",
+      "Simplifique a expressão"
     ]
   }
 ]

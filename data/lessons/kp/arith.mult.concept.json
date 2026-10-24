@@ -1,29 +1,29 @@
 [
   {
-    "label": "Use multiplication notation",
+    "label": "Usar notação de multiplicação",
     "section": "Use Multiplication Notation",
     "subgoals": [
-      "Recognize the factors and the product",
-      "Read 2 × 6 as two times six",
-      "Rewrite repeated addition as multiplication"
+      "Reconhecer os fatores e o produto",
+      "Ler 2 × 6 como dois vezes seis",
+      "Reescrever adição repetida como multiplicação"
     ]
   },
   {
     "label": "Model multiplication",
     "section": "Model Multiplication of Whole Numbers",
     "subgoals": [
-      "Model rows and columns",
-      "Count the total objects",
-      "Relate the array to the product"
+      "Linhas e colunas do modelo",
+      "Contar o total de objectos",
+      "Relacionar a matriz ao produto"
     ]
   },
   {
     "label": "Multiply whole numbers",
     "section": "Multiply Whole Numbers",
     "subgoals": [
-      "Use known times facts",
+      "Usar fatos de tempos conhecidos",
       "Line up by place value",
-      "Multiply and add partial products"
+      "Multiplicar e adicionar produtos parciais"
     ]
   }
 ]

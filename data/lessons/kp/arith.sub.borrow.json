@@ -1,19 +1,19 @@
 [
   {
-    "label": "Use subtraction notation",
+    "label": "Usar notação de subtração",
     "section": "Use Subtraction Notation",
     "subgoals": [
       "Spot when borrowing is required",
-      "Read the vertical form",
-      "Prepare to regroup a ten"
+      "Leia o formulário vertical",
+      "Prepare-se para reagrupar uma dezena"
     ]
   },
   {
     "label": "Model subtraction",
     "section": "Model Subtraction of Whole Numbers",
     "subgoals": [
-      "Model the larger number",
-      "Exchange 1 ten for 10 ones",
+      "Modelar o número maior",
+      "Troque 1 dez por 10 unidades",
       "Subtract each column"
     ]
   },
@@ -21,8 +21,8 @@
     "label": "Subtract whole numbers",
     "section": "Subtract Whole Numbers",
     "subgoals": [
-      "Write the regrouped digits",
-      "Subtract right to left",
+      "Escreva os dígitos reagrupados",
+      "Subtrair da direita para a esquerda",
       "Verify by adding back"
     ]
   }

@@ -1,28 +1,28 @@
 [
   {
-    "label": "Identify multiples",
+    "label": "Identificar múltiplos",
     "section": "Identify Multiples of Numbers",
     "subgoals": [
       "Define composite by its factors",
       "Recognize more than two factors",
-      "Contrast with primes"
+      "Contraste com primos"
     ]
   },
   {
     "label": "Divisibility tests",
     "section": "Use Common Divisibility Tests",
     "subgoals": [
-      "Test divisibility to find factors",
-      "Verify the factor count",
-      "Use the tests to classify"
+      "Teste a divisibilidade para encontrar fatores",
+      "Verificar a contagem de fatores",
+      "Use os testes para classificar"
     ]
   },
   {
-    "label": "Find all factors",
+    "label": "Encontrar todos os fatores",
     "section": "Find All the Factors of a Number",
     "subgoals": [
-      "List all factors of the number",
-      "Count the factors",
+      "Listar todos os factores do número",
+      "Contar os factores",
       "Decide composite or prime"
     ]
   }

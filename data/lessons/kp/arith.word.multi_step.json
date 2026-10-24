@@ -1,29 +1,29 @@
 [
   {
-    "label": "Find the first quantity",
+    "label": "Encontrar a primeira quantidade",
     "section": "Find the first quantity",
     "subgoals": [
-      "Identify equal groups and the size of each",
-      "Multiply to build the first quantity",
-      "Name the unit of that quantity"
+      "Identifique grupos iguais e o tamanho de cada",
+      "Multiplique para construir a primeira quantidade",
+      "Nomeie a unidade dessa quantidade"
     ]
   },
   {
-    "label": "Use it in the next step",
+    "label": "Use-o na próxima etapa",
     "section": "Use it in the next step",
     "subgoals": [
-      "Read what happens to the first quantity",
+      "Leia o que acontece com a primeira quantidade",
       "Choose addition or subtraction",
-      "Keep the units consistent"
+      "Mantenha as unidades consistentes"
     ]
   },
   {
-    "label": "Answer the question asked",
+    "label": "Responda à pergunta feita",
     "section": "Answer the question asked",
     "subgoals": [
-      "Reread the final sentence",
-      "Match the answer to the requested quantity",
-      "Work backward to check"
+      "Reler a frase final",
+      "Corresponder a resposta à quantidade solicitada",
+      "Trabalhe para trás para verificar"
     ]
   }
 ]

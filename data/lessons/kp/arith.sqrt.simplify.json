@@ -1,29 +1,29 @@
 [
   {
-    "label": "Definition of radicals",
+    "label": "Definição de radicais",
     "section": "Definition of radicals",
     "subgoals": [
-      "Identify the radicand and the index",
-      "Rewrite square roots as powers",
-      "Relate roots to squaring"
+      "Identifique o radicando e o índice",
+      "Reescrever raízes quadradas como poderes",
+      "Relacionar raízes à quadratura"
     ]
   },
   {
-    "label": "Properties of radicals",
+    "label": "Propriedades dos radicais",
     "section": "Properties",
     "subgoals": [
-      "Apply the product rule for radicals",
+      "Aplicar a regra do produto para radicais",
       "Extract perfect-square factors",
-      "Simplify the radical"
+      "Simplifique o radical"
     ]
   },
   {
-    "label": "Rationalizing the denominator",
+    "label": "Racionalização do denominador",
     "section": "Rationalizing the denominator",
     "subgoals": [
-      "Remove a radical from the denominator",
-      "Multiply the numerator and denominator",
-      "Simplify the result"
+      "Remover um radical do denominador",
+      "Multiplique o numerador e o denominador",
+      "Simplifique o resultado."
     ]
   }
 ]

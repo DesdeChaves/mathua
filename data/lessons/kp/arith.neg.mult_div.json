@@ -3,27 +3,27 @@
     "label": "Signed numbers",
     "section": "Signed Numbers",
     "subgoals": [
-      "Identify the signs of the factors",
-      "Apply the sign rule for products",
-      "Predict the result sign"
+      "Identificar os sinais dos fatores",
+      "Aplicar a regra de sinal para produtos",
+      "Prever o sinal de resultado"
     ]
   },
   {
     "label": "Multiplying signed numbers",
     "section": "Multiplying",
     "subgoals": [
-      "Multiply the absolute values",
-      "Determine the sign",
-      "State the product"
+      "Multiplique os valores absolutos",
+      "Determine o sinal",
+      "Indique o produto"
     ]
   },
   {
-    "label": "Powers of signed numbers",
+    "label": "Poderes dos números assinados",
     "section": "Powers",
     "subgoals": [
-      "Multiply powers of negative bases",
-      "Apply the sign rules to exponents",
-      "Handle even and odd powers"
+      "Multiplicar poderes de bases negativas",
+      "Aplicar as regras de sinal aos expoentes",
+      "Lidar com poderes pares e ímpares"
     ]
   }
 ]

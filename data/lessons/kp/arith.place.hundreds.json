@@ -1,9 +1,9 @@
 [
   {
-    "label": "Counting and whole numbers",
+    "label": "Contagem e números inteiros",
     "section": "Identify Counting Numbers and Whole Numbers",
     "subgoals": [
-      "Recognize whole numbers up to hundreds",
+      "Reconhecer números inteiros até centenas",
       "Count by hundreds",
       "Compare sizes"
     ]
@@ -12,18 +12,18 @@
     "label": "Model whole numbers",
     "section": "Model Whole Numbers",
     "subgoals": [
-      "Model with ones, tens, and hundreds blocks",
+      "Modelar com blocos uns, dezenas e centenas",
       "Regroup across columns",
-      "Read the model"
+      "Leia o modelo"
     ]
   },
   {
-    "label": "Place value of a digit",
+    "label": "Valor posicional de um dígito",
     "section": "Identify the Place Value of a Digit",
     "subgoals": [
-      "Label the ones, tens, and hundreds places",
+      "Rotule os lugares uns, dezenas e centenas",
       "Name each digit's value",
-      "Write in expanded form"
+      "Escreva na forma expandida"
     ]
   }
 ]

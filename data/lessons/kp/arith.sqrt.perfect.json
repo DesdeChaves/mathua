@@ -3,27 +3,27 @@
     "label": "Square root facts",
     "section": "Square Root Facts",
     "subgoals": [
-      "Recognize the perfect squares",
+      "Reconheça os quadrados perfeitos",
       "Recall common square roots",
-      "Relate squaring and taking roots"
+      "Relacionar ao quadrado e criar raízes"
     ]
   },
   {
     "label": "Calculating square roots",
     "section": "Calculating Square Roots with a Calculator",
     "subgoals": [
-      "Enter the radical",
-      "Read the calculator result",
-      "Identify exact versus rounded values"
+      "Digite o radical",
+      "Ler o resultado da calculadora",
+      "Identificar valores exatos versus arredondados"
     ]
   },
   {
-    "label": "Square roots of fractions",
+    "label": "Raízes quadradas das frações",
     "section": "Square Roots of Fractions",
     "subgoals": [
-      "Take the root of the numerator",
-      "Take the root of the denominator",
-      "Simplify the fraction"
+      "Faça a raiz do numerador",
+      "Faça a raiz do denominador",
+      "Simplificar a fração"
     ]
   }
 ]

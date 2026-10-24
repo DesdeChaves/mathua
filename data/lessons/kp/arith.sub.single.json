@@ -1,19 +1,19 @@
 [
   {
-    "label": "Use subtraction notation",
+    "label": "Usar notação de subtração",
     "section": "Use Subtraction Notation",
     "subgoals": [
-      "Identify the minuend and the subtrahend",
-      "Read 7 - 2 as seven minus two",
-      "Relate subtraction to the missing addend"
+      "Identifique o minuendo e o subtraendo",
+      "Ler 7 - 2 como sete menos dois",
+      "Relacionar a subtração ao adendo ausente"
     ]
   },
   {
     "label": "Model subtraction",
     "section": "Model Subtraction of Whole Numbers",
     "subgoals": [
-      "Model the minuend",
-      "Take away the subtrahend",
+      "Modelar o minuendo",
+      "Retire o subtraendo",
       "Count what remains"
     ]
   },
@@ -22,7 +22,7 @@
     "section": "Subtract Whole Numbers",
     "subgoals": [
       "Line up digits by place value",
-      "Subtract right to left",
+      "Subtrair da direita para a esquerda",
       "Borrow when needed"
     ]
   }

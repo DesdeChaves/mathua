@@ -1,19 +1,19 @@
 [
   {
-    "label": "Use subtraction notation",
+    "label": "Usar notação de subtração",
     "section": "Use Subtraction Notation",
     "subgoals": [
-      "Find the action words that mean subtract",
-      "Translate the phrase into math",
-      "Identify the larger number first"
+      "Encontre as palavras de ação que significam subtrair",
+      "Traduzir a frase em matemática",
+      "Identifique o número maior primeiro"
     ]
   },
   {
     "label": "Model subtraction",
     "section": "Model Subtraction of Whole Numbers",
     "subgoals": [
-      "Model the starting amount",
-      "Remove the amount taken away",
+      "Modele o valor inicial",
+      "Remover a quantidade retirada",
       "Count what is left"
     ]
   },
@@ -21,9 +21,9 @@
     "label": "Subtract whole numbers",
     "section": "Subtract Whole Numbers",
     "subgoals": [
-      "Set up the vertical subtraction",
-      "Subtract and simplify",
-      "Check with addition"
+      "Configure a subtração vertical",
+      "Subtrair e simplificar",
+      "Verificar com adição"
     ]
   }
 ]

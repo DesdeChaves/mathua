@@ -1,29 +1,29 @@
 [
   {
-    "label": "Identify multiples",
+    "label": "Identificar múltiplos",
     "section": "Identify Multiples of Numbers",
     "subgoals": [
-      "Recognize a multiple of a number",
+      "Reconhecer um múltiplo de um número",
       "List multiples by skip counting",
-      "Identify multiples in a list"
+      "Identificar múltiplos numa lista"
     ]
   },
   {
     "label": "Divisibility tests",
     "section": "Use Common Divisibility Tests",
     "subgoals": [
-      "Apply the 2, 3, 5, 9, and 10 tests",
+      "Aplique os testes 2, 3, 5, 9 e 10",
       "Check divisibility quickly",
-      "Use the tests to narrow factors"
+      "Use os testes para restringir os fatores"
     ]
   },
   {
-    "label": "Find all factors",
+    "label": "Encontrar todos os fatores",
     "section": "Find All the Factors of a Number",
     "subgoals": [
-      "Start with 1 and the number itself",
+      "Comece com 1 e o número em si",
       "Test each integer in order",
-      "List the factor pairs"
+      "Liste os pares de fatores"
     ]
   }
 ]

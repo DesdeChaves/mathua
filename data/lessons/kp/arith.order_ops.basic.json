@@ -3,27 +3,27 @@
     "label": "Grouping symbols",
     "section": "Grouping Symbols",
     "subgoals": [
-      "Recognize parentheses and brackets",
+      "Reconhecer parênteses e colchetes",
       "Evaluate inside grouping first",
       "Handle nested groups"
     ]
   },
   {
-    "label": "Order of operations",
+    "label": "Ordem de operações",
     "section": "Order of Operations",
     "subgoals": [
       "Multiply before adding",
       "Divide before subtracting",
-      "Work left to right on ties"
+      "Trabalhe da esquerda para a direita nas gravatas"
     ]
   },
   {
-    "label": "Absolute value and grouping",
+    "label": "Valor absoluto e agrupamento",
     "section": "Absolute Value and Implied Grouping",
     "subgoals": [
       "Treat absolute value as a grouping symbol",
-      "Evaluate the inside first",
-      "Simplify the result"
+      "Avalie o interior primeiro",
+      "Simplifique o resultado."
     ]
   }
 ]

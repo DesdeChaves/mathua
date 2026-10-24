@@ -1,29 +1,29 @@
 [
   {
-    "label": "Introduction to powers",
+    "label": "Introdução aos poderes",
     "section": "Introduction to powers",
     "subgoals": [
-      "Recognize a power raised to a power",
-      "Identify the base and both exponents",
+      "Reconhecer um poder elevado a um poder",
+      "Identifique a base e ambos os expoentes",
       "Count nested factors"
     ]
   },
   {
-    "label": "Fundamental rules of powers",
+    "label": "Regras fundamentais dos poderes",
     "section": "Fundamental rules of powers",
     "subgoals": [
-      "Multiply the exponents",
-      "Keep the base unchanged",
-      "Apply the rule in steps"
+      "Multiplique os expoentes",
+      "Manter a base inalterada",
+      "Aplique a regra em etapas"
     ]
   },
   {
-    "label": "Powers with real exponents",
+    "label": "Poderes com expoentes reais",
     "section": "Powers with real exponents",
     "subgoals": [
-      "Extend the rule to three exponents",
+      "Estenda a regra para três expoentes",
       "Verify by expanding",
-      "Apply the rule in expressions"
+      "Aplicar a regra em expressões"
     ]
   }
 ]

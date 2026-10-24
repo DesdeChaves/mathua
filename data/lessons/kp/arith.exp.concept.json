@@ -1,29 +1,29 @@
 [
   {
-    "label": "Introduction to powers",
+    "label": "Introdução aos poderes",
     "section": "Introduction to powers",
     "subgoals": [
-      "Identify the base and the exponent",
-      "Read a power aloud",
+      "Identifique a base e o expoente",
+      "Ler um poder em voz alta",
       "Expand as repeated multiplication"
     ]
   },
   {
-    "label": "Powers with real exponents",
+    "label": "Poderes com expoentes reais",
     "section": "Powers with real exponents",
     "subgoals": [
-      "Evaluate powers with integer exponents",
-      "Apply signs to the base",
-      "Interpret the value"
+      "Avaliar potências com expoentes inteiros",
+      "Aplique sinais na base",
+      "Interpretar o valor"
     ]
   },
   {
-    "label": "Fundamental rules of powers",
+    "label": "Regras fundamentais dos poderes",
     "section": "Fundamental rules of powers",
     "subgoals": [
-      "Multiply powers with the same base",
-      "Divide powers with the same base",
-      "Raise a power to a power"
+      "Multiplique os poderes com a mesma base",
+      "Dividir potências com a mesma base",
+      "Elevar um poder a um poder"
     ]
   }
 ]

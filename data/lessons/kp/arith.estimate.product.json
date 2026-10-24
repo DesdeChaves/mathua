@@ -3,27 +3,27 @@
     "label": "Round each factor",
     "section": "Round each factor",
     "subgoals": [
-      "Round both factors to the nearest ten",
-      "Leave multiples of ten unchanged",
-      "Write the rounded factors"
+      "Arredondar ambos os fatores para a dezena mais próxima",
+      "Deixar múltiplos de dez inalterados",
+      "Escreva os factores arredondados"
     ]
   },
   {
-    "label": "Multiply the estimates",
+    "label": "Multiplique as estimativas",
     "section": "Multiply the estimates",
     "subgoals": [
-      "Multiply the nonzero digits",
-      "Count the zeros",
-      "Attach the zeros to the product"
+      "Multiplique os dígitos diferentes de zero",
+      "Contar os zeros",
+      "Anexe os zeros ao produto"
     ]
   },
   {
-    "label": "Check the size",
+    "label": "Verifique o tamanho",
     "section": "Check the size",
     "subgoals": [
-      "Compare with the original factors",
-      "Decide whether the exact product is above or below",
-      "Reject answers with the wrong number of places"
+      "Comparar com os fatores originais",
+      "Decida se o produto exato está acima ou abaixo",
+      "Rejeitar respostas com o número errado de lugares"
     ]
   }
 ]

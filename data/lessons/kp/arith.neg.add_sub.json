@@ -3,17 +3,17 @@
     "label": "Signed numbers",
     "section": "Signed Numbers",
     "subgoals": [
-      "Identify the signs of the addends",
-      "Apply the sign rules",
-      "Predict the sign of the result"
+      "Identificar os sinais dos adendos",
+      "Aplicar as regras de sinalização",
+      "Prever o sinal do resultado"
     ]
   },
   {
     "label": "Adding signed numbers",
     "section": "Adding",
     "subgoals": [
-      "Add numbers with the same sign",
-      "Add numbers with opposite signs",
+      "Adicionar números com o mesmo sinal",
+      "Adicione números com sinais opostos",
       "Combine absolute values"
     ]
   },
@@ -21,9 +21,9 @@
     "label": "Subtracting signed numbers",
     "section": "Subtracting",
     "subgoals": [
-      "Keep the first number",
-      "Change subtraction to addition of the opposite",
-      "Apply the addition rules"
+      "O primeiro número",
+      "Alterar subtração para adição do oposto",
+      "Aplicar as regras de adição"
     ]
   }
 ]

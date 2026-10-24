@@ -1,11 +1,11 @@
 [
   {
-    "label": "Find all factors",
+    "label": "Encontrar todos os fatores",
     "section": "Find All the Factors of a Number",
     "subgoals": [
-      "Find the factors of the number",
+      "Encontre os factores do número",
       "Check which factors are prime",
-      "Separate the prime factors"
+      "Separar os factores primos"
     ]
   },
   {
@@ -13,17 +13,17 @@
     "section": "Use Common Divisibility Tests",
     "subgoals": [
       "Divide by small primes",
-      "Rewrite as a product of primes",
+      "Reescrever como um produto de primos",
       "Continue until all factors are prime"
     ]
   },
   {
-    "label": "Identify multiples",
+    "label": "Identificar múltiplos",
     "section": "Identify Multiples of Numbers",
     "subgoals": [
-      "Express the number as a product",
+      "Expresse o número como um produto",
       "Verify by multiplication",
-      "Write the prime factorization"
+      "Escreva a fatoração primária"
     ]
   }
 ]

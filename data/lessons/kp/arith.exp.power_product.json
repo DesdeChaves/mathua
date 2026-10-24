@@ -3,27 +3,27 @@
     "label": "Raise each factor",
     "section": "Raise each factor",
     "subgoals": [
-      "Identify the coefficient and the variable",
-      "Apply the exponent to both factors",
-      "Write the coefficient power and the variable power"
+      "Identificar o coeficiente e a variável",
+      "Aplicar o expoente a ambos os fatores",
+      "Escreva a potência do coeficiente e a potência variável"
     ]
   },
   {
-    "label": "Multiply the powers",
+    "label": "Multiplique os poderes",
     "section": "Multiply the powers",
     "subgoals": [
-      "Use the rule (ab)^n = a^n b^n",
-      "Evaluate the coefficient power",
-      "Keep the variable power unchanged"
+      "Use uma regra (ab)^n = a^n b^n",
+      "Avaliar o coeficiente de potência",
+      "Mantenha a potência variável inalterada"
     ]
   },
   {
-    "label": "Check with numbers",
+    "label": "Verificar com números",
     "section": "Check with numbers",
     "subgoals": [
-      "Substitute 1 for the variable",
+      "Substituir 1 pela variável",
       "Substitute a second value",
-      "Compare both results with the simplified form"
+      "Compare ambos os resultados com a forma simplificada"
     ]
   }
 ]

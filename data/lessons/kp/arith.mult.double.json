@@ -1,29 +1,29 @@
 [
   {
-    "label": "Use multiplication notation",
+    "label": "Usar notação de multiplicação",
     "section": "Use Multiplication Notation",
     "subgoals": [
-      "Identify the factors",
-      "Rewrite as repeated addition",
-      "Estimate the product"
+      "Identificar os factores",
+      "Reescrever como adição repetida",
+      "Estimar o produto"
     ]
   },
   {
     "label": "Model multiplication",
     "section": "Model Multiplication of Whole Numbers",
     "subgoals": [
-      "Break the multiplier into tens and ones",
-      "Model with arrays or blocks",
-      "Combine the parts"
+      "Divida o multiplicador em dezenas e unidades",
+      "Modelo com matrizes ou blocos",
+      "Combine as peças"
     ]
   },
   {
     "label": "Multiply whole numbers",
     "section": "Multiply Whole Numbers",
     "subgoals": [
-      "Multiply the ones",
-      "Multiply the tens",
-      "Add the partial products"
+      "Multiplique os uns",
+      "Multiplique as dezenas",
+      "Adicionar os produtos parciais"
     ]
   }
 ]

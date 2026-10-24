@@ -1,29 +1,29 @@
 [
   {
-    "label": "Choose the sign of the change",
+    "label": "Escolha o sinal da mudança",
     "section": "Choose the sign of the change",
     "subgoals": [
       "Treat a rise or gain as positive",
       "Treat a fall or loss as negative",
-      "Write the starting value with its sign"
+      "Escreva o valor inicial com o seu sinal"
     ]
   },
   {
-    "label": "Add the signed change",
+    "label": "Adicionar a alteração assinada",
     "section": "Add the signed change",
     "subgoals": [
-      "Add the change to the starting value",
-      "Move right for a positive change",
-      "Move left for a negative change"
+      "Adicionar a alteração ao valor inicial",
+      "Mover para a direita para uma mudança positiva",
+      "Mover para a esquerda para uma mudança negativa"
     ]
   },
   {
-    "label": "Check the direction",
+    "label": "Verifique a direcção",
     "section": "Check the direction",
     "subgoals": [
-      "Compare the result with the starting value",
-      "Check the result against the stated direction",
-      "Reverse the sign if the movement is opposite"
+      "Compare o resultado com o valor inicial",
+      "Verifique o resultado em relação à direção indicada",
+      "Inverta o sinal se o movimento para oposto"
     ]
   }
 ]

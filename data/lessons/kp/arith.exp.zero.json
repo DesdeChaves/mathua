@@ -3,27 +3,27 @@
     "label": "Exponent basics",
     "section": "Exponent Basics",
     "subgoals": [
-      "Identify the base and the exponent",
-      "Expand the power",
-      "Consider the case of a zero exponent"
+      "Identifique a base e o expoente",
+      "Expandir o poder",
+      "Considere o caso de um expoente zero"
     ]
   },
   {
     "label": "Exponent rules",
     "section": "Exponent Rules",
     "subgoals": [
-      "Apply the zero-exponent rule",
-      "Explain why any nonzero base gives 1",
-      "Evaluate expressions with zero exponents"
+      "Aplicar a regra de expoente zero",
+      "Explique por que qualquer base diferente de zero dá 1",
+      "Avaliar expressões com expoentes zero"
     ]
   },
   {
-    "label": "Product to a power rule",
+    "label": "Produto para uma regra de poder",
     "section": "Product to a Power Rule",
     "subgoals": [
-      "Distribute the exponent over a product",
-      "Keep the base rules consistent",
-      "Simplify the expression"
+      "Distribuir o expoente sobre um produto",
+      "Mantenha as regras básicas consistentes",
+      "Simplifique a expressão"
     ]
   }
 ]

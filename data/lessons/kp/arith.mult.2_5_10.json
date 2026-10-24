@@ -1,29 +1,29 @@
 [
   {
-    "label": "Use multiplication notation",
+    "label": "Usar notação de multiplicação",
     "section": "Use Multiplication Notation",
     "subgoals": [
-      "Recognize the patterns in the 2s, 5s, and 10s",
-      "Double for the 2s table",
-      "Count by 5s and 10s"
+      "Reconhecer os padrões nos 2s, 5s e 10s",
+      "Duplo para a mesa 2s",
+      "Conte por 5s e 10s"
     ]
   },
   {
     "label": "Model multiplication",
     "section": "Model Multiplication of Whole Numbers",
     "subgoals": [
-      "Group objects in 2s, 5s, and 10s",
-      "Count the groups",
-      "State the fact"
+      "Agrupar objetos em 2s, 5s e 10s",
+      "Contar os grupos",
+      "Declarar O fato"
     ]
   },
   {
     "label": "Multiply whole numbers",
     "section": "Multiply Whole Numbers",
     "subgoals": [
-      "Apply the pattern to larger numbers",
+      "Aplique o padrão a números maiores",
       "Multiply by 10 by appending a zero",
-      "Verify with repeated addition"
+      "Verificar com adição repetida"
     ]
   }
 ]
