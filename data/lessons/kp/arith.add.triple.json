@@ -1,19 +1,19 @@
 [
   {
-    "label": "Use addition notation",
+    "label": "Usar notação de adição",
     "section": "Use Addition Notation",
     "subgoals": [
-      "Identify the addends and the sum",
-      "Read three-digit expressions",
-      "Relate vertical form to notation"
+      "Identifique os adendos e a soma",
+      "Ler expressões de três dígitos",
+      "Relacionar a forma vertical à notação"
     ]
   },
   {
-    "label": "Model addition with blocks",
+    "label": "Adição de modelo com blocos",
     "section": "Model Addition of Whole Numbers",
     "subgoals": [
-      "Model three-digit addends with blocks",
-      "Combine hundreds, tens, and ones",
+      "Modelar adendos de três dígitos com blocos",
+      "Combine centenas, dezenas e unidades",
       "Exchange across columns"
     ]
   },
@@ -21,9 +21,9 @@
     "label": "Add whole numbers",
     "section": "Add Whole Numbers Without Models",
     "subgoals": [
-      "Align hundreds, tens, and ones",
-      "Add right to left, carrying as needed",
-      "Check with estimation"
+      "Alinhe centenas, dezenas e unidades",
+      "Adicione da direita para a esquerda, transportando conforme necessário",
+      "Verificar com estimativa"
     ]
   }
 ]

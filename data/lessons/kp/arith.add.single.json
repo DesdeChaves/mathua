@@ -1,29 +1,29 @@
 [
   {
-    "label": "Use addition notation",
+    "label": "Usar notação de adição",
     "section": "Use Addition Notation",
     "subgoals": [
-      "Identify the addends and the sum",
-      "Read 3 + 4 as three plus four",
-      "Translate word phrases into addition notation"
+      "Identifique os adendos e a soma",
+      "Leia 3 + 4 como três mais quatro",
+      "Traduzir frases de palavras em notação de adição"
     ]
   },
   {
-    "label": "Model addition with blocks",
+    "label": "Adição de modelo com blocos",
     "section": "Model Addition of Whole Numbers",
     "subgoals": [
-      "Model the first addend with ones blocks",
-      "Model the second addend",
-      "Count the total"
+      "Modelar o primeiro adendo com blocos ones",
+      "Modelar o segundo adendo",
+      "Contar o total"
     ]
   },
   {
-    "label": "Add whole numbers",
+    "label": "Números Inteiros",
     "section": "Add Whole Numbers Without Models",
     "subgoals": [
-      "Line up digits by place value",
-      "Add ones, then tens, then hundreds",
-      "Carry when a column sums to 10 or more"
+      "Alinhar dígitos por valor posicional",
+      "Adicione uns, depois dezenas, depois centenas",
+      "Transportar quando uma coluna somar 10 ou mais"
     ]
   }
 ]

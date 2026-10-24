@@ -1,29 +1,29 @@
 [
   {
-    "label": "Divide and name the remainder",
+    "label": "Divida e nomeie o restante",
     "section": "Divide and name the remainder",
     "subgoals": [
-      "Divide the total by the group size",
-      "Write the whole-number quotient",
-      "Check that the remainder is smaller than the divisor"
+      "Divida o total pelo tamanho do grupo",
+      "Escreva o quociente de número inteiro",
+      "Verifique se o restante é menor que o divisor"
     ]
   },
   {
-    "label": "Drop the remainder for full groups",
+    "label": "Solte o restante para grupos completos",
     "section": "Drop the remainder for full groups",
     "subgoals": [
-      "Read whether only complete groups count",
-      "Keep the quotient",
-      "Explain why the leftover does not add a group"
+      "Leia se apenas grupos completos contam",
+      "Manter o quociente",
+      "Explique por que a sobra não adiciona um grupo"
     ]
   },
   {
     "label": "Round up when every item must fit",
     "section": "Round up when every item must fit",
     "subgoals": [
-      "Check whether the remainder is nonzero",
-      "Add one to the quotient",
-      "State what the extra group holds"
+      "Verifique se o restante é diferente de zero",
+      "Adicionar um ao quociente",
+      "Indique o que o grupo extra detém"
     ]
   }
 ]

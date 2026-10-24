@@ -3,27 +3,27 @@
     "label": "Compare by place value",
     "section": "Compare by place value",
     "subgoals": [
-      "Line up the numbers by place",
-      "Find the first place where the digits differ",
+      "Alinhe os números por lugar",
+      "Encontre o primeiro local onde os dígitos diferem",
       "Decide which digit is larger"
     ]
   },
   {
-    "label": "Use the symbols",
+    "label": "Use os símbolos",
     "section": "Use the symbols",
     "subgoals": [
-      "Read > as greater than",
-      "Read < as less than",
-      "Face the wider end toward the larger number"
+      "Ler > como maior que",
+      "Ler < como menos de",
+      "Enfrente a extremidade mais larga em direção ao número maior"
     ]
   },
   {
     "label": "Order a list",
     "section": "Order a list",
     "subgoals": [
-      "Find the smallest number first",
-      "Remove it and repeat",
-      "Check that each number is no larger than the next"
+      "Encontre o menor número primeiro",
+      "Remova-o e repita",
+      "Verifique se cada número não é maior que o próximo"
     ]
   }
 ]

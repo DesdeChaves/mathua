@@ -1,11 +1,11 @@
 [
   {
-    "label": "Use division notation",
+    "label": "Usar notação de divisão",
     "section": "Use Division Notation",
     "subgoals": [
-      "Recognize the parts of a division",
-      "Read the notation",
-      "Relate to a fact family"
+      "Reconhecer as partes de uma divisão",
+      "Ler a notação",
+      "Relacionar-se a uma família de fatos"
     ]
   },
   {
@@ -14,7 +14,7 @@
     "subgoals": [
       "Partition into equal groups",
       "Count groups or per-group",
-      "Verify with multiplication"
+      "Verificar com multiplicação"
     ]
   },
   {
@@ -22,8 +22,8 @@
     "section": "Divide Whole Numbers",
     "subgoals": [
       "Divide without remainder",
-      "Use times tables",
-      "Check the quotient"
+      "Usar tabelas de horários",
+      "Verificar o quociente"
     ]
   }
 ]

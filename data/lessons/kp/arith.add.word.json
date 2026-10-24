@@ -1,29 +1,29 @@
 [
   {
-    "label": "Use addition notation",
+    "label": "Usar notação de adição",
     "section": "Use Addition Notation",
     "subgoals": [
-      "Find the action words that mean add",
+      "Encontre as palavras de ação que significam adicionar",
       "Translate a word phrase into math",
-      "Choose the addends"
+      "Escolha os adendos"
     ]
   },
   {
     "label": "Translate word phrases",
     "section": "Translate Word Phrases to Math Notation",
     "subgoals": [
-      "Spot keywords like sum and total",
-      "Write the expression",
-      "Add to simplify"
+      "Identificar palavras-chave como soma e total",
+      "Escreva a expressão",
+      "Adicionar para simplificar"
     ]
   },
   {
     "label": "Add in applications",
     "section": "Add Whole Numbers in Applications",
     "subgoals": [
-      "Read the problem and underline the question",
-      "Write a word phrase for what to find",
-      "Answer with the correct units"
+      "Leia o problema e sublinhe a pergunta",
+      "Escreva uma frase-palavra para o que encontrar",
+      "Responda com as unidades corretas"
     ]
   }
 ]

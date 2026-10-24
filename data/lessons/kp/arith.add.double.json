@@ -1,28 +1,28 @@
 [
   {
-    "label": "Use addition notation",
+    "label": "Usar notação de adição",
     "section": "Use Addition Notation",
     "subgoals": [
-      "Recognize the addends and the sum",
-      "Read multi-digit expressions",
+      "Reconhecer os adendos e a soma",
+      "Ler expressões de vários dígitos",
       "Estimate before adding"
     ]
   },
   {
-    "label": "Model addition with blocks",
+    "label": "Adição de modelo com blocos",
     "section": "Model Addition of Whole Numbers",
     "subgoals": [
-      "Model 17 + 26 with tens rods and ones",
-      "Exchange 10 ones for 1 ten",
-      "Read the final model"
+      "Modelo 17 + 26 com dezenas de hastes e unidades",
+      "Troque 10 unidades por 1 dez",
+      "Leia o modelo final"
     ]
   },
   {
     "label": "Add whole numbers",
     "section": "Add Whole Numbers Without Models",
     "subgoals": [
-      "Write addends with aligned place values",
-      "Add each column right to left",
+      "Escrever adendos com valores posicionais alinhados",
+      "Adicione cada coluna da direita para a esquerda",
       "Carry when needed"
     ]
   }

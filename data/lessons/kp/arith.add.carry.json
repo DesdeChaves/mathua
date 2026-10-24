@@ -1,28 +1,28 @@
 [
   {
-    "label": "Use addition notation",
+    "label": "Usar notação de adição",
     "section": "Use Addition Notation",
     "subgoals": [
-      "Identify when a column sum exceeds 9",
-      "Prepare to regroup 10 ones into 1 ten",
+      "Identifique quando uma soma de coluna excede 9",
+      "Prepare-se para reagrupar 10 unidades em 1 dezena",
       "Recognize carrying notation"
     ]
   },
   {
-    "label": "Model addition with blocks",
+    "label": "Adição de modelo com blocos",
     "section": "Model Addition of Whole Numbers",
     "subgoals": [
-      "Model the addends with base-10 blocks",
-      "Exchange 10 ones for 1 ten",
-      "Count the result"
+      "Modelar os adendos com blocos de base 10",
+      "Troque 10 unidades por 1 dez",
+      "Contar o resultado"
     ]
   },
   {
     "label": "Add whole numbers",
     "section": "Add Whole Numbers Without Models",
     "subgoals": [
-      "Write the small 1 above the next column",
-      "Add each place value right to left",
+      "Escreva o pequeno 1 acima da próxima coluna",
+      "Adicione cada valor posicional da direita para a esquerda",
       "Carry repeatedly when needed"
     ]
   }

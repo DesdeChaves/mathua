@@ -1,20 +1,20 @@
 [
   {
-    "label": "Use division notation",
+    "label": "Usar notação de divisão",
     "section": "Use Division Notation",
     "subgoals": [
       "Recognize when division is not exact",
-      "Read the remainder",
-      "Relate to the fact family"
+      "Leia o restante",
+      "Relacionam-se com a família fact"
     ]
   },
   {
     "label": "Model division",
     "section": "Model Division of Whole Numbers",
     "subgoals": [
-      "Share the dividend into equal groups",
-      "Count the leftover",
-      "Write quotient with remainder"
+      "Compartilhar o dividendo em grupos iguais",
+      "Conte as sobras",
+      "Escrever quociente com o restante"
     ]
   },
   {
@@ -22,7 +22,7 @@
     "section": "Divide Whole Numbers",
     "subgoals": [
       "Divide as usual",
-      "Record the remainder",
+      "Gravar o restante",
       "Check: divisor × quotient + remainder"
     ]
   }

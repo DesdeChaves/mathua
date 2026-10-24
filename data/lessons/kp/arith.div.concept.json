@@ -1,29 +1,29 @@
 [
   {
-    "label": "Use division notation",
+    "label": "Usar notação de divisão",
     "section": "Use Division Notation",
     "subgoals": [
-      "Identify the dividend, divisor, and quotient",
-      "Read 12 ÷ 3 as twelve divided by three",
-      "Relate division to multiplication"
+      "Identificar o dividendo, divisor e quociente",
+      "Leia 12 ÷ 3 como doze dividido por três",
+      "Relacionar divisão à multiplicação"
     ]
   },
   {
     "label": "Model division",
     "section": "Model Division of Whole Numbers",
     "subgoals": [
-      "Share the dividend into equal groups",
+      "Compartilhar o dividendo em grupos iguais",
       "Count how many per group",
-      "State the quotient"
+      "Indique o quociente"
     ]
   },
   {
     "label": "Divide whole numbers",
     "section": "Divide Whole Numbers",
     "subgoals": [
-      "Use related multiplication facts",
+      "Usar fatos de multiplicação relacionados",
       "Divide step by step",
-      "Check with multiplication"
+      "Verificar com multiplicação"
     ]
   }
 ]
