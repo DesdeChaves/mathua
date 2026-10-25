@@ -3,27 +3,27 @@
     "label": "Introduction",
     "section": "Introduction",
     "subgoals": [
-      "Identify a logarithmic inequality",
+      "Identificar uma desigualdade logarítmica",
       "Keep arguments positive",
-      "Compare to the base"
+      "Comparar com o BASE..."
     ]
   },
   {
-    "label": "Solve with the base in mind",
+    "label": "Resolva com a base em mente",
     "section": "",
     "subgoals": [
       "Handle base greater than one",
-      "Handle base between zero and one",
+      "Base do manípulo entre zero e um",
       "Flip when needed"
     ]
   },
   {
-    "label": "Check the domain",
+    "label": "Verificar o domínio",
     "section": "",
     "subgoals": [
       "Verify argument positivity",
-      "Intersect with the domain",
-      "State the interval"
+      "Interseção com o domínio",
+      "Indique o intervalo"
     ]
   }
 ]

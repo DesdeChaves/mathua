@@ -1,29 +1,29 @@
 [
   {
-    "label": "Set the other variable to zero",
+    "label": "Defina a outra variável para zero",
     "section": "Set the other variable to zero",
     "subgoals": [
-      "Set y = 0 for the x-intercept",
-      "Set x = 0 for the y-intercept",
-      "Keep the remaining one-variable equation"
+      "Defina y = 0 para a interceptação x",
+      "Defina x = 0 para a interceptação y",
+      "Mantenha a equação de uma variável restante"
     ]
   },
   {
-    "label": "Solve each one-variable equation",
+    "label": "Resolver cada equação de uma variável",
     "section": "Solve each one-variable equation",
     "subgoals": [
-      "Divide by the remaining coefficient",
-      "Keep the sign of the intercept",
+      "Dividir pelo coeficiente restante",
+      "Mantenha o sinal da interceptação",
       "Accept negative intercepts"
     ]
   },
   {
-    "label": "Read the pair in order",
+    "label": "Leia o par em ordem",
     "section": "Read the pair in order",
     "subgoals": [
       "Put x before y",
-      "Separate with a comma",
-      "Substitute both points to check"
+      "Separado por vírgula",
+      "Substitua os dois pontos para verificar"
     ]
   }
 ]

@@ -1,29 +1,29 @@
 [
   {
-    "label": "The formula and its parts",
+    "label": "A fórmula e as suas partes",
     "section": "The formula and its parts",
     "subgoals": [
-      "Identify the principal', 'the rate and the period count",
-      "Write the rate as a fraction per period",
-      "Raise the growth factor to the number of periods"
+      "Identifique o principal', 'a taxa e a contagem do período",
+      "Escreva a taxa como uma fração por período",
+      "Aumentar o fator de crescimento para o número de períodos"
     ]
   },
   {
     "label": "Compounding more often",
     "section": "Compounding more often",
     "subgoals": [
-      "Divide the annual rate by the periods per year",
-      "Multiply the exponent by the periods per year",
-      "See the limit as continuous compounding"
+      "Divida a taxa anual pelos períodos por ano",
+      "Multiplique o expoente pelos períodos por ano",
+      "Veja o limite como composição contínua"
     ]
   },
   {
     "label": "Working an example",
     "section": "Working an example",
     "subgoals": [
-      "Apply the growth factor once per period",
-      "Round the money value to cents",
-      "Compare with simple interest to see the extra"
+      "Aplicar o fator de crescimento uma vez por período",
+      "Arredonde o valor do dinheiro para centavos",
+      "Compare com o interesse simples para ver o extra"
     ]
   }
 ]

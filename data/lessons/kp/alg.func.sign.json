@@ -3,17 +3,17 @@
     "label": "Introduction",
     "section": "Introduction",
     "subgoals": [
-      "Define the sign function",
+      "Definir a função de sinal",
       "Classify inputs by sign",
-      "Read the piecewise form"
+      "Leia o formulário por partes"
     ]
   },
   {
     "label": "Properties",
     "section": "Properties",
     "subgoals": [
-      "Apply the sign of a product",
-      "Apply the sign of a quotient",
+      "Aplicar o sinal de um produto",
+      "Aplicar o sinal de um quociente",
       "Simplify expressions"
     ]
   },
@@ -21,9 +21,9 @@
     "label": "Limits at infinity",
     "section": "Limits at infinity",
     "subgoals": [
-      "Evaluate the sign at extremes",
-      "State the one-sided limits",
-      "Note the jump at zero"
+      "Avalie o sinal em extremos",
+      "Indique os limites unilaterais",
+      "Observe o salto em zero"
     ]
   }
 ]

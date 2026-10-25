@@ -3,9 +3,9 @@
     "label": "What are trinomial equations",
     "section": "What are trinomial equations",
     "subgoals": [
-      "Match the shape a*x^(2n) + b*x^n + c = 0",
-      "Substitute y = x^n for a*y^2 + b*y + c = 0",
-      "Note n = 1 collapses to plain quadratic"
+      "Combine a forma a *x^(2n) + b*x^n + c = 0",
+      "Substitua y = x^n por a*y^2 + b*y + c = 0",
+      "Nota n = 1 colapsa para quadrático simples"
     ]
   },
   {
@@ -13,17 +13,17 @@
     "section": "Example",
     "subgoals": [
       "Substitute y = x^2 into 3x^4 - 7x^2 + 2 = 0",
-      "Solve 3y^2 - 7y + 2 = 0 via the quadratic formula",
-      "Split y = 2 and y = 1/3 into x = +/-sqrt(y) branches"
+      "Resolva 3y^2 - 7y + 2 = 0 através da fórmula quadrática",
+      "Dividir y = 2 e y = 1/3 em ramificações x = +/-sqrt(y)"
     ]
   },
   {
-    "label": "Practice the method",
+    "label": "Pratique o método",
     "section": "",
     "subgoals": [
-      "Set the trinomial equal to zero first",
-      "Factor or run the quadratic formula in y",
-      "Back-substitute x^n = y_i and recheck in the original"
+      "Defina o trinômio como zero primeiro",
+      "Fatorar ou executar a fórmula quadrática em y",
+      "Substitua novamente x^n = y_i e verifique novamente no original"
     ]
   }
 ]

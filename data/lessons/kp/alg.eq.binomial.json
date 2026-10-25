@@ -3,26 +3,26 @@
     "label": "What are binomial equations",
     "section": "What are binomial equations",
     "subgoals": [
-      "Identify a binomial equation",
-      "Recognize the two-term form",
-      "Choose the degree-based strategy"
+      "Identificar uma equação binomial",
+      "Reconhecer o formulário de dois termos",
+      "Escolha a estratégia baseada em graduação"
     ]
   },
   {
     "label": "Degree less than two",
     "section": "Equations with a degree less than two",
     "subgoals": [
-      "Solve the linear case",
-      "Solve the quadratic case",
-      "State the solutions"
+      "Resolver o caso linear",
+      "Resolver o caso quadrático",
+      "Indique as soluções"
     ]
   },
   {
     "label": "Degree greater than two",
     "section": "Equations with a degree greater the than two",
     "subgoals": [
-      "Factor the binomial",
-      "Use roots of unity",
+      "Fatorar o binómio",
+      "Usar raízes de unidade",
       "Collect all solutions"
     ]
   }

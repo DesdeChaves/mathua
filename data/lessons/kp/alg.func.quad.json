@@ -1,29 +1,29 @@
 [
   {
-    "label": "From equation to parabola",
+    "label": "Da equação à parábola",
     "section": "From Equation to Parabola",
     "subgoals": [
-      "Identify the quadratic form",
-      "Find the vertex",
-      "Sketch the parabola"
+      "Identificar a forma quadrática",
+      "Encontrar o vértice",
+      "Esboce a parábola"
     ]
   },
   {
-    "label": "Vertex and symmetry",
+    "label": "Vértice e simetria",
     "section": "Vertex and symmetry in special cases",
     "subgoals": [
-      "Compute the axis of symmetry",
-      "Locate the vertex",
-      "Use symmetry to plot points"
+      "Calcular o eixo de simetria",
+      "Localize o vértice",
+      "Usar simetria para plotar pontos"
     ]
   },
   {
-    "label": "Read the graph",
+    "label": "Leia o gráfico",
     "section": "",
     "subgoals": [
-      "Find intercepts from the graph",
-      "Identify the opening direction",
-      "State the range"
+      "Encontrar interceptações do gráfico",
+      "Identificar a direção de abertura",
+      "Indique o intervalo"
     ]
   }
 ]

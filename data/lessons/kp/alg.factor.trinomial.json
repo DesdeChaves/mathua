@@ -3,9 +3,9 @@
     "label": "Definition",
     "section": "Definition",
     "subgoals": [
-      "Identify a quadratic trinomial",
-      "Recognize the coefficients",
-      "Prepare to factor"
+      "Identificar um trinômio quadrático",
+      "Reconhecer os coeficientes",
+      "Preparar para fatorar"
     ]
   },
   {
@@ -13,7 +13,7 @@
     "section": "Classification of trinomials",
     "subgoals": [
       "Classify by leading coefficient",
-      "Choose the factoring method",
+      "Escolha o método de factoring",
       "Handle special cases"
     ]
   },
@@ -22,7 +22,7 @@
     "section": "The discriminant",
     "subgoals": [
       "Compute b^2 - 4ac",
-      "Read the root structure",
+      "Leia a estrutura raiz",
       "Decide real vs complex"
     ]
   }

@@ -3,27 +3,27 @@
     "label": "Introduction",
     "section": "Introduction",
     "subgoals": [
-      "Identify the a, b, c coefficients",
-      "Compute the product ac",
-      "Prepare the split"
+      "Identifique os coeficientes a, b, c",
+      "Calcular a ac do produto",
+      "Preparar a divisão"
     ]
   },
   {
     "label": "The method",
     "section": "The method",
     "subgoals": [
-      "Find factors of ac summing to b",
-      "Split the middle term",
+      "Encontrar fatores de soma ac para b",
+      "Dividir o meio termo",
       "Factor by grouping"
     ]
   },
   {
-    "label": "Relation to Vieta",
+    "label": "Relação com a Vieta",
     "section": "Relation to Vieta's formulas",
     "subgoals": [
-      "Connect the factors to the roots",
-      "Verify with Vieta",
-      "Check the factorization"
+      "Ligue os factores às raízes",
+      "Verificar com a Vieta",
+      "Verificar a fatoração"
     ]
   }
 ]

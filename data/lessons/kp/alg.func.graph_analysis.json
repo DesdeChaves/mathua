@@ -3,27 +3,27 @@
     "label": "Introduction",
     "section": "Introduction",
     "subgoals": [
-      "Sketch the graph",
-      "Identify key features",
-      "Prepare to analyze"
+      "Esboce o gráfico",
+      "Identifique os principais recursos",
+      "Prepare-se para analisar"
     ]
   },
   {
     "label": "Domain",
     "section": "Domain",
     "subgoals": [
-      "Read the x-extent from the graph",
-      "State the domain",
+      "Leia o x-extent do gráfico",
+      "Indique o domínio",
       "Note discontinuities"
     ]
   },
   {
-    "label": "Symmetry and intercepts",
+    "label": "Simetria e interceptações",
     "section": "Symmetry",
     "subgoals": [
-      "Check for symmetry",
-      "Find x-intercepts",
-      "Find the y-intercept"
+      "Verificar simetria",
+      "Encontrar x-intercepts",
+      "Encontre a interceptação y"
     ]
   }
 ]

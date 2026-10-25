@@ -4,16 +4,16 @@
     "section": "Definition",
     "subgoals": [
       "Define an interval",
-      "Use endpoint notation",
-      "Distinguish open and closed"
+      "Usar notação de ponto de extremidade",
+      "Distinguir aberto e fechado"
     ]
   },
   {
     "label": "Bounded intervals",
     "section": "Bounded intervals",
     "subgoals": [
-      "Write bounded intervals",
-      "Read endpoint inclusion",
+      "Gravar intervalos delimitados",
+      "Ler inclusão de endpoint",
       "Graph them"
     ]
   },
@@ -21,9 +21,9 @@
     "label": "Unbounded intervals",
     "section": "Unbounded intervals",
     "subgoals": [
-      "Use infinity notation",
+      "Usar notação de infinito",
       "Graph unbounded intervals",
-      "Combine with unions"
+      "Combinar com sindicatos"
     ]
   }
 ]

@@ -5,25 +5,25 @@
     "subgoals": [
       "Order inner f first, outer g second",
       "Check f(A) subset B before composing",
-      "Write g o f: x -> g(f(x)) with domain A"
+      "Escreva g o f: x -> g(f(x)) com o domínio A"
     ]
   },
   {
     "label": "Example",
     "section": "Example",
     "subgoals": [
-      "Plug 2x + 3 into x^2 for (2x + 3)^2",
-      "Evaluate at x = 1 to get 25 as a check",
-      "Note g o f differs from f o g in general"
+      "Conecte 2x + 3 em x^2 para (2x + 3)^2",
+      "Avalie em x = 1 para obter 25 como um cheque",
+      "Nota g o f difere de f o g em geral"
     ]
   },
   {
-    "label": "Composition with the inverse",
+    "label": "Composição com o inverso",
     "section": "Composition with the inverse function",
     "subgoals": [
-      "Compose f(f^-1(x)) to recover x",
-      "Require injective plus surjective for invertibility",
-      "Use the identity round-trip to confirm inverses"
+      "Compor f(f^-1(x)) para recuperar x",
+      "Requer injetor mais sobrejetivo para invertibilidade",
+      "Use a identidade de ida e volta para confirmar inversos"
     ]
   }
 ]

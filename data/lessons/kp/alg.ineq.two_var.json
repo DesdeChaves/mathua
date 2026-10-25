@@ -3,17 +3,17 @@
     "label": "Solving graphically",
     "section": "Solving Inequalities Graphically",
     "subgoals": [
-      "Graph the boundary line",
-      "Choose the half-plane",
-      "Shade the solution region"
+      "Representar graficamente a linha limite",
+      "Escolha o meio plano",
+      "Sombrear a região da solução"
     ]
   },
   {
-    "label": "Absolute value and quadratic",
+    "label": "Valor absoluto e quadrático",
     "section": "Solving Absolute Value and Quadratic Inequalities Graphically",
     "subgoals": [
-      "Sketch the V or parabola",
-      "Identify the region",
+      "Esboce o V ou a parábola",
+      "Identificar a região",
       "Shade correctly"
     ]
   },
@@ -22,8 +22,8 @@
     "section": "Solving Compound Inequalities Graphically",
     "subgoals": [
       "Graph both parts",
-      "Intersect or union the regions",
-      "State the result"
+      "Interseção ou união das regiões",
+      "Indique o resultado"
     ]
   }
 ]

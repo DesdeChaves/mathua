@@ -3,27 +3,27 @@
     "label": "Introduction",
     "section": "Introduction",
     "subgoals": [
-      "Define increasing and decreasing",
-      "Read monotonicity from a graph",
+      "Definir crescente e decrescente",
+      "Ler monotonicidade de um gráfico",
       "State intervals"
     ]
   },
   {
-    "label": "Derivatives and monotonicity",
+    "label": "Derivadas e monotonicidade",
     "section": "Derivatives and monotonic behavior",
     "subgoals": [
-      "Relate the sign of the derivative",
-      "Find critical points",
-      "Determine the intervals"
+      "Relacionar o sinal da derivada",
+      "Ponto crítico",
+      "Determine os intervalos"
     ]
   },
   {
-    "label": "Verify with values",
+    "label": "Verificar com valores",
     "section": "",
     "subgoals": [
       "Sample points in each interval",
       "Compare function values",
-      "Confirm the classification"
+      "Confirme a classificação"
     ]
   }
 ]

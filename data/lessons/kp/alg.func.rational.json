@@ -3,8 +3,8 @@
     "label": "What are rational functions",
     "section": "What are rational functions",
     "subgoals": [
-      "Identify a ratio of polynomials",
-      "Find the domain",
+      "Identificar uma proporção de polinômios",
+      "Encontrar o domínio",
       "Exclude zero denominators"
     ]
   },
@@ -13,8 +13,8 @@
     "section": "Properties",
     "subgoals": [
       "Locate vertical asymptotes",
-      "Find intercepts",
-      "Identify holes"
+      "Encontrar interceptações",
+      "Identificar furos"
     ]
   },
   {
@@ -22,7 +22,7 @@
     "section": "Limits at infinity for rational functions",
     "subgoals": [
       "Compare degrees",
-      "Find the horizontal asymptote",
+      "Encontre a assíntota horizontal",
       "Describe end behavior"
     ]
   }

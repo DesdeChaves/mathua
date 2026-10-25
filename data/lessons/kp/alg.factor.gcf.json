@@ -3,26 +3,26 @@
     "label": "Motivation",
     "section": "Motivation for Factoring",
     "subgoals": [
-      "List the factors of each term",
-      "Find the common factors",
-      "Explain why factoring matters"
+      "Liste os fatores de cada termo",
+      "Encontre os fatores comuns",
+      "Explique por que o factoring é importante"
     ]
   },
   {
-    "label": "Identify the GCF",
+    "label": "Identificar o GCF",
     "section": "Identifying the Greatest Common Factor",
     "subgoals": [
       "Compare term factors",
-      "Pick the largest common factor",
+      "Escolha o maior fator comum",
       "Verify it divides every term"
     ]
   },
   {
-    "label": "Factor out the GCF",
+    "label": "Fatorar o GCF",
     "section": "Factoring Out the Greatest Common Factor",
     "subgoals": [
-      "Divide each term by the GCF",
-      "Rewrite as a product",
+      "Divida cada termo pelo GCF",
+      "Reescrever como um produto",
       "Check by distributing"
     ]
   }

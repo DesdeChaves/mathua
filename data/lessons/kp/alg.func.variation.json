@@ -1,20 +1,20 @@
 [
   {
-    "label": "Find the constant",
+    "label": "Encontre a constante",
     "section": "Find the constant",
     "subgoals": [
-      "Use k = y/x for direct variation",
-      "Use k = xy for inverse variation",
-      "Keep the given pair together"
+      "Use k = y/x para variação direta",
+      "Use k = xy para variação inversa",
+      "Mantenha o par dado junto"
     ]
   },
   {
-    "label": "Apply it to the new value",
+    "label": "Aplicar ao novo valor",
     "section": "Apply it to the new value",
     "subgoals": [
-      "Multiply for direct variation",
-      "Divide for inverse variation",
-      "Do not swap the two formulas"
+      "Multiplicar por variação direta",
+      "Dividir para variação inversa",
+      "Não troque as duas fórmulas"
     ]
   },
   {
@@ -23,7 +23,7 @@
     "subgoals": [
       "Doubling x doubles y when direct",
       "Doubling x halves y when inverse",
-      "Check the constant on both pairs"
+      "Verifique a constante em ambos os pares"
     ]
   }
 ]

@@ -4,25 +4,25 @@
     "section": "Introduction",
     "subgoals": [
       "Define absolute value as distance",
-      "Recognize the V shape",
-      "Read the vertex"
+      "Reconhecer a forma de V",
+      "Ler o vértice"
     ]
   },
   {
-    "label": "Graph and symmetry",
+    "label": "Gráfico e simetria",
     "section": "Graph and symmetry of the absolute value function",
     "subgoals": [
-      "Plot the V shape",
-      "Identify the axis of symmetry",
-      "Transform the graph"
+      "Traçar a forma de V",
+      "Identificar o eixo de simetria",
+      "Transformar o gráfico"
     ]
   },
   {
     "label": "Properties",
     "section": "Properties",
     "subgoals": [
-      "Apply the nonnegativity property",
-      "Use the product property",
+      "Aplicar a propriedade de não negatividade",
+      "Usar a propriedade do produto",
       "Simplify expressions"
     ]
   }

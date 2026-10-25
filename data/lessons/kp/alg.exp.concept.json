@@ -3,9 +3,9 @@
     "label": "The exponential function",
     "section": "",
     "subgoals": [
-      "Identify the base and exponent",
+      "Identifique a base e o expoente",
       "Recognize exponential growth",
-      "Read values from the function"
+      "Ler valores da função"
     ],
     "slice": {
       "rule": "The exponential function is $f(x) = a^x$ for a fixed base $a > 0$ with $a \\ne 1$. Unlike a power $x^n$, the variable sits in the exponent, so the output grows by a fixed *ratio* over each unit step rather than by a fixed amount. The domain is all of $\\mathbb{R}$ and the range is $\\mathbb{R}^+$.",
@@ -31,8 +31,8 @@
     "section": "",
     "subgoals": [
       "Compare growth rates",
-      "Interpret the base",
-      "Sketch the shape"
+      "Interpretar a base",
+      "Esboce a forma"
     ],
     "slice": {
       "rule": "Three regimes, decided by the base. For $a>1$ the function is strictly increasing from $0$ towards $\\infty$, passing through $(0,1)$. For $0<a<1$ it is strictly decreasing from $\\infty$ towards $0$. For $a=1$ it is the constant line $y=1$.",
@@ -54,7 +54,7 @@
     "subgoals": [
       "Recognize exponential models",
       "Evaluate at given inputs",
-      "Interpret the output"
+      "Interpretar a saída"
     ],
     "slice": {
       "rule": "Anything that compounds by a constant factor is exponential: population growth under a fixed rate, a balance earning a fixed rate, and radioactive decay. Read the base as the factor per unit of time.",

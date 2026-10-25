@@ -3,16 +3,16 @@
     "label": "Introduction",
     "section": "Introduction",
     "subgoals": [
-      "Identify a rational inequality",
-      "Move terms to one side",
-      "Prepare the sign table"
+      "Identificar uma desigualdade racional",
+      "Mover termos para um lado",
+      "Prepare a tabela de sinais"
     ]
   },
   {
-    "label": "Multiplicity and signs",
+    "label": "Multiplicidade e signos",
     "section": "Multiplicity and sign changes",
     "subgoals": [
-      "Account for factor multiplicity",
+      "Contabilizar a multiplicidade de fatores",
       "Track sign changes",
       "Handle repeated roots"
     ]
@@ -23,7 +23,7 @@
     "subgoals": [
       "Mark excluded points",
       "Test each interval",
-      "Write the final set"
+      "Escreva o conjunto final"
     ]
   }
 ]

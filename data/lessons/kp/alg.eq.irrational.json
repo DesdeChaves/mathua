@@ -4,8 +4,8 @@
     "section": "Definition of irrational equations",
     "subgoals": [
       "Recognize a radical equation",
-      "Identify the radical terms",
-      "Prepare to isolate them"
+      "Identificar os termos radicais",
+      "Prepare-se para isolar"
     ]
   },
   {
@@ -13,7 +13,7 @@
     "section": "General forms of irrational equations",
     "subgoals": [
       "Isolate a radical",
-      "Raise both sides to the index",
+      "Levante ambos os lados para o índice",
       "Repeat if needed"
     ]
   },
@@ -21,9 +21,9 @@
     "label": "Rational vs irrational equations",
     "section": "Distinction between irrational and rational equations",
     "subgoals": [
-      "Classify the equation type",
-      "Choose the solving method",
-      "Check for extraneous solutions"
+      "Classificar o tipo de equação",
+      "Escolha o método de resolução",
+      "Verifique se há soluções estranhas"
     ]
   }
 ]

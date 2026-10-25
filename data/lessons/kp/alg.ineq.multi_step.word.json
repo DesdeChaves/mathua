@@ -1,29 +1,29 @@
 [
   {
-    "label": "Write the budget as an inequality",
+    "label": "Escreva o orçamento como uma desigualdade",
     "section": "Introduction to inequalities",
     "subgoals": [
-      "Find the phrase that sets the limit",
-      "Decide which side of the limit is allowed",
-      "Write the cost as flat fee plus rate times the unknown"
+      "Encontre a frase que define o limite",
+      "Decida qual lado do limite é permitido",
+      "Escreva o custo como taxa fixa mais taxa vezes o desconhecido"
     ]
   },
   {
-    "label": "Solve the inequality",
+    "label": "Resolver a desigualdade",
     "section": "How to solve literal first-degree inequalities",
     "subgoals": [
-      "Take the flat fee off both sides",
-      "Divide both sides by the rate",
-      "Keep the direction of the inequality"
+      "Tire a taxa fixa de ambos os lados",
+      "Divida ambos os lados pela taxa",
+      "Manter a direção da desigualdade"
     ]
   },
   {
-    "label": "Take the greatest whole number",
+    "label": "Pegue o maior número inteiro",
     "section": "Geometric interpretation",
     "subgoals": [
-      "Mark the solution boundary on a number line",
-      "Take the whole number that still fits",
-      "Check the next whole number is over the limit"
+      "Marque o limite da solução numa linha numérica",
+      "Pegue o número inteiro que ainda cabe",
+      "Verifique se o próximo número inteiro está acima do limite"
     ]
   }
 ]

@@ -1,19 +1,19 @@
 [
   {
-    "label": "Shifts and reflections",
+    "label": "Turnos e reflexos",
     "section": "Shifts and reflections",
     "subgoals": [
-      "Add outside the function to move vertically",
-      "Negate the output to flip it over the x-axis",
-      "Leave the shape unchanged"
+      "Adicione fora da função para mover verticalmente",
+      "Negue a saída para virá-la sobre o eixo x",
+      "Deixe a forma inalterada"
     ]
   },
   {
-    "label": "Stretches and compressions",
+    "label": "Alongamentos e compressões",
     "section": "Stretches and compressions",
     "subgoals": [
-      "Multiply the output for a vertical stretch",
-      "Match the input factor to the inverse horizontal change",
+      "Multiplique a saída por um alongamento vertical",
+      "Combine o fator de entrada com a mudança horizontal inversa",
       "Remember that inside changes reverse"
     ]
   },
@@ -21,9 +21,9 @@
     "label": "Order matters",
     "section": "Order matters",
     "subgoals": [
-      "Identify the parent function",
-      "List transformations from the outside in",
-      "Track a few key points through the changes"
+      "Identificar a função pai",
+      "Listar transformações de fora para dentro",
+      "Acompanhe alguns pontos-chave através das alterações"
     ]
   }
 ]

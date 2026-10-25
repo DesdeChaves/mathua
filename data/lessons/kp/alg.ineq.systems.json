@@ -3,18 +3,18 @@
     "label": "Linear systems in one variable",
     "section": "Linear systems of inequalities in one variable",
     "subgoals": [
-      "Solve each inequality",
-      "Intersect the solutions",
-      "Write the interval"
+      "Resolver cada desigualdade",
+      "Interseção das soluções",
+      "Escreva o intervalo"
     ]
   },
   {
     "label": "General strategy",
     "section": "General strategy for solving systems of inequalities",
     "subgoals": [
-      "Solve each part separately",
-      "Combine with and or or",
-      "Graph the result"
+      "Resolva cada parte separadamente",
+      "Combinar com e ou ou",
+      "Representar graficamente o resultado"
     ]
   },
   {
@@ -23,7 +23,7 @@
     "subgoals": [
       "Graph each boundary",
       "Shade each half-plane",
-      "Find the overlap"
+      "A sobreposição"
     ]
   }
 ]

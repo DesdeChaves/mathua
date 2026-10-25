@@ -1,6 +1,6 @@
 [
   {
-    "label": "Loss of roots",
+    "label": "Perda de raízes",
     "section": "Loss of Roots",
     "subgoals": [
       "Recognize when operations lose roots",
@@ -12,17 +12,17 @@
     "label": "Correct method",
     "section": "Correct method",
     "subgoals": [
-      "Factor instead of canceling",
+      "Fator em vez de cancelar",
       "Keep every factor",
       "List all solutions"
     ]
   },
   {
-    "label": "Loss of roots by squaring",
+    "label": "Perda de raízes por quadratura",
     "section": "Loss of roots by squaring",
     "subgoals": [
       "Square carefully",
-      "Check for extraneous roots",
+      "Verifique se há raízes estranhas",
       "Reject values that fail"
     ]
   }

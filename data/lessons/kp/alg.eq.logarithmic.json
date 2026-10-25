@@ -3,27 +3,27 @@
     "label": "Introduction",
     "section": "Introduction",
     "subgoals": [
-      "Identify a logarithmic equation",
+      "Identificar uma equação logarítmica",
       "Combine logarithms",
-      "Exponentiate to solve"
+      "Exponenciar para resolver"
     ]
   },
   {
     "label": "Simplified forms",
     "section": "Simplified forms of logarithmic equations",
     "subgoals": [
-      "Apply the product and quotient properties",
-      "Rewrite in exponential form",
-      "Solve the result"
+      "Aplicar as propriedades do produto e do quociente",
+      "Reescrever na forma exponencial",
+      "Resolver o resultado"
     ]
   },
   {
-    "label": "Check the domain",
+    "label": "Verificar o domínio",
     "section": "",
     "subgoals": [
       "Verify arguments stay positive",
       "Reject out-of-domain solutions",
-      "State the answer"
+      "Indique a resposta"
     ]
   }
 ]

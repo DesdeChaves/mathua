@@ -1,29 +1,29 @@
 [
   {
-    "label": "Swapping domain and range",
+    "label": "Troca de domínio e intervalo",
     "section": "Swapping domain and range",
     "subgoals": [
-      "Read the original's range as the inverse's domain",
-      "Read the original's domain as the inverse's range",
-      "Keep the two sets matched by the swap"
+      "Ler o intervalo do original como o domínio do inverso",
+      "Ler o domínio do original como o intervalo do inverso",
+      "Mantenha os dois conjuntos combinados pelo swap"
     ]
   },
   {
-    "label": "One-to-one and how to fix it",
+    "label": "Um-para-um e como corrigi-lo",
     "section": "One-to-one and how to fix it",
     "subgoals": [
       "Test whether distinct inputs give distinct outputs",
-      "Restrict the domain until they do",
-      "Name the branch chosen by the restriction"
+      "Restringir o domínio até que o façam",
+      "Nomeie a filial escolhida pela restrição"
     ]
   },
   {
     "label": "Reading a graph",
     "section": "Reading a graph",
     "subgoals": [
-      "Reflect the graph across the diagonal",
-      "Use the horizontal-line test for one-to-one",
-      "See the axes exchange as domain and range swap"
+      "Refletir o gráfico na diagonal",
+      "Use o teste de linha horizontal para um-para-um",
+      "Veja a troca de eixos como troca de domínio e intervalo"
     ]
   }
 ]

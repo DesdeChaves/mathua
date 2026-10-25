@@ -3,27 +3,27 @@
     "label": "Conic sections intro",
     "section": "Introduction to conic sections",
     "subgoals": [
-      "Recognize the hyperbola as a conic section",
-      "Identify its two branches",
-      "Locate the center"
+      "Reconhecer a hipérbole como uma secção cónica",
+      "Identificar os seus dois ramos",
+      "Localize o centro"
     ]
   },
   {
     "label": "What is a hyperbola",
     "section": "What is a hyperbola",
     "subgoals": [
-      "State the two-focus definition",
-      "Identify vertices and asymptotes",
-      "Use the standard equation"
+      "Indique a definição de dois focos",
+      "Identificar vértices e assíntotas",
+      "Use a equação padrão"
     ]
   },
   {
-    "label": "Difference of distances",
+    "label": "Diferença de distâncias",
     "section": "Why is the difference of distances to the foci always constant in a hyperbola?",
     "subgoals": [
-      "Explain the constant-difference property",
-      "Verify it on the branches",
-      "Connect to the equation"
+      "Explique a propriedade de diferença constante",
+      "Verificar nas filiais",
+      "Conecte-se à equação"
     ]
   }
 ]

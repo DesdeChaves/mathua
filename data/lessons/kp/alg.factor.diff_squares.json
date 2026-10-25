@@ -1,28 +1,28 @@
 [
   {
-    "label": "Difference of squares",
+    "label": "Diferença de quadrados",
     "section": "Difference of Squares",
     "subgoals": [
-      "Recognize a difference of squares",
-      "Write both square roots",
-      "Factor into the two binomials"
+      "Reconhecer uma diferença de quadrados",
+      "Escreva ambas as raízes quadradas",
+      "Fator nos dois binómios"
     ]
   },
   {
     "label": "Perfect square trinomials",
     "section": "Perfect Square Trinomials",
     "subgoals": [
-      "Recognize the pattern",
-      "Write the squared binomial",
-      "Verify the middle term"
+      "Reconhecer o padrão",
+      "Escreva o binómio quadrado",
+      "Verifique o meio termo"
     ]
   },
   {
     "label": "Factoring in stages",
     "section": "Factoring in Stages",
     "subgoals": [
-      "Factor out the GCF first",
-      "Apply difference of squares",
+      "Fatorar o GCF primeiro",
+      "Aplicar diferença de quadrados",
       "Factor completely"
     ]
   }

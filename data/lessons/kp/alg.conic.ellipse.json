@@ -3,27 +3,27 @@
     "label": "Conic sections intro",
     "section": "Introduction to conic sections",
     "subgoals": [
-      "Recognize the ellipse as a conic section",
-      "Identify the major and minor axes",
-      "Locate the center"
+      "Reconhecer a elipse como uma secção cónica",
+      "Identificar os eixos maior e menor",
+      "Localize o centro"
     ]
   },
   {
     "label": "What is an ellipse",
     "section": "What is an ellipse",
     "subgoals": [
-      "State the two-focus definition",
-      "Identify vertices and foci",
-      "Use the standard equation"
+      "Indique a definição de dois focos",
+      "Identificar vértices e focos",
+      "Use a equação padrão"
     ]
   },
   {
-    "label": "Sum of distances to foci",
+    "label": "Soma das distâncias para os focos",
     "section": "Why is the sum of distances to the foci always constant in an ellipse?",
     "subgoals": [
-      "Explain the constant-sum property",
-      "Verify it on points of the ellipse",
-      "Connect to the equation"
+      "Explique a propriedade de soma constante",
+      "Verifique nos pontos da elipse",
+      "Conecte-se à equação"
     ]
   }
 ]

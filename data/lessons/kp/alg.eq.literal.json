@@ -3,18 +3,18 @@
     "label": "Definition",
     "section": "Definition",
     "subgoals": [
-      "Identify the parameters",
-      "Choose the variable to solve for",
+      "Identificar os parâmetros",
+      "Escolha a variável para resolver",
       "Treat others as constants"
     ]
   },
   {
-    "label": "Classification of cases",
+    "label": "28. Classificação das Ações.",
     "section": "Classification of cases",
     "subgoals": [
       "Classify by parameter values",
       "Handle special cases",
-      "State the solution family"
+      "Indique a família de soluções"
     ]
   },
   {
@@ -22,8 +22,8 @@
     "section": "",
     "subgoals": [
       "Substitute parameter values",
-      "Compare with direct solving",
-      "Confirm the formula"
+      "Comparar com a resolução direta",
+      "Confirme a fórmula"
     ]
   }
 ]

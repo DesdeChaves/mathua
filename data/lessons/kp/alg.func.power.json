@@ -4,26 +4,26 @@
     "section": "Even natural exponents",
     "subgoals": [
       "Evaluate (-2)^4 by repeated multiplication",
-      "Read the minimum value 0 at x = 0",
-      "Conclude even parity from f(-x) = f(x)"
+      "Leia o valor mínimo 0 em x = 0",
+      "Concluir paridade par de f(-x) = f(x)"
     ]
   },
   {
     "label": "Odd natural exponents",
     "section": "Odd natural exponents",
     "subgoals": [
-      "Evaluate (-2)^3 keeping the sign",
-      "Read the range as all real numbers",
-      "Conclude the map is a bijection of R onto R"
+      "Avaliar (-2)^3 mantendo o sinal",
+      "Leia o intervalo como todos os números reais",
+      "Concluir que o mapa é uma bijeção de R em R"
     ]
   },
   {
     "label": "Negative integer exponents",
     "section": "Negative integer exponents",
     "subgoals": [
-      "Rewrite x^(-2) as 1/x^2",
-      "Locate the vertical asymptote at x = 0",
-      "Read the sign of each branch"
+      "Reescrever x^(-2) como 1/x^2",
+      "Localize a assíntota vertical em x = 0",
+      "Leia o sinal de cada ramo"
     ]
   }
 ]

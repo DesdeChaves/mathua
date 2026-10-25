@@ -3,27 +3,27 @@
     "label": "Conic sections intro",
     "section": "Introduction to conic sections",
     "subgoals": [
-      "Recognize the circle as a conic section",
-      "Identify the standard form",
-      "Locate center and radius"
+      "Reconhecer o círculo como uma secção cónica",
+      "Identificar o formulário padrão",
+      "Localize o centro e o raio"
     ]
   },
   {
     "label": "What is a circumference",
     "section": "What is a circumference",
     "subgoals": [
-      "Relate circumference to the radius",
-      "Use the circumference formula",
-      "Connect to the circle equation"
+      "Relacionar a circunferência com o raio",
+      "Use a fórmula da circunferência",
+      "Conecte-se à equação do círculo"
     ]
   },
   {
-    "label": "Center and radius from general form",
+    "label": "Centro e raio da forma geral",
     "section": "Center and radius from the general form",
     "subgoals": [
-      "Complete the square",
-      "Rewrite in standard form",
-      "Read off the center and radius"
+      "Complete o quadrado",
+      "Reescrever na forma padrão",
+      "Leia o centro e o raio"
     ]
   }
 ]

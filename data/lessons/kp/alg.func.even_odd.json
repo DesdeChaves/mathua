@@ -1,29 +1,29 @@
 [
   {
-    "label": "Behavior of a function",
+    "label": "Comportamento de uma função",
     "section": "Behavior of a function",
     "subgoals": [
       "Describe symmetry by eye",
       "Test f(-x) versus f(x)",
-      "Classify the function"
+      "Classificar a função"
     ]
   },
   {
     "label": "Even function",
     "section": "Even function",
     "subgoals": [
-      "State the even condition",
-      "Verify symmetry about the y-axis",
-      "Test with examples"
+      "Indique a condição par",
+      "Verifique a simetria sobre o eixo y",
+      "Teste com exemplos"
     ]
   },
   {
     "label": "Odd function",
     "section": "Odd function",
     "subgoals": [
-      "State the odd condition",
-      "Verify symmetry about the origin",
-      "Test with examples"
+      "Indique a condição ímpar",
+      "Verificar simetria sobre a origem",
+      "Teste com exemplos"
     ]
   }
 ]

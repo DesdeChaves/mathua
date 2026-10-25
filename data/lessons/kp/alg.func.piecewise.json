@@ -1,29 +1,29 @@
 [
   {
-    "label": "Choosing the branch",
+    "label": "Escolher a filial",
     "section": "Choosing the branch",
     "subgoals": [
-      "Decide which part of the domain the input lies in",
-      "Use only the formula for that part",
-      "Watch whether the boundary is included"
+      "Decida em qual parte do domínio a entrada está",
+      "Use apenas a fórmula para essa parte",
+      "Observe se o limite está incluído"
     ]
   },
   {
     "label": "Evaluating a two-piece rule",
     "section": "Evaluating a two-piece rule",
     "subgoals": [
-      "Test the input against each condition in order",
-      "Substitute into the matching expression",
-      "Keep the value at the boundary on the correct side"
+      "Teste a entrada em relação a cada condição em ordem",
+      "Substituir na expressão correspondente",
+      "Mantenha o valor no limite do lado correto"
     ]
   },
   {
     "label": "Where piecewise functions appear",
     "section": "Where piecewise functions appear",
     "subgoals": [
-      "Recognise a change of rule at a threshold",
+      "Reconhecer uma mudança de regra num limite",
       "Translate a rate schedule into branches",
-      "Read the definition of absolute value as piecewise"
+      "Leia a definição de valor absoluto por partes"
     ]
   }
 ]

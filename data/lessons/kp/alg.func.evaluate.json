@@ -4,16 +4,16 @@
     "section": "Informal Definition of a Function",
     "subgoals": [
       "Recognize function notation f(x)",
-      "Identify the input",
-      "Prepare to substitute"
+      "Identifique a entrada",
+      "Prepare-se para substituir"
     ]
   },
   {
-    "label": "Tables and graphs",
+    "label": "Quadros e gráficos",
     "section": "Tables and Graphs",
     "subgoals": [
-      "Read values from a table",
-      "Read values from a graph",
+      "Ler valores de uma tabela",
+      "Ler valores de um gráfico",
       "Evaluate at given inputs"
     ]
   },
@@ -22,7 +22,7 @@
     "section": "Translating Between Four Descriptions of the Same Function",
     "subgoals": [
       "Move between formula, table, graph, words",
-      "Keep the values consistent",
+      "Mantenha os valores consistentes",
       "Evaluate in any form"
     ]
   }

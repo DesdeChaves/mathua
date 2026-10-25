@@ -3,27 +3,27 @@
     "label": "Definition",
     "section": "Definition",
     "subgoals": [
-      "Write the sigmoid formula",
-      "Identify its range",
-      "Read the S shape"
+      "Escreva a fórmula sigmoide",
+      "Identificar a sua gama",
+      "Leia a forma de S"
     ]
   },
   {
     "label": "Properties",
     "section": "Properties of the sigmoid function",
     "subgoals": [
-      "Bound the output between 0 and 1",
-      "Find the midpoint",
-      "Use it as an activation"
+      "Vinculou a saída entre 0 e 1",
+      "Encontre o ponto médio",
+      "Utilize-o como uma ativação"
     ]
   },
   {
     "label": "Derivative",
     "section": "Derivative of the sigmoid function",
     "subgoals": [
-      "Compute the derivative",
-      "Express it via the function itself",
-      "Apply in backpropagation"
+      "Calcular a derivada",
+      "Expresse-o através da própria função",
+      "Aplicar em retropropagação"
     ]
   }
 ]

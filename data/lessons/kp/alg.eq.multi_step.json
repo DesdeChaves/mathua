@@ -3,18 +3,18 @@
     "label": "What are equations",
     "section": "What are equations",
     "subgoals": [
-      "Identify an equation",
-      "Recognize the unknown",
-      "Prepare to solve"
+      "Identificar uma equação",
+      "Reconhecer o desconhecido",
+      "Prepare-se para resolver"
     ]
   },
   {
-    "label": "Solution to an equation",
+    "label": "Solução para uma equação",
     "section": "The solution to an equation",
     "subgoals": [
-      "Apply equivalent operations",
-      "Isolate the variable",
-      "State the solution"
+      "Aplicar operações equivalentes",
+      "Isole a variável",
+      "Indique a solução"
     ]
   },
   {

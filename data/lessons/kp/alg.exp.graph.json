@@ -1,29 +1,29 @@
 [
   {
-    "label": "Shape of the curve",
+    "label": "Forma da curva",
     "section": "Shape of the curve",
     "subgoals": [
-      "Rise steeply to the right for a base above one",
-      "Flatten toward zero to the left",
-      "Mark the height at input zero as the coefficient"
+      "Suba acentuadamente para a direita para uma base acima de uma",
+      "Achatar em direção a zero para a esquerda",
+      "Marque a altura na entrada zero como o coeficiente"
     ]
   },
   {
     "label": "The constant factor",
     "section": "The constant factor",
     "subgoals": [
-      "Multiply by the base over each unit step",
-      "Read a base above one as growth",
-      "Read a base below one as decay"
+      "Multiplique pela base em cada etapa da unidade",
+      "Leia uma base acima de uma como crescimento",
+      "Leia uma base abaixo de um como decaimento"
     ]
   },
   {
     "label": "Why it grows faster than any power",
     "section": "Why it grows faster than any power",
     "subgoals": [
-      "Compare compounding with a fixed number of factors",
-      "Connect the model to a rate proportional to the amount",
-      "Recognise the exponential in growth and decay data"
+      "Compare a composição com um número fixo de fatores",
+      "Conecte o modelo a uma taxa proporcional ao valor",
+      "Reconhecer o exponencial nos dados de crescimento e declínio"
     ]
   }
 ]

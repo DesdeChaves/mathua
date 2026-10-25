@@ -3,27 +3,27 @@
     "label": "Definition",
     "section": "Definition",
     "subgoals": [
-      "Identify a radical inequality",
-      "Recognize the index",
-      "Prepare to isolate"
+      "Identificar uma desigualdade radical",
+      "Reconhecer o índice",
+      "Prepare-se para isolar"
     ]
   },
   {
     "label": "Even vs odd radicals",
     "section": "Even-index radicals versus odd-index radicals",
     "subgoals": [
-      "Handle domain for even roots",
-      "Allow negatives for odd roots",
-      "Adjust the method"
+      "Lidar com o domínio para raízes uniformes",
+      "Permitir negativos para raízes ímpares",
+      "Ajustar o método"
     ]
   },
   {
     "label": "Solution steps",
     "section": "Typical solution steps",
     "subgoals": [
-      "Isolate the radical",
+      "Isole o radical",
       "Raise both sides",
-      "Check the domain and solutions"
+      "Verifique o domínio e as soluções"
     ]
   }
 ]

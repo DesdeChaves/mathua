@@ -3,26 +3,26 @@
     "label": "Exponent basics",
     "section": "Exponent Basics",
     "subgoals": [
-      "Identify the base and the exponent",
-      "Expand the power",
-      "Simplify the product"
+      "Identifique a base e o expoente",
+      "Expandir o poder",
+      "Simplifique o produto"
     ]
   },
   {
     "label": "Exponent rules",
     "section": "Exponent Rules",
     "subgoals": [
-      "Apply the product rule",
-      "Apply the quotient rule",
-      "Apply the power rule"
+      "Aplicar a regra do produto",
+      "Aplicar a regra do quociente",
+      "Aplicar a regra de potência"
     ]
   },
   {
     "label": "Evaluate powers",
     "section": "",
     "subgoals": [
-      "Rewrite with a positive exponent",
-      "Compute the value",
+      "Reescrever com um expoente positivo",
+      "Calcular o valor",
       "Handle negative bases"
     ]
   }

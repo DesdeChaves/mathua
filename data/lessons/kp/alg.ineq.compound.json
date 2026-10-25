@@ -1,29 +1,29 @@
 [
   {
-    "label": "Unions of intervals",
+    "label": "Uniões de intervalos",
     "section": "Unions of Intervals",
     "subgoals": [
       "Recognize an or-inequality",
-      "Solve each part",
-      "Union the solutions"
+      "Resolva cada parte",
+      "Sindicalizar as soluções"
     ]
   },
   {
     "label": "Three-part inequalities",
     "section": "Three-Part Inequalities",
     "subgoals": [
-      "Isolate the middle variable",
-      "Apply operations to all three sides",
-      "Write the interval"
+      "Isole a variável do meio",
+      "Aplicar operações a todos os três lados",
+      "Escreva o intervalo"
     ]
   },
   {
     "label": "And inequalities",
     "section": "Solving \"And\" Inequalities",
     "subgoals": [
-      "Solve each part",
-      "Intersect the solutions",
-      "Write the interval"
+      "Resolva cada parte",
+      "Interseção das soluções",
+      "Escreva o intervalo"
     ]
   }
 ]

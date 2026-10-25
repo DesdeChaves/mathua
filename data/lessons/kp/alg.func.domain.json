@@ -4,17 +4,17 @@
     "section": "A systematic method for determining the domain of a function",
     "subgoals": [
       "Exclude division by zero",
-      "Exclude negative radicands of even roots",
+      "Excluir radicandos negativos de raízes pares",
       "Exclude invalid logarithms"
     ]
   },
   {
-    "label": "Types of intervals",
+    "label": "Tipos de intervalos",
     "section": "Types of intervals",
     "subgoals": [
-      "Use open and closed intervals",
-      "Write union notation",
-      "Express the domain"
+      "Use intervalos abertos e fechados",
+      "Escrever notação de união",
+      "Expresse o domínio"
     ]
   },
   {
@@ -22,8 +22,8 @@
     "section": "Domain of elementary functions",
     "subgoals": [
       "State standard domains",
-      "Compose the constraints",
-      "Write the final domain"
+      "Compor as restrições",
+      "Escreva o domínio final"
     ]
   }
 ]

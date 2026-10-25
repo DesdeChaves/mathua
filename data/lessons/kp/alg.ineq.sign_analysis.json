@@ -3,27 +3,27 @@
     "label": "What is sign analysis",
     "section": "What is sign analysis",
     "subgoals": [
-      "Define the method",
-      "Identify factors",
-      "Prepare the number line"
+      "Definir o método",
+      "Identificar os factores",
+      "Prepare a linha numérica"
     ]
   },
   {
     "label": "Systematic procedure",
     "section": "Systematic procedure for sign analysis",
     "subgoals": [
-      "Find the critical points",
+      "Encontre os pontos críticos",
       "Test each interval",
-      "Record the signs"
+      "Registar os sinais"
     ]
   },
   {
     "label": "Geometric representation",
     "section": "Geometric representation",
     "subgoals": [
-      "Draw the sign chart",
-      "Read off valid intervals",
-      "State the solution"
+      "Desenhe o gráfico de sinais",
+      "Leitura de intervalos válidos",
+      "Indique a solução"
     ]
   }
 ]

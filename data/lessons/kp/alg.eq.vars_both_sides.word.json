@@ -1,28 +1,28 @@
 [
   {
-    "label": "Write the cost of each offer",
+    "label": "Escreva o custo de cada oferta",
     "section": "Solving Two-Step Equations",
     "subgoals": [
-      "Name the unknown as the number of uses",
-      "Write each offer as a flat fee plus a rate times the unknown",
-      "Keep the units of each offer straight"
+      "Nomeie o desconhecido como o número de usos",
+      "Escreva cada oferta como uma taxa fixa mais uma taxa vezes o desconhecido",
+      "Mantenha as unidades de cada oferta em ordem"
     ]
   },
   {
-    "label": "Set the two cost expressions equal",
+    "label": "Defina as duas expressões de custo como iguais",
     "section": "Solving Multistep Linear Equations",
     "subgoals": [
-      "Collect the variable terms on one side",
-      "Collect the numbers on the other",
-      "Divide by the coefficient of the unknown"
+      "Recolha os termos variáveis de um lado",
+      "Recolher os números do outro",
+      "Divida pelo coeficiente do desconhecido"
     ]
   },
   {
-    "label": "Answer the question",
+    "label": "Responda à pergunta. ",
     "section": "Revisiting Applications",
     "subgoals": [
-      "Say what the number of uses means in the story",
-      "Check both offers really cost the same there",
+      "Diga o que o número de usos significa na história",
+      "Verifique se ambas as ofertas realmente custam o mesmo lá",
       "Answer in whole uses"
     ]
   }

@@ -1,11 +1,11 @@
 [
   {
-    "label": "Horizontal and vertical",
+    "label": "barras horizontais e verticais",
     "section": "Horizontal Lines and Vertical Lines",
     "subgoals": [
       "Recognize zero slope",
       "Recognize undefined slope",
-      "Write their equations"
+      "Escreva as suas equações"
     ]
   },
   {
@@ -13,8 +13,8 @@
     "section": "Parallel Lines",
     "subgoals": [
       "Match equal slopes",
-      "Use the given intercept",
-      "Write the parallel line"
+      "Use a interceptação fornecida",
+      "Escreva a linha paralela"
     ]
   },
   {

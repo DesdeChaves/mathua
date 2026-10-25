@@ -1,29 +1,29 @@
 [
   {
-    "label": "Recognize the cubes",
+    "label": "Reconhecer os cubos",
     "section": "Recognize the cubes",
     "subgoals": [
-      "Write the number as a cube",
-      "Identify a sum or a difference",
-      "Keep the constant n^2 positive"
+      "Escreva o número como um cubo",
+      "Identifique uma soma ou uma diferença",
+      "Mantenha a constante n^2 positiva"
     ]
   },
   {
-    "label": "Apply the pattern",
+    "label": "Aplicar o padrão",
     "section": "Apply the pattern",
     "subgoals": [
-      "Keep the linear factor's sign",
-      "Flip the middle sign in the quadratic",
-      "Multiply back to check"
+      "Manter o sinal do fator linear",
+      "Inverta o sinal do meio no quadrático",
+      "Multiplique de volta para verificar"
     ]
   },
   {
-    "label": "Which factor the question wants",
+    "label": "Qual fator a pergunta quer",
     "section": "Which factor the question wants",
     "subgoals": [
-      "Read whether it asks for the quadratic or linear factor",
+      "Leia se pede o fator quadrático ou linear",
       "Enter only that factor",
-      "Do not enter the whole factorization"
+      "Não inserir toda a fatoração"
     ]
   }
 ]

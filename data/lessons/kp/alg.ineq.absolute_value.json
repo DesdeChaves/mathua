@@ -4,26 +4,26 @@
     "section": "Introduction",
     "subgoals": [
       "Recognize an absolute value inequality",
-      "Set up the two cases",
-      "Solve each interval"
+      "Configure os dois casos",
+      "Resolver cada intervalo"
     ]
   },
   {
     "label": "Triangle inequality",
     "section": "The triangle inequality",
     "subgoals": [
-      "State the inequality",
-      "Apply it to bounds",
-      "Use it in proofs"
+      "Declare a desigualdade",
+      "Aplicar aos limites",
+      "Use-o em provas"
     ]
   },
   {
     "label": "Non-constant right side",
     "section": "Inequalities with a non-constant right-hand side",
     "subgoals": [
-      "Split by the sign of the right side",
-      "Solve the resulting cases",
-      "Unite the solutions"
+      "Dividido pelo sinal do lado direito",
+      "Resolver os casos resultantes",
+      "Unir as soluções"
     ]
   }
 ]

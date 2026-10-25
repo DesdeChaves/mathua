@@ -3,25 +3,25 @@
     "label": "Introduction",
     "section": "Introduction",
     "subgoals": [
-      "Identify an exponential equation",
+      "Identificar uma equação exponencial",
       "Match bases when possible",
-      "Solve by equal exponents"
+      "Resolver por expoentes iguais"
     ]
   },
   {
     "label": "When bases differ",
     "section": "When bases differ: solving with logarithms",
     "subgoals": [
-      "Take logarithms of both sides",
-      "Apply the power property",
-      "Solve for the variable"
+      "Pegue logaritmos de ambos os lados",
+      "Aplicar a propriedade de energia",
+      "Resolver para a variável"
     ]
   },
   {
-    "label": "Verify the solution",
+    "label": "Verifique a solução",
     "section": "",
     "subgoals": [
-      "Substitute the solution back",
+      "Substitua a solução de volta",
       "Check both sides match",
       "Reject extraneous values"
     ]

@@ -3,27 +3,27 @@
     "label": "What are rational equations",
     "section": "What are rational equations",
     "subgoals": [
-      "Identify a rational equation",
-      "Find the common denominator",
-      "Clear the denominators"
+      "Identificar uma equação racional",
+      "Encontre o denominador comum",
+      "Limpar os denominadores"
     ]
   },
   {
     "label": "Rational vs irrational",
     "section": "Distinction between irrational and rational equations",
     "subgoals": [
-      "Classify the equation type",
-      "Apply the right strategy",
-      "Keep the domain in mind"
+      "Classificar o tipo de equação",
+      "Aplique a estratégia certa",
+      "Lembre-se do domínio"
     ]
   },
   {
-    "label": "Solve rational equations",
+    "label": "Resolver equações racionais",
     "section": "Solve the following rational equations",
     "subgoals": [
-      "Cross-multiply or use LCD",
-      "Solve the polynomial result",
-      "Check the domain"
+      "Multiplicar ou usar LCD",
+      "Resolver o resultado polinomial",
+      "Verificar o domínio"
     ]
   }
 ]

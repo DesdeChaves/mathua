@@ -3,27 +3,27 @@
     "label": "Conic sections intro",
     "section": "Introduction to Conic Sections",
     "subgoals": [
-      "Recognize the parabola as a conic section",
-      "Identify the focus and directrix",
-      "Locate the vertex"
+      "Reconhecer a parábola como uma secção cónica",
+      "Identificar o foco e a directrix",
+      "Localize o vértice"
     ]
   },
   {
     "label": "Coefficient geometry",
     "section": "Each coefficient carries specific geometric information about the conic.",
     "subgoals": [
-      "Read the vertex from the equation",
-      "Read the opening direction",
-      "Read the stretch factor"
+      "Leia o vértice da equação",
+      "Leia a direção de abertura",
+      "Leia o factor de estiramento"
     ]
   },
   {
     "label": "The parabola",
     "section": "The Parabola",
     "subgoals": [
-      "Write the standard form",
-      "Find vertex, focus, directrix",
-      "Sketch the graph"
+      "Escreva o formulário padrão",
+      "Encontrar vértice, foco, directrix",
+      "Esboce o gráfico"
     ]
   }
 ]

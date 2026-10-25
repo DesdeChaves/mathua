@@ -3,27 +3,27 @@
     "label": "The square root function",
     "section": "The square root function",
     "subgoals": [
-      "Evaluate the square root at a perfect square",
-      "State the domain as x >= 0",
-      "Read monotonicity as strictly increasing"
+      "Avaliar a raiz quadrada num quadrado perfeito",
+      "Indique o domínio como x >= 0",
+      "Ler a monotonicidade como estritamente crescente"
     ]
   },
   {
-    "label": "Roots of odd index",
+    "label": "Raízes do índice Odd",
     "section": "Roots of odd index",
     "subgoals": [
-      "Evaluate the cube root of a negative number",
-      "State the domain as all real numbers",
-      "Track the sign of the output against the input"
+      "Avaliar a raiz cúbica de um número negativo",
+      "Indique o domínio como todos os números reais",
+      "Acompanhe o sinal da saída em relação à entrada"
     ]
   },
   {
     "label": "Domain",
     "section": "Domain",
     "subgoals": [
-      "Impose radicand >= 0 for an even index",
-      "Solve the radicand inequality for the endpoint",
-      "Drop the restriction for an odd index"
+      "Impor radicando >= 0 para um índice par",
+      "Resolver a desigualdade de radicand para o ponto final",
+      "Solte a restrição para um índice ímpar"
     ]
   }
 ]

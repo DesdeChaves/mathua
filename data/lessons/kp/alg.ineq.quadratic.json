@@ -3,27 +3,27 @@
     "label": "What are quadratic inequalities",
     "section": "What are quadratic inequalities?",
     "subgoals": [
-      "Identify the quadratic inequality",
-      "Move everything to one side",
-      "Prepare to analyze sign"
+      "Identificar a desigualdade quadrática",
+      "Mover tudo para um lado",
+      "Prepare-se para analisar o sinal"
     ]
   },
   {
-    "label": "Nature of solutions",
+    "label": "Natureza das soluções",
     "section": "The nature of quadratic inequality solutions",
     "subgoals": [
-      "Classify by the discriminant",
+      "Classificar pelo discriminante",
       "Expect intervals or empty sets",
-      "Predict the shape"
+      "Preveja a forma"
     ]
   },
   {
     "label": "Sign analysis",
     "section": "Sign analysis",
     "subgoals": [
-      "Find the roots",
+      "Encontre as raízes",
       "Test each interval",
-      "Pick the sign that satisfies"
+      "Escolha o sinal que satisfaz"
     ]
   }
 ]

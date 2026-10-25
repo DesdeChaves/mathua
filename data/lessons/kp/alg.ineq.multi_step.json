@@ -1,29 +1,29 @@
 [
   {
-    "label": "Introduction to inequalities",
+    "label": "Introdução às desigualdades",
     "section": "Introduction to inequalities",
     "subgoals": [
       "Define inequalities",
-      "Read the symbols",
-      "Prepare to solve"
+      "Ei li os símbolos",
+      "Prepare-se para resolver"
     ]
   },
   {
     "label": "Geometric interpretation",
     "section": "Geometric interpretation",
     "subgoals": [
-      "Place solutions on the number line",
-      "Shade the valid region",
-      "Use open and closed dots"
+      "Coloque as soluções na linha numérica",
+      "Sombrear a região válida",
+      "Use pontos abertos e fechados"
     ]
   },
   {
     "label": "Absolute value inequalities",
     "section": "Absolute value inequalities",
     "subgoals": [
-      "Set up the two cases",
-      "Solve each interval",
-      "Combine the result"
+      "Configure os dois casos",
+      "Resolver cada intervalo",
+      "Combine o resultado"
     ]
   }
 ]
