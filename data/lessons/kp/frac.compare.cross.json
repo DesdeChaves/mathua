@@ -4,16 +4,16 @@
     "section": "Cross-multiplication",
     "subgoals": [
       "Multiply across",
-      "Compare the two products",
-      "Say what the products are"
+      "Compare os dois produtos",
+      "Diga quais são os produtos"
     ]
   },
   {
     "label": "The sign tells you which is larger",
     "section": "The sign tells you which is larger",
     "subgoals": [
-      "Use the difference",
-      "Read the sign",
+      "Use a diferença",
+      "Leia o sinal",
       "Recognise equality"
     ]
   },
@@ -21,9 +21,9 @@
     "label": "Why it works",
     "section": "Why it works",
     "subgoals": [
-      "Multiply both sides by the denominators",
-      "Keep the direction",
-      "Check the negative case"
+      "Multiplique ambos os lados pelos denominadores",
+      "Manter a direção",
+      "Verifique o caso negativo"
     ]
   }
 ]

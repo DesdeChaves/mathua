@@ -1,19 +1,19 @@
 [
   {
-    "label": "Multiplying by the fraction",
+    "label": "Multiplicação pela fração",
     "section": "Multiplying by the fraction",
     "subgoals": [
-      "Read of as multiply",
-      "Compute a fraction of a number",
-      "Say why the wording matters"
+      "Leitura de como multiplicar",
+      "Calcular uma fração de um número",
+      "Diga por que a redação é importante"
     ]
   },
   {
-    "label": "Why the answer is whole here",
+    "label": "Por que a resposta está completa aqui",
     "section": "Why the answer is whole here",
     "subgoals": [
-      "Divide the whole by the denominator",
-      "Take the numerator's worth",
+      "Divida o todo pelo denominador",
+      "Pegue o valor do numerador",
       "Handle a denominator that does not divide"
     ]
   },
@@ -21,9 +21,9 @@
     "label": "The same as sharing",
     "section": "The same as sharing",
     "subgoals": [
-      "Share and take",
-      "See why of means multiply",
-      "Check one reading against the other"
+      "Partilhar e receber",
+      "Veja por que de meios multiplicar",
+      "Verifique uma leitura em relação à outra"
     ]
   }
 ]

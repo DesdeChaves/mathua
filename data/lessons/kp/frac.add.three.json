@@ -3,27 +3,27 @@
     "label": "The same rule twice",
     "section": "The same rule twice",
     "subgoals": [
-      "Apply the rule pairwise",
-      "Find a common denominator for three",
-      "Keep the denominators aligned"
+      "Aplique a regra em pares",
+      "Encontre um denominador comum para três",
+      "Mantenha os denominadores alinhados"
     ]
   },
   {
-    "label": "Keeping the denominator in view",
+    "label": "Manter o denominador em vista",
     "section": "Keeping the denominator in view",
     "subgoals": [
-      "Write the common denominator once",
-      "Spot the error of adding tops only",
-      "Say why the wrong answer is too small"
+      "Escreva o denominador comum uma vez",
+      "Identifique o erro de adicionar apenas tops",
+      "Diga por que a resposta errada é muito pequena"
     ]
   },
   {
-    "label": "Reducing at the end",
+    "label": "Redução no final",
     "section": "Reducing at the end",
     "subgoals": [
       "Reduce after adding",
       "Say why a common denominator is rarely least",
-      "Estimate to check"
+      "Orçamento a verificar"
     ]
   }
 ]

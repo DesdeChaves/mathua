@@ -1,20 +1,20 @@
 [
   {
-    "label": "Convert fractions to decimals",
+    "label": "Converter frações em decimais",
     "section": "Convert Fractions to Decimals",
     "subgoals": [
-      "Divide the numerator by the denominator",
-      "Write the quotient as a decimal",
+      "Divida o numerador pelo denominador",
+      "Escreva o quociente como um decimal",
       "Handle terminating results"
     ]
   },
   {
-    "label": "Convert a fraction to a decimal",
+    "label": "Converter uma fração em decimal",
     "section": "Convert a Fraction to a Decimal",
     "subgoals": [
-      "Set up the long division",
-      "Place the decimal point",
-      "State the decimal value"
+      "Configure a divisão longa",
+      "Coloque o ponto decimal",
+      "Indique o valor decimal"
     ]
   },
   {
@@ -22,7 +22,7 @@
     "section": "Repeating Decimals",
     "subgoals": [
       "Recognize a repeating quotient",
-      "Use the bar notation",
+      "Usar a notação de barra",
       "Round when needed"
     ]
   }

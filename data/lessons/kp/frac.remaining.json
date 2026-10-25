@@ -3,8 +3,8 @@
     "label": "The whole is one",
     "section": "The whole is one",
     "subgoals": [
-      "Write the whole over the denominator",
-      "Subtract the used part",
+      "Escreva o todo sobre o denominador",
+      "Subtrair a peça usada",
       "Convert before subtracting"
     ]
   },
@@ -12,18 +12,18 @@
     "label": "Reading it as a remainder",
     "section": "Reading it as a remainder",
     "subgoals": [
-      "See it as a fraction of the whole",
-      "Check the two parts sum to one",
+      "Veja-o como uma fração do todo",
+      "Verifique a soma das duas partes para um",
       "Reject a negative answer"
     ]
   },
   {
-    "label": "Why the wording matters",
+    "label": "Por que a redação é importante",
     "section": "Why the wording matters",
     "subgoals": [
-      "Recognise left and empty",
+      "Reconhecer à esquerda e vazio",
       "Turn a word problem into arithmetic",
-      "Connect it to fractions of a group"
+      "Conecte-o a frações de um grupo"
     ]
   }
 ]

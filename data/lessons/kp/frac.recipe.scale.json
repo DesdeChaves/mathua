@@ -3,27 +3,27 @@
     "label": "Amount per serving",
     "section": "Amount per serving",
     "subgoals": [
-      "Divide by the serving count",
+      "Dividir pela contagem de porções",
       "See why that makes it scalable",
-      "Do the division exactly"
+      "Faça a divisão exactamente"
     ]
   },
   {
     "label": "Multiplying back up",
     "section": "Multiplying back up",
     "subgoals": [
-      "Multiply by the new count",
-      "Keep the two steps in order",
-      "Avoid the wrong ratio"
+      "Multiplicar pela nova contagem",
+      "Mantenha as duas etapas em ordem",
+      "Evite a proporção errada"
     ]
   },
   {
-    "label": "Keeping the units",
+    "label": "Manutenção das unidades",
     "section": "Keeping the units",
     "subgoals": [
-      "Carry the unit",
+      "Transportar a unidade",
       "Check more servings need more",
-      "Compare with the original"
+      "Compare com o original:"
     ]
   }
 ]

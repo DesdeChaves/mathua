@@ -3,27 +3,27 @@
     "label": "Division as a count",
     "section": "Division as a count",
     "subgoals": [
-      "Read the question as division",
-      "Predict whether the answer grows",
-      "Explain why it does"
+      "Ler a pergunta como divisão",
+      "Preveja se a resposta cresce",
+      "Explique por que isso acontece"
     ]
   },
   {
-    "label": "Multiplying by the reciprocal",
+    "label": "Multiplicando pelo recíproco",
     "section": "Multiplying by the reciprocal",
     "subgoals": [
-      "Invert the fraction",
-      "Multiply and simplify",
-      "Do the two steps in either order"
+      "Inverter a fracção",
+      "Multiplique e simplifique",
+      "Execute as duas etapas em qualquer ordem"
     ]
   },
   {
-    "label": "When the answer is whole",
+    "label": "Quando a resposta é inteira",
     "section": "When the answer is whole",
     "subgoals": [
-      "State the divisibility condition",
+      "Indique a condição de divisibilidade",
       "Say what a fractional answer means",
-      "Point out the partial copy"
+      "Aponte a cópia parcial"
     ]
   }
 ]

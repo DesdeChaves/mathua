@@ -4,26 +4,26 @@
     "section": "The same factor in two places",
     "subgoals": [
       "Cancel a shared factor",
-      "Say what stays the same",
-      "Keep the numbers small"
+      "O que permanece o mesmo:",
+      "Mantenha os números pequenos"
     ]
   },
   {
     "label": "Why it is allowed",
     "section": "Why it is allowed",
     "subgoals": [
-      "Divide top and bottom by the same number",
-      "Connect it to reducing",
+      "Divida a parte superior e inferior pelo mesmo número",
+      "Conecte-o à redução",
       "Call it equivalence rather than a trick"
     ]
   },
   {
-    "label": "Choosing between the routes",
+    "label": "Escolher entre as rotas",
     "section": "Choosing between the routes",
     "subgoals": [
-      "Compare cancelling first with reducing after",
-      "Name the risk of large numbers",
-      "Check with an estimate"
+      "Compare o cancelamento primeiro com a redução após",
+      "Nomeie o risco de grandes números",
+      "Verifique com uma estimativa"
     ]
   }
 ]

@@ -1,28 +1,28 @@
 [
   {
-    "label": "Meaning of fractions",
+    "label": "Significado das frações",
     "section": "Understand the Meaning of Fractions",
     "subgoals": [
-      "Identify the numerator and the denominator",
-      "Interpret a fraction as parts of a whole",
-      "Relate fractions to division"
+      "Identificar o numerador e o denominador",
+      "Interpretar uma fração como partes de um todo",
+      "Relacionar frações à divisão"
     ]
   },
   {
-    "label": "Improper fractions and mixed numbers",
+    "label": "Frações impróprias e números mistos",
     "section": "Model Improper Fractions and Mixed Numbers",
     "subgoals": [
       "Recognize an improper fraction",
       "Model a mixed number",
-      "Distinguish proper from improper"
+      "Distinguir adequado de impróprio"
     ]
   },
   {
     "label": "Equivalent fractions",
     "section": "Model Equivalent Fractions",
     "subgoals": [
-      "Model two fractions that name the same amount",
-      "Multiply numerator and denominator together",
+      "Modelar duas frações que nomeiam a mesma quantidade",
+      "Multiplicar numerador e denominador juntos",
       "Recognize equivalence visually"
     ]
   }

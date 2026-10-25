@@ -4,25 +4,25 @@
     "section": "Converting first",
     "subgoals": [
       "Turn a mixed number into an improper fraction",
-      "Say why the conversion is needed",
-      "Note the usual error"
+      "Diga por que a conversão é necessária",
+      "Observe o erro usual"
     ]
   },
   {
-    "label": "Multiplying by the reciprocal",
+    "label": "Multiplicando pelo recíproco",
     "section": "Multiplying by the reciprocal",
     "subgoals": [
-      "Invert the divisor",
-      "Do the two steps in either order",
+      "Inverter o divisor",
+      "Execute as duas etapas em qualquer ordem",
       "Convert back only if needed"
     ]
   },
   {
-    "label": "Checking the size",
+    "label": "Verificação do tamanho",
     "section": "Checking the size",
     "subgoals": [
-      "Predict the answer grows",
-      "Explain via the reciprocal",
+      "Preveja que a resposta cresce",
+      "Explique através do recíproco",
       "Catch a missing inversion"
     ]
   }

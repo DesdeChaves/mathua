@@ -1,29 +1,29 @@
 [
   {
-    "label": "Meaning of fractions",
+    "label": "Significado das frações",
     "section": "Understand the Meaning of Fractions",
     "subgoals": [
-      "Identify the numerator and the denominator",
+      "Identificar o numerador e o denominador",
       "Describe what each part names",
-      "Relate the denominator to equal parts"
+      "Relacionar o denominador a partes iguais"
     ]
   },
   {
-    "label": "Improper fractions and mixed numbers",
+    "label": "Frações impróprias e números mistos",
     "section": "Model Improper Fractions and Mixed Numbers",
     "subgoals": [
       "Recognize an improper fraction",
       "Model parts beyond a whole",
-      "Name the parts correctly"
+      "Nomeie as peças corretamente"
     ]
   },
   {
-    "label": "Property of one",
+    "label": "Propriedade de um",
     "section": "Property of One",
     "subgoals": [
-      "Recognize a fraction equal to one",
-      "Explain why the parts equal the whole",
-      "Use the property to simplify"
+      "Reconheça uma fracção igual a um",
+      "Explique por que as partes são iguais ao todo",
+      "Use uma propriedade para simplificar"
     ]
   }
 ]

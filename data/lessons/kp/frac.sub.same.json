@@ -3,27 +3,27 @@
     "label": "Model fraction subtraction",
     "section": "Model Fraction Subtraction",
     "subgoals": [
-      "Model the first fraction",
-      "Remove the second amount",
+      "Modelar a primeira fração",
+      "Remover o segundo valor",
       "Count what remains"
     ]
   },
   {
-    "label": "Subtract fractions with a common denominator",
+    "label": "Subtrair frações com um denominador comum",
     "section": "Subtract Fractions with a Common Denominator",
     "subgoals": [
-      "Keep the denominator",
-      "Subtract the numerators",
-      "Simplify the result"
+      "Manter o denominador",
+      "Subtrair os numeradores",
+      "Simplifique o resultado."
     ]
   },
   {
     "label": "Fraction subtraction rule",
     "section": "Fraction Subtraction",
     "subgoals": [
-      "State the rule for same denominators",
-      "Apply it step by step",
-      "Check with a model"
+      "Indique a regra para os mesmos denominadores",
+      "Aplique passo a passo",
+      "Verifique com um modelo"
     ]
   }
 ]

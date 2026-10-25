@@ -1,29 +1,29 @@
 [
   {
-    "label": "Multiplying top and bottom",
+    "label": "Multiplicação da parte superior e inferior",
     "section": "Multiplying top and bottom",
     "subgoals": [
-      "Multiply both by the same factor",
+      "Multiplique ambos pelo mesmo fator",
       "Give an equivalent fraction",
       "See it as multiplying by one"
     ]
   },
   {
-    "label": "Choosing the factor",
+    "label": "Escolher o fator",
     "section": "Choosing the factor",
     "subgoals": [
-      "Divide to find the factor",
+      "Divida para encontrar o fator",
       "Require an exact division",
       "Reject a non-multiple denominator"
     ]
   },
   {
-    "label": "Why the value stays the same",
+    "label": "Por que o valor permanece o mesmo",
     "section": "Why the value stays the same",
     "subgoals": [
-      "Justify with multiplication by one",
-      "Run the operation backwards",
-      "Connect it to reducing"
+      "Justificar com multiplicação por um",
+      "Executar a operação para trás",
+      "Conecte-o à redução"
     ]
   }
 ]

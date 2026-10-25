@@ -4,26 +4,26 @@
     "section": "A fraction over a fraction",
     "subgoals": [
       "Recognise a complex fraction",
-      "Read the bar as division",
-      "Say what kind of number it is"
+      "Ler a barra como divisão",
+      "Diga que tipo de número é"
     ]
   },
   {
-    "label": "Multiplying by the reciprocal",
+    "label": "Multiplicando pelo recíproco",
     "section": "Multiplying by the reciprocal",
     "subgoals": [
-      "Invert the bottom fraction",
-      "Multiply the two",
+      "Inverter a fração inferior",
+      "Multiplique os dois",
       "Note which route is fastest"
     ]
   },
   {
-    "label": "Simplifying the result",
+    "label": "Simplificação do resultado",
     "section": "Simplifying the result",
     "subgoals": [
-      "Reduce to lowest terms",
+      "Reduzir para os termos mais baixos",
       "Cancel before multiplying",
-      "See that the answer is the same"
+      "Veja que a resposta é a mesma"
     ]
   }
 ]

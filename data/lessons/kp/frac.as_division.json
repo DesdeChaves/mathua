@@ -3,9 +3,9 @@
     "label": "The bar is a division",
     "section": "The bar is a division",
     "subgoals": [
-      "Read a fraction as a division",
-      "Read a division as a fraction",
-      "Say why the notations agree"
+      "Ler uma fração como uma divisão",
+      "Ler uma divisão como uma fração",
+      "Diga por que as notações concordam"
     ]
   },
   {
@@ -13,17 +13,17 @@
     "section": "Sharing equally",
     "subgoals": [
       "Cut a length into equal pieces",
-      "Write the piece as a fraction",
-      "Compare with the decimal form"
+      "Escreva a peça como uma fração",
+      "Comparar com a forma decimal"
     ]
   },
   {
-    "label": "Why the two agree",
+    "label": "Por que os dois concordam",
     "section": "Why the two agree",
     "subgoals": [
-      "Use the definition of a fraction",
-      "Explain the rewrite",
-      "Connect it to dividing by a fraction"
+      "Usar a definição de uma fracção",
+      "Explicar a reescrita",
+      "Conecte-o à divisão por uma fração"
     ]
   }
 ]

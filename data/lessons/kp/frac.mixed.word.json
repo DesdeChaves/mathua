@@ -3,8 +3,8 @@
     "label": "Word Problems",
     "section": "Word Problems",
     "subgoals": [
-      "Read problem",
-      "Identify fractions",
+      "Ler problema",
+      "Identificar frações",
       "Set up operation"
     ]
   },
@@ -21,9 +21,9 @@
     "label": "Practice",
     "section": "Practice",
     "subgoals": [
-      "Solve accurately",
-      "Solve quickly",
-      "Explain solution"
+      "Resolver com precisão",
+      "Resolva rapidamente",
+      "Explicar a solução"
     ]
   }
 ]

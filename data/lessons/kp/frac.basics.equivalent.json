@@ -3,27 +3,27 @@
     "label": "Model equivalent fractions",
     "section": "Model Equivalent Fractions",
     "subgoals": [
-      "Model two fractions that name the same amount",
+      "Modelar duas frações que nomeiam a mesma quantidade",
       "Split parts into smaller equal parts",
-      "See the equivalence visually"
+      "Veja a equivalência visualmente"
     ]
   },
   {
-    "label": "Find equivalent fractions",
+    "label": "frações equivalentes",
     "section": "Find Equivalent Fractions",
     "subgoals": [
-      "Multiply numerator and denominator by the same number",
-      "Keep the value unchanged",
-      "Generate a chain of equivalents"
+      "Multiplicar numerador e denominador pelo mesmo número",
+      "Manter o valor inalterado",
+      "Gerar uma cadeia de equivalentes"
     ]
   },
   {
     "label": "Equivalent fractions property",
     "section": "Equivalent Fractions Property",
     "subgoals": [
-      "State the property in words",
-      "Apply it to build equivalents",
-      "Use it to compare fractions"
+      "Indique a propriedade por extenso",
+      "Aplique-o para criar equivalentes",
+      "Use-o para comparar frações"
     ]
   }
 ]

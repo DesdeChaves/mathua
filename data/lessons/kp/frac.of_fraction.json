@@ -3,18 +3,18 @@
     "label": "Multiplying twice",
     "section": "Multiplying twice",
     "subgoals": [
-      "Read of as multiply",
-      "Compute a fraction of a fraction",
-      "Check the answer is smaller"
+      "Leitura de como multiplicar",
+      "Calcular uma fração de uma fração",
+      "Verifique se a resposta é menor"
     ]
   },
   {
-    "label": "Why the denominators multiply",
+    "label": "Por que os denominadores se multiplicam",
     "section": "Why the denominators multiply",
     "subgoals": [
-      "Split the parts in half",
-      "Explain both numerators and denominators multiply",
-      "Use the sharing model"
+      "Dividir as peças ao meio",
+      "Explique a multiplicação de numeradores e denominadores",
+      "Usar o modelo de partilha"
     ]
   },
   {
@@ -22,8 +22,8 @@
     "section": "Where it appears",
     "subgoals": [
       "Scale a recipe twice",
-      "Give the probability reading",
-      "Apply a proportion to a proportion"
+      "Dê a leitura de probabilidade",
+      "Aplicar uma proporção a uma proporção"
     ]
   }
 ]

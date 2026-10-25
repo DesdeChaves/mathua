@@ -3,18 +3,18 @@
     "label": "Model equivalent fractions",
     "section": "Model Equivalent Fractions",
     "subgoals": [
-      "Model a fraction close to 0, 1/2, or 1",
-      "Compare shaded parts to half",
-      "Classify the benchmark"
+      "Modelar uma fração próxima a 0, 1/2 ou 1",
+      "Compare as peças sombreadas com a metade",
+      "Classificar o benchmark"
     ]
   },
   {
-    "label": "Locate fractions on the number line",
+    "label": "Localizar frações na reta numérica",
     "section": "Locate Fractions and Mixed Numbers on the Number Line",
     "subgoals": [
-      "Place the fraction between 0 and 1",
-      "Mark the halfway point",
-      "Decide the closer benchmark"
+      "Colocar a fracção entre 0 e 1",
+      "Marque o meio do caminho",
+      "Decida o benchmark mais próximo"
     ]
   },
   {
@@ -23,7 +23,7 @@
     "subgoals": [
       "Rank fractions by benchmark",
       "Order mixed numbers too",
-      "Verify on the number line"
+      "Verificar na linha numérica"
     ]
   }
 ]

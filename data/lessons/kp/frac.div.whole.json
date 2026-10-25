@@ -3,27 +3,27 @@
     "label": "Divide fractions",
     "section": "Divide Fractions",
     "subgoals": [
-      "Rewrite the whole number as a fraction",
+      "Reescrever o número inteiro como uma fração",
       "Multiply by its reciprocal",
-      "Simplify the result"
+      "Simplifique o resultado."
     ]
   },
   {
     "label": "Fraction division rule",
     "section": "Fraction Division",
     "subgoals": [
-      "State the division rule",
-      "Apply it with whole divisors",
-      "Check the quotient"
+      "Indique a regra de divisão",
+      "Aplique com divisores inteiros",
+      "Verificar o quociente"
     ]
   },
   {
-    "label": "Find reciprocals",
+    "label": "Encontrar recíprocos",
     "section": "Find Reciprocals",
     "subgoals": [
-      "Find the reciprocal of the whole number",
-      "Verify the product is 1",
-      "Use it in the division"
+      "Encontre o recíproco do número inteiro",
+      "Verifique se o produto é 1",
+      "Use-o na divisão"
     ]
   }
 ]

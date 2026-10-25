@@ -4,16 +4,16 @@
     "section": "Model Equivalent Fractions",
     "subgoals": [
       "Recognize a fraction in higher terms",
-      "Find the common factor",
-      "Reduce to lowest terms"
+      "Encontre o fator comum",
+      "Reduzir para os termos mais baixos"
     ]
   },
   {
-    "label": "Find equivalent fractions",
+    "label": "frações equivalentes",
     "section": "Find Equivalent Fractions",
     "subgoals": [
-      "Divide numerator and denominator by a common factor",
-      "Keep the value unchanged",
+      "Dividir numerador e denominador por um fator comum",
+      "Manter o valor inalterado",
       "Repeat until lowest terms"
     ]
   },
@@ -21,9 +21,9 @@
     "label": "Equivalent fractions property",
     "section": "Equivalent Fractions Property",
     "subgoals": [
-      "State the property in words",
-      "Apply it in reverse to simplify",
-      "Verify the simplified value"
+      "Indique a propriedade por extenso",
+      "Aplique ao contrário para simplificar",
+      "Verifique o valor simplificado"
     ]
   }
 ]

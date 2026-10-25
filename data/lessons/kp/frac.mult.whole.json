@@ -3,18 +3,18 @@
     "label": "Multiply fractions",
     "section": "Multiply Fractions",
     "subgoals": [
-      "Rewrite the whole number as a fraction",
-      "Multiply the numerators",
-      "Multiply the denominators"
+      "Reescrever o número inteiro como uma fração",
+      "Multiplique os numeradores",
+      "Multiplique os denominadores"
     ]
   },
   {
     "label": "Fraction multiplication rule",
     "section": "Fraction Multiplication",
     "subgoals": [
-      "Apply the product rule",
-      "Simplify the result",
-      "Interpret the product"
+      "Aplicar a regra do produto",
+      "Simplifique o resultado.",
+      "Interpretar o produto"
     ]
   },
   {
@@ -22,8 +22,8 @@
     "section": "Simplify a fraction.",
     "subgoals": [
       "Divide by a common factor",
-      "Reduce to lowest terms",
-      "Verify with a model"
+      "Reduzir para os termos mais baixos",
+      "Verificar com um modelo"
     ]
   }
 ]

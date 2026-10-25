@@ -3,27 +3,27 @@
     "label": "Model equivalent fractions",
     "section": "Model Equivalent Fractions",
     "subgoals": [
-      "Model the two fractions",
-      "Compare the shaded amounts",
+      "Modelar as duas frações",
+      "Compare os valores sombreados",
       "Decide which is larger"
     ]
   },
   {
-    "label": "Find equivalent fractions",
+    "label": "frações equivalentes",
     "section": "Find Equivalent Fractions",
     "subgoals": [
-      "Rewrite with a common denominator",
-      "Compare the numerators",
-      "Use the comparison symbols"
+      "Reescrever com um denominador comum",
+      "Compare os numeradores",
+      "Use os símbolos de comparação"
     ]
   },
   {
     "label": "Order fractions",
     "section": "Order Fractions and Mixed Numbers",
     "subgoals": [
-      "Line the fractions up on a number line",
-      "Order from least to greatest",
-      "Verify with equivalent forms"
+      "Alinhar as frações numa linha numérica",
+      "Ordenar do menor para o maior",
+      "Verificar com formulários equivalentes"
     ]
   }
 ]

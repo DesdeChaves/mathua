@@ -1,18 +1,18 @@
 [
   {
-    "label": "Parts of a unit",
+    "label": "Partes de uma unidade",
     "section": "Parts of a unit",
     "subgoals": [
-      "Count the unit's parts",
-      "Write the fraction",
-      "Read it as a fraction of the whole"
+      "Contar as peças da unidade",
+      "Escreva a fracção",
+      "Leia-o como uma fração do todo"
     ]
   },
   {
-    "label": "Reducing the fraction",
+    "label": "Redução da fracção",
     "section": "Reducing the fraction",
     "subgoals": [
-      "Reduce to lowest terms",
+      "Reduzir para os termos mais baixos",
       "Say why reducing helps",
       "Spot a decimal-friendly unit"
     ]
@@ -21,9 +21,9 @@
     "label": "Units that are not decimal",
     "section": "Units that are not decimal",
     "subgoals": [
-      "Give the hour and the day",
+      "Dê a hora e o dia",
       "Say why tens are irrelevant",
-      "Use the conversion factor first"
+      "Use o fator de conversão primeiro"
     ]
   }
 ]

@@ -1,11 +1,11 @@
 [
   {
-    "label": "Multiply and divide mixed numbers",
+    "label": "Multiplicar e dividir números mistos",
     "section": "Multiply and Divide Mixed Numbers",
     "subgoals": [
-      "Convert mixed numbers to improper fractions",
-      "Multiply the fractions",
-      "Convert the product back"
+      "Converter números mistos em frações impróprias",
+      "Multiplicar as frações",
+      "Converter o produto de volta"
     ]
   },
   {
@@ -13,17 +13,17 @@
     "section": "Multiply or divide mixed numbers.",
     "subgoals": [
       "Convert both factors",
-      "Apply the fraction rule",
-      "Simplify the result"
+      "Aplicar a regra da fracção",
+      "Simplifique o resultado."
     ]
   },
   {
-    "label": "Translate phrases to expressions",
+    "label": "Traduzir frases em expressões",
     "section": "Translate Phrases to Expressions with Fractions",
     "subgoals": [
-      "Read the mixed-number phrase",
-      "Write the multiplication",
-      "Solve and simplify"
+      "Leia a frase de número misto",
+      "Escreva a multiplicação",
+      "Resolver e simplificar"
     ]
   }
 ]

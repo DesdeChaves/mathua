@@ -3,25 +3,25 @@
     "label": "Comparing without a common denominator",
     "section": "Comparing without a common denominator",
     "subgoals": [
-      "State the doubling rule",
-      "Apply it to a fraction",
+      "Indique a regra de duplicação",
+      "Aplicar a uma fração",
       "Compare two whole numbers"
     ]
   },
   {
-    "label": "Why twice the numerator",
+    "label": "Por que o dobro do numerador",
     "section": "Why twice the numerator",
     "subgoals": [
       "Cross-multiply against a half",
-      "Derive the rule",
-      "See it as the comparison rule"
+      "Derivar a regra",
+      "Veja isso como a regra de comparação"
     ]
   },
   {
-    "label": "Choosing the benchmark",
+    "label": "Escolher o benchmark",
     "section": "Choosing the benchmark",
     "subgoals": [
-      "Name the useful benchmarks",
+      "Nomeie os benchmarks úteis",
       "Estimate against a half",
       "Place a fraction on a number line"
     ]

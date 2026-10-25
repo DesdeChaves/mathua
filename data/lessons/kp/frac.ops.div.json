@@ -1,29 +1,29 @@
 [
   {
-    "label": "Find reciprocals",
+    "label": "Encontrar recíprocos",
     "section": "Find Reciprocals",
     "subgoals": [
-      "Flip the numerator and denominator",
-      "Identify the reciprocal",
-      "Verify the product is 1"
+      "Inverter o numerador e o denominador",
+      "Identifique o recíproco",
+      "Verifique se o produto é 1"
     ]
   },
   {
     "label": "Reciprocal definition",
     "section": "Reciprocal",
     "subgoals": [
-      "State the definition",
-      "Find reciprocals of fractions and wholes",
-      "Use the reciprocal to divide"
+      "Indique a definição",
+      "Encontre recíprocos de frações e conjuntos",
+      "Use o recíproco para dividir"
     ]
   },
   {
     "label": "Divide fractions",
     "section": "Divide Fractions",
     "subgoals": [
-      "Keep the first fraction",
-      "Multiply by the reciprocal",
-      "Simplify the result"
+      "Manter a primeira fração",
+      "Multiplique pelo recíproco",
+      "Simplifique o resultado."
     ]
   }
 ]

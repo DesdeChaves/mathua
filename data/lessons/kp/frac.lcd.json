@@ -1,28 +1,28 @@
 [
   {
-    "label": "Finding the smallest common multiple",
+    "label": "Encontrar o menor múltiplo comum",
     "section": "Finding the smallest common multiple",
     "subgoals": [
-      "Define the least common denominator",
+      "Definir o mínimo denominador comum",
       "Compute one",
-      "See why the smallest is easier"
+      "Veja por que o menor é mais fácil"
     ]
   },
   {
-    "label": "Multiplying is not the same as least",
+    "label": "Multiplicar não é o mesmo que menos",
     "section": "Multiplying is not the same as least",
     "subgoals": [
-      "Multiply the denominators",
-      "Compare with the least",
-      "Say why using the product is wasteful but not wrong"
+      "Multiplique os denominadores",
+      "Comparar com os menos",
+      "Diga por que usar o produto é um desperdício, mas não errado"
     ]
   },
   {
-    "label": "Why it matters for adding",
+    "label": "Por que é importante adicionar",
     "section": "Why it matters for adding",
     "subgoals": [
-      "Connect it to fraction addition",
-      "Use a dividing denominator",
+      "Conecte-o à adição de frações",
+      "Use um denominador de divisão",
       "Avoid unnecessary factoring"
     ]
   }

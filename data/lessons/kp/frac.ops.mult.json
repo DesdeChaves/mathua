@@ -3,17 +3,17 @@
     "label": "Multiply fractions",
     "section": "Multiply Fractions",
     "subgoals": [
-      "Multiply the numerators",
-      "Multiply the denominators",
-      "Simplify the product"
+      "Multiplique os numeradores",
+      "Multiplique os denominadores",
+      "Simplifique o produto"
     ]
   },
   {
     "label": "Fraction multiplication rule",
     "section": "Fraction Multiplication",
     "subgoals": [
-      "State the rule for products of fractions",
-      "Apply it step by step",
+      "Informar a regra para produtos de frações",
+      "Aplique passo a passo",
       "Cancel common factors first when possible"
     ]
   },
@@ -22,8 +22,8 @@
     "section": "Simplify Fractions",
     "subgoals": [
       "Divide by a common factor",
-      "Reduce to lowest terms",
-      "Verify the product"
+      "Reduzir para os termos mais baixos",
+      "Verifique o produto"
     ]
   }
 ]

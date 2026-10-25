@@ -1,29 +1,29 @@
 [
   {
-    "label": "Model subtraction of mixed numbers",
+    "label": "Modelo de subtração de números mistos",
     "section": "Model Subtraction of Mixed Numbers",
     "subgoals": [
-      "Model the first mixed number",
-      "Remove the second amount",
+      "Modelar o primeiro número misto",
+      "Remover o segundo valor",
       "Count what remains"
     ]
   },
   {
-    "label": "Subtract mixed numbers with a common denominator",
+    "label": "Subtrair números mistos com um denominador comum",
     "section": "Subtract Mixed Numbers with a Common Denominator",
     "subgoals": [
-      "Subtract the fractions",
-      "Borrow from the whole when needed",
-      "Subtract the whole numbers"
+      "Subtrair as frações",
+      "Emprestar do todo quando necessário",
+      "Subtrair os números inteiros"
     ]
   },
   {
     "label": "Subtract as improper fractions",
     "section": "Subtract mixed numbers with common denominators as improper fractions.",
     "subgoals": [
-      "Convert to improper fractions",
-      "Subtract the numerators",
-      "Convert the result back"
+      "Converter em frações impróprias",
+      "Subtrair os numeradores",
+      "Converter o resultado de volta"
     ]
   }
 ]

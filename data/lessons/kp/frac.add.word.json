@@ -1,20 +1,20 @@
 [
   {
-    "label": "Find the least common denominator",
+    "label": "Encontre o menor denominador comum",
     "section": "Find the Least Common Denominator",
     "subgoals": [
-      "Spot the different denominators in the story",
-      "Find their common multiple",
-      "Prepare to add"
+      "Identifique os diferentes denominadores na história",
+      "Encontre o múltiplo comum",
+      "Prepare-se para adicionar"
     ]
   },
   {
-    "label": "Convert to equivalent fractions with the LCD",
+    "label": "Converta para frações equivalentes com o LCD",
     "section": "Convert Fractions to Equivalent Fractions with the LCD",
     "subgoals": [
-      "Rewrite each amount with the LCD",
-      "Add the fractions",
-      "Interpret the total in context"
+      "Reescrever cada quantidade com o LCD",
+      "Adicionar as frações",
+      "Interpretar o total no contexto"
     ]
   },
   {
@@ -22,8 +22,8 @@
     "section": "Equivalent Fractions Property",
     "subgoals": [
       "Scale fractions without changing value",
-      "Combine the story amounts",
-      "Simplify the answer"
+      "Combine os valores da história",
+      "Simplifique a resposta"
     ]
   }
 ]

@@ -1,29 +1,29 @@
 [
   {
-    "label": "Fractions with numerator one",
+    "label": "Frações com numerador um",
     "section": "Fractions with numerator one",
     "subgoals": [
       "Define a unit fraction",
-      "Write a fraction as a sum of them",
-      "Read the size of each part"
+      "Escreva uma fração como uma soma deles",
+      "Leia o tamanho de cada peça"
     ]
   },
   {
     "label": "Decomposing one fraction",
     "section": "Decomposing one fraction",
     "subgoals": [
-      "Put the sum over a common denominator",
-      "Match the denominators",
-      "Name the greedy method"
+      "Coloque a soma sobre um denominador comum",
+      "Corresponder aos denominadores",
+      "Nomeie o método ganancioso"
     ]
   },
   {
     "label": "Why it is worth doing",
     "section": "Why it is worth doing",
     "subgoals": [
-      "Connect unit fractions to sharing",
-      "See the series connection",
-      "Note the number-theory question"
+      "Ligar frações unitárias à partilha",
+      "Veja a ligação em série",
+      "Observe a questão da teoria dos números"
     ]
   }
 ]

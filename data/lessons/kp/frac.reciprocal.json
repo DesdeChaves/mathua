@@ -1,11 +1,11 @@
 [
   {
-    "label": "Turning the fraction over",
+    "label": "Virar a fracção",
     "section": "Turning the fraction over",
     "subgoals": [
-      "Swap numerator and denominator",
-      "Define it by the product one",
-      "Give the reciprocal of a whole number"
+      "numerador e denominador",
+      "Defina-o pelo produto",
+      "Dê o recíproco de um número inteiro"
     ]
   },
   {
@@ -13,16 +13,16 @@
     "section": "Why division uses it",
     "subgoals": [
       "Turn division into multiplication",
-      "Explain the rule from what division means",
-      "Say why the rule is worth knowing"
+      "Explique a regra a partir do que significa divisão",
+      "Diga por que vale a pena conhecer a regra"
     ]
   },
   {
-    "label": "Reciprocals of whole numbers",
+    "label": "Reciprocidade de números inteiros",
     "section": "Reciprocals of whole numbers",
     "subgoals": [
-      "Write a whole number as a fraction",
-      "Note the unit-fraction result",
+      "Escreva um número inteiro como uma fração",
+      "Observe o resultado da fração unitária",
       "Say why zero has none"
     ]
   }

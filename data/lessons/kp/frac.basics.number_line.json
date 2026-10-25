@@ -1,29 +1,29 @@
 [
   {
-    "label": "Locate fractions on the number line",
+    "label": "Localizar frações na reta numérica",
     "section": "Locate Fractions and Mixed Numbers on the Number Line",
     "subgoals": [
-      "Divide the interval into equal parts",
-      "Count the parts from zero",
-      "Place the fraction correctly"
+      "Divida o intervalo em partes iguais",
+      "Contar as peças a partir do zero",
+      "Colocar a fracção correctamente"
     ]
   },
   {
     "label": "Order fractions",
     "section": "Order Fractions and Mixed Numbers",
     "subgoals": [
-      "Compare positions on the number line",
-      "Order a set of fractions",
-      "Use the number line to verify"
+      "Comparar posições na linha numérica",
+      "Ordenar um conjunto de frações",
+      "Use uma linha numérica para verificar"
     ]
   },
   {
     "label": "Equivalent fractions",
     "section": "Model Equivalent Fractions",
     "subgoals": [
-      "Model two names for the same point",
+      "Modelar dois nomes para o mesmo ponto",
       "Recognize equal spacing",
-      "Link equivalence to the number line"
+      "Vincular equivalência à linha numérica"
     ]
   }
 ]
