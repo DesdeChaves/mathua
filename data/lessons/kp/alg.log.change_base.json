@@ -1,28 +1,28 @@
 [
   {
-    "label": "Write both numbers as powers",
+    "label": "Escreva os dois números como potências",
     "section": "Write both numbers as powers",
     "subgoals": [
       "Choose a common base",
-      "Write the logarithm's base as a power",
-      "Write the argument as a power"
+      "Escreva a base do logaritmo como uma potência",
+      "Escreva o argumento como um poder"
     ]
   },
   {
     "label": "Division subtracts exponents",
     "section": "Division subtracts exponents",
     "subgoals": [
-      "Apply the change-of-base formula",
-      "Cancel the common logarithm",
-      "Form the ratio of exponents"
+      "Aplicar a fórmula de mudança de base",
+      "Cancelar o logaritmo comum",
+      "Formar a razão de expoentes"
     ]
   },
   {
     "label": "The answer is a ratio",
     "section": "The answer is a ratio",
     "subgoals": [
-      "Reduce the fraction",
-      "Check that base^(ratio) equals the argument",
+      "Reduzir a fração",
+      "Verifique se a base^(ratio) é igual ao argumento",
       "Keep an exact fraction"
     ]
   }

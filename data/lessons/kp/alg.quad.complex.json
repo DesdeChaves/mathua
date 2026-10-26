@@ -1,28 +1,28 @@
 [
   {
-    "label": "Real and complex solutions",
+    "label": "Soluções reais e complexas",
     "section": "Real and complex solutions",
     "subgoals": [
       "Detect a negative discriminant",
-      "Introduce the imaginary unit",
-      "Write complex solutions"
+      "Introduzir a unidade imaginária",
+      "Escreva soluções complexas"
     ]
   },
   {
     "label": "Complex conjugate roots",
     "section": "Complex conjugate roots",
     "subgoals": [
-      "Pair the conjugate roots",
+      "Emparelhar as raízes conjugadas",
       "Verify by substitution",
-      "Factor over the complex numbers"
+      "Fator sobre os números complexos"
     ]
   },
   {
-    "label": "Verify the pair",
+    "label": "Verifique",
     "section": "",
     "subgoals": [
       "Substitute each root",
-      "Check the sum and product",
+      "Verifique a soma e o produto",
       "Confirm both satisfy"
     ]
   }

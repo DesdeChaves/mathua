@@ -3,26 +3,26 @@
     "label": "What is an arithmetic sequence",
     "section": "What is an arithmetic sequence",
     "subgoals": [
-      "Difference consecutive terms for d = a_n - a_(n-1)",
+      "Diferença de termos consecutivos para d = a_n - a_(n-1)",
       "Sort d > 0 increasing, d < 0 decreasing, d = 0 constant",
-      "Write the nth term a_n = a_1 + (n-1)*d"
+      "Escreva o n-ésimo termo a_n = a_1 + (n-1)*d"
     ]
   },
   {
     "label": "Example",
     "section": "Example",
     "subgoals": [
-      "Seed a_1 = 2 with d = 3",
+      "Semente a_1 = 2 com d = 3",
       "Generate 2, 5, 8, 11, 14 term by term",
-      "Confirm gaps stay 3 across the list"
+      "Confirme se as lacunas permanecem 3 em toda a lista"
     ]
   },
   {
-    "label": "Sum of n terms",
+    "label": "Soma de n termos",
     "section": "Sum of \\\\(n\\\\) terms of an arithmetic progression",
     "subgoals": [
-      "Pair first and last terms a_1 + a_n",
-      "Multiply pairs by n/2 for the sum S_n",
+      "Emparelhar primeiro e último termos a_1 + a_n",
+      "Multiplique os pares por n/2 para a soma S_n",
       "Compute totals without listing every term"
     ]
   }

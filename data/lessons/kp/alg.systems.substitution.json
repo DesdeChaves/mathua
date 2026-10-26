@@ -3,27 +3,27 @@
     "label": "Isolate a variable",
     "section": "Isolate one variable",
     "subgoals": [
-      "Pick the equation with a lone variable",
-      "Solve for it keeping the expression exact",
+      "Escolha a equação com uma variável isolada",
+      "Resolva isso mantendo a expressão exata",
       "Prefer coefficient 1 or -1"
     ]
   },
   {
-    "label": "Substitute and solve",
+    "label": "Substituir E resolver",
     "section": "Substitute and solve",
     "subgoals": [
-      "Replace the variable in the other equation",
-      "Solve the one-variable equation",
-      "Back-substitute for the remaining variable"
+      "Substitua a variável na outra equação",
+      "Resolver a equação de uma variável",
+      "Substituto de volta para a variável restante"
     ]
   },
   {
-    "label": "Check the pair",
+    "label": "Verifique o par",
     "section": "Check in both equations",
     "subgoals": [
-      "Test the pair in the first equation",
-      "Test the pair in the second equation",
-      "Rework the same steps on a failed check"
+      "Teste o par na primeira equação",
+      "Teste o par na segunda equação",
+      "Retrabalhe os mesmos passos numa verificação com falha"
     ]
   }
 ]

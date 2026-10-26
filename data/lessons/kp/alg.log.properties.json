@@ -3,22 +3,22 @@
     "label": "Definition",
     "section": "Definition",
     "subgoals": [
-      "Recall the log definition",
-      "Identify the base",
-      "Prepare to transform"
+      "Recordar a definição do log",
+      "Identificar a base",
+      "Prepare-se para transformar"
     ]
   },
   {
     "label": "Basic identities",
     "section": "Basic identities",
     "subgoals": [
-      "Apply the zero and one logs",
-      "Use the inverse property",
+      "Aplique os logs zero e um",
+      "Use a propriedade inversa",
       "Combine simple cases"
     ]
   },
   {
-    "label": "Properties of logarithms",
+    "label": "Propriedades dos logaritmos",
     "section": "Properties of logarithms",
     "subgoals": [
       "Expand a product log",

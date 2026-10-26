@@ -1,28 +1,28 @@
 [
   {
-    "label": "Build the common denominator",
+    "label": "Construa o denominador comum",
     "section": "Build the common denominator",
     "subgoals": [
-      "Multiply the two denominators",
-      "Find the missing factor for each fraction",
-      "Rewrite each numerator over the common denominator"
+      "Multiplique os dois denominadores",
+      "Encontrar o fator em falta para cada fração",
+      "Reescrever cada numerador sobre o denominador comum"
     ]
   },
   {
-    "label": "Combine the numerators",
+    "label": "Combine os numeradores",
     "section": "Combine the numerators",
     "subgoals": [
-      "Keep brackets around the second numerator",
-      "Distribute the subtraction",
+      "Mantenha os colchetes ao redor do segundo numerador",
+      "Distribua a subtração",
       "Collect like terms"
     ]
   },
   {
-    "label": "State the restrictions",
+    "label": "Indique as restrições",
     "section": "State the restrictions",
     "subgoals": [
       "Exclude each original denominator's zero",
-      "Keep the restrictions in the answer",
+      "Mantenha as restrições na resposta",
       "Check at one allowed value"
     ]
   }

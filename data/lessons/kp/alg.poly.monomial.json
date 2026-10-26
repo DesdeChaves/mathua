@@ -3,7 +3,7 @@
     "label": "Definition",
     "section": "Definition",
     "subgoals": [
-      "Identify a monomial",
+      "Identificar um monómio",
       "Recognize its coefficient",
       "Recognize its variables"
     ]
@@ -12,17 +12,17 @@
     "label": "Non-negative exponents",
     "section": "Why exponents in a monomial must be non-negative integers",
     "subgoals": [
-      "Explain the exponent restriction",
+      "Explicar a restrição de expoente",
       "Spot invalid monomials",
-      "Keep the definition clean"
+      "Mantenha a definição limpa"
     ]
   },
   {
-    "label": "Degree of a monomial",
+    "label": "Grau de um monómio",
     "section": "Degree of a monomial",
     "subgoals": [
-      "Sum the exponents",
-      "State the degree",
+      "Somar os expoentes",
+      "Indique o grau",
       "Classify monomials"
     ]
   }

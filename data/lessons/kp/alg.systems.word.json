@@ -3,27 +3,27 @@
     "label": "Translate phrases",
     "section": "Translating Phrases into Algebraic Expressions and Equations/Inequalities",
     "subgoals": [
-      "Define the variables",
-      "Map words to equations",
-      "Write the system"
+      "Definir as variáveis",
+      "Mapear palavras para equações",
+      "Escreva o sistema"
     ]
   },
   {
     "label": "Rate models",
     "section": "Rate Models",
     "subgoals": [
-      "Identify the rates",
+      "Identifique as taxas",
       "Set up rate equations",
-      "Solve the system"
+      "Resolver o sistema"
     ]
   },
   {
     "label": "Percent applications",
     "section": "Percent Applications",
     "subgoals": [
-      "Convert the percents",
-      "Write the mixture equations",
-      "Solve and interpret"
+      "Converter as porcentagens",
+      "Escreva as equações da mistura",
+      "Resolver e interpretar"
     ]
   }
 ]

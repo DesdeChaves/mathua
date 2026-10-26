@@ -3,25 +3,25 @@
     "label": "Definition",
     "section": "Definition",
     "subgoals": [
-      "Relate logarithms to exponents",
-      "Identify base and argument",
-      "Read log notation"
+      "Relacionar logaritmos a expoentes",
+      "Identificar base e argumento",
+      "Ler notação de registo"
     ]
   },
   {
     "label": "Basic identities",
     "section": "Basic identities",
     "subgoals": [
-      "Apply log_b(1) = 0",
-      "Apply log_b(b) = 1",
-      "Use the inverse property"
+      "Aplicar log_b(1) = 0",
+      "Aplicar log_b(b) = 1",
+      "Use a propriedade inversa"
     ]
   },
   {
     "label": "Logarithmic function",
     "section": "Logarithmic function",
     "subgoals": [
-      "Recognize the log function",
+      "Reconhecer a função log",
       "State its domain",
       "Sketch its shape"
     ]

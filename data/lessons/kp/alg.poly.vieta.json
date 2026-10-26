@@ -4,26 +4,26 @@
     "section": "Introduction",
     "subgoals": [
       "State Vieta's formulas",
-      "Connect roots to coefficients",
-      "Prepare to apply"
+      "Conecte as raízes aos coeficientes",
+      "Prepare-se para se candidatar"
     ]
   },
   {
     "label": "Quadratic case",
     "section": "Quadratic case",
     "subgoals": [
-      "Sum the roots",
-      "Multiply the roots",
-      "Use them to factor"
+      "Somar as raízes",
+      "Multiplique as raízes",
+      "Use-os para levar em consideração"
     ]
   },
   {
     "label": "General form",
     "section": "General form",
     "subgoals": [
-      "Write the general relations",
-      "Apply to higher degrees",
-      "Verify with examples"
+      "Escreva as relações gerais",
+      "Aplicar a graus mais altos",
+      "Verificar com exemplos"
     ]
   }
 ]

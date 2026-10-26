@@ -3,27 +3,27 @@
     "label": "Elimination in three variables",
     "section": "Elimination in three variables",
     "subgoals": [
-      "Choose a variable to eliminate",
-      "Combine two pairs to remove it",
-      "Solve the two-by-two system that remains"
+      "Escolha uma variável para eliminar",
+      "Combine dois pares para removê-lo",
+      "Resolva o sistema dois a dois que resta"
     ]
   },
   {
     "label": "Back-substitution",
     "section": "Back-substitution",
     "subgoals": [
-      "Substitute the first value into the smaller system",
-      "Find the second unknown",
-      "Use an original equation for the third"
+      "Substitua o primeiro valor no sistema menor",
+      "Encontre o segundo desconhecido",
+      "Use uma equação original para o terceiro"
     ]
   },
   {
-    "label": "What the solution means",
+    "label": "O que significa a solução",
     "section": "What the solution means",
     "subgoals": [
-      "Read a solution as a common point of three planes",
-      "Match one solution to a single intersection",
-      "Match no solution to planes that miss"
+      "Leia uma solução como um ponto comum de três planos",
+      "Combine uma solução a uma única interseção",
+      "Não combinar nenhuma solução para aviões que erram"
     ]
   }
 ]

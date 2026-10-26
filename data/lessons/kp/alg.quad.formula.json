@@ -3,8 +3,8 @@
     "label": "Definition",
     "section": "Definition",
     "subgoals": [
-      "State the quadratic formula",
-      "Identify a, b, c",
+      "Indique a fórmula quadrática",
+      "Identifique a, b, c",
       "Substitute carefully"
     ]
   },
@@ -13,7 +13,7 @@
     "section": "Discriminant",
     "subgoals": [
       "Compute b^2 - 4ac",
-      "Classify the roots",
+      "Classificar as raízes",
       "Predict real or complex"
     ]
   },
@@ -21,9 +21,9 @@
     "label": "Vieta's formulas",
     "section": "Vieta's formulas",
     "subgoals": [
-      "Relate roots to coefficients",
+      "Relacionar raízes com coeficientes",
       "Check a solution pair",
-      "Use roots to factor"
+      "Use raízes para fatorar"
     ]
   }
 ]

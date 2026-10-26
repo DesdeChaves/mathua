@@ -3,26 +3,26 @@
     "label": "Informal definition",
     "section": "Informal Definition of a Function",
     "subgoals": [
-      "Recognize the sequence terms",
-      "Identify the pattern",
-      "Prepare to sum"
+      "Reconhecer os termos da sequência",
+      "Identifique o padrão",
+      "Prepare-se para somar"
     ]
   },
   {
-    "label": "Tables and graphs",
+    "label": "Quadros e gráficos",
     "section": "Tables and Graphs",
     "subgoals": [
-      "List the terms in a table",
-      "Read the pattern",
-      "Extend the sequence"
+      "Liste os termos numa tabela",
+      "Leia o padrão",
+      "Estender a sequência"
     ]
   },
   {
-    "label": "Sum the arithmetic series",
+    "label": "Soma das séries aritméticas",
     "section": "",
     "subgoals": [
-      "Pair first and last",
-      "Multiply by the term count",
+      "Primeiro e último",
+      "Multiplique pela contagem de termos",
       "Divide by two"
     ]
   }

@@ -13,7 +13,7 @@
     "section": "Parallel Lines",
     "subgoals": [
       "Match equal slopes",
-      "Use a interceptação fornecida",
+      "Use uma interceptação fornecida",
       "Escreva a linha paralela"
     ]
   },
@@ -21,9 +21,9 @@
     "label": "Perpendicular lines",
     "section": "Perpendicular Lines",
     "subgoals": [
-      "Take the negative reciprocal",
-      "Verify the product is -1",
-      "Write the perpendicular line"
+      "Pegue o negativo recíproco",
+      "Verifique se o produto é -1",
+      "Escreva a linha perpendicular"
     ]
   }
 ]

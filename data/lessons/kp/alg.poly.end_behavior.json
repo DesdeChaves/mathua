@@ -1,29 +1,29 @@
 [
   {
-    "label": "Degree decides the ends",
+    "label": "O grau decide as extremidades",
     "section": "Degree decides the ends",
     "subgoals": [
-      "Classify the degree as even or odd",
+      "Classifique o grau como par ou ímpar",
       "Even degree: both ends match",
-      "Odd degree: the ends oppose"
+      "Grau ímpar: as extremidades se opõem"
     ]
   },
   {
     "label": "The leading sign flips them",
     "section": "The leading sign flips them",
     "subgoals": [
-      "Read the sign of the leading coefficient",
+      "Leia o sinal do coeficiente principal",
       "The right end follows that sign",
-      "Flip both directions for a negative sign"
+      "Vire as duas direções para um sinal negativo"
     ]
   },
   {
     "label": "The four cases",
     "section": "The four cases",
     "subgoals": [
-      "Combine parity with sign",
-      "Choose one of four descriptions",
-      "Ignore the lower-order terms"
+      "Combinar paridade com sinal",
+      "Escolha uma das quatro descrições",
+      "Ignorar os termos de ordem inferior"
     ]
   }
 ]

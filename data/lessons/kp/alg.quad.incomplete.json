@@ -3,9 +3,9 @@
     "label": "Definition",
     "section": "Definition",
     "subgoals": [
-      "Identify a missing term",
-      "Classify the incomplete form",
-      "Prepare the shortcut"
+      "Identificar um termo em falta",
+      "Classificar o formulário incompleto",
+      "Prepare o atalho"
     ]
   },
   {
@@ -13,7 +13,7 @@
     "section": "The case b = 0",
     "subgoals": [
       "Isolate x^2",
-      "Take the square root",
+      "Pegue a raiz quadrada",
       "Include both signs"
     ]
   },
@@ -22,7 +22,7 @@
     "section": "The case c = 0",
     "subgoals": [
       "Factor out x",
-      "Set each factor to zero",
+      "Defina cada fator para zero",
       "State both solutions"
     ]
   }

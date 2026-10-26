@@ -4,8 +4,8 @@
     "section": "What is slope?",
     "subgoals": [
       "Define slope as rise over run",
-      "Identify its sign",
-      "Read it from a graph"
+      "Identificar o seu sinal",
+      "Leia a partir de um gráfico"
     ]
   },
   {
@@ -18,12 +18,12 @@
     ]
   },
   {
-    "label": "Slope from two points",
+    "label": "Inclinação a partir de dois pontos",
     "section": "Finding Slope by Two Given Points",
     "subgoals": [
-      "Apply the slope formula",
-      "Keep the order consistent",
-      "Simplify the ratio"
+      "Aplicar a fórmula de inclinação",
+      "Mantenha o pedido consistente",
+      "Simplifique a proporção"
     ]
   }
 ]

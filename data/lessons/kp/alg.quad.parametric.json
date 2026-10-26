@@ -3,27 +3,27 @@
     "label": "Definition",
     "section": "Definition",
     "subgoals": [
-      "Identify the parameter",
-      "Express the family",
-      "Prepare to analyze"
+      "Identificar o parâmetro",
+      "Expresse a família",
+      "Prepare-se para analisar"
     ]
   },
   {
-    "label": "Role of the discriminant",
+    "label": "Papel do discriminante",
     "section": "The role of the discriminant",
     "subgoals": [
-      "Compute the discriminant in terms of the parameter",
+      "Calcular o discriminante em termos do parâmetro",
       "Classify by parameter values",
-      "Find the boundary cases"
+      "Encontre os casos limite"
     ]
   },
   {
     "label": "Geometric interpretation",
     "section": "Geometric interpretation of parameter changes",
     "subgoals": [
-      "Shift the graph with the parameter",
+      "Deslocar o gráfico com o parâmetro",
       "Stretch or flip",
-      "Describe the family"
+      "Descrever a familia"
     ]
   }
 ]

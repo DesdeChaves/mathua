@@ -1,28 +1,28 @@
 [
   {
-    "label": "Reading the notation",
+    "label": "Leitura da notação",
     "section": "Reading the notation",
     "subgoals": [
-      "Identify the index and its limits",
+      "Identificar o índice e os seus limites",
       "Substitute each integer in turn",
-      "Add the resulting terms"
+      "Adicione os termos resultantes"
     ]
   },
   {
-    "label": "Sums of simple terms",
+    "label": "Somas de termos simples",
     "section": "Sums of simple terms",
     "subgoals": [
-      "Use the triangular sum for the integers",
-      "Multiply a constant by the number of terms",
+      "Use a soma triangular para os números inteiros",
+      "Multiplique uma constante pelo número de termos",
       "Split a linear term into two known sums"
     ]
   },
   {
-    "label": "Changing the index",
+    "label": "Alterar o índice",
     "section": "Changing the index",
     "subgoals": [
-      "Shift the start and adjust the term",
-      "Pull constant factors outside the sigma",
+      "Deslocar o início e ajustar o prazo",
+      "Puxe os fatores constantes para fora do sigma",
       "Split a sum into simpler pieces"
     ]
   }

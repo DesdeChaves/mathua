@@ -1,29 +1,29 @@
 [
   {
-    "label": "The reflection of the exponential",
+    "label": "A reflexão do exponencial",
     "section": "The reflection of the exponential",
     "subgoals": [
-      "Reflect the exponential across the diagonal",
-      "Turn the horizontal asymptote into a vertical one",
-      "Note the domain is the positive numbers"
+      "Refletir a exponencial através da diagonal",
+      "Transforme a assíntota horizontal em vertical",
+      "Observe que o domínio são os números positivos"
     ]
   },
   {
     "label": "Growth without bound",
     "section": "Growth without bound",
     "subgoals": [
-      "Increase without bound for a base above one",
-      "Reverse to decreasing for a base below one",
-      "Mark the points at input one and at the base"
+      "Aumentar sem limite para uma base acima de um",
+      "Inverter para diminuir para uma base abaixo de um",
+      "Marque os pontos na entrada um e na base"
     ]
   },
   {
-    "label": "Building the graph",
+    "label": "Construir o gráfico",
     "section": "Building the graph",
     "subgoals": [
-      "Report the exponent that reaches each input",
-      "Plot from an exact table of powers",
-      "Sketch from the asymptote and the fixed points"
+      "Relate o expoente que atinge cada entrada",
+      "Traçar a partir de uma tabela exata de poderes",
+      "Esboço da assíntota e dos pontos fixos"
     ]
   }
 ]

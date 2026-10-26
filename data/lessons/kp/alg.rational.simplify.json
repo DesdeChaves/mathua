@@ -3,8 +3,8 @@
     "label": "Factor before cancelling",
     "section": "Factor before cancelling",
     "subgoals": [
-      "Factor the numerator completely",
-      "Factor the denominator completely",
+      "Fatorar o numerador completamente",
+      "Fatorar completamente o denominador",
       "Match whole factors, not single terms"
     ]
   },
@@ -13,17 +13,17 @@
     "section": "Cancel a common factor",
     "subgoals": [
       "Cancel one matching factor",
-      "Write the remaining factor",
+      "Escreva o fator restante",
       "Do not cancel terms inside a sum"
     ]
   },
   {
-    "label": "Keep the domain restriction",
+    "label": "Manter a restrição de domínio",
     "section": "Keep the domain restriction",
     "subgoals": [
-      "Find the zero of each cancelled factor",
-      "State the excluded values",
-      "Keep the original domain"
+      "Encontre o zero de cada fator cancelado",
+      "Indique os valores excluídos",
+      "Manter o domínio original"
     ]
   }
 ]

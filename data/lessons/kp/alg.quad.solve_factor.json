@@ -3,27 +3,27 @@
     "label": "Introduction",
     "section": "Introduction",
     "subgoals": [
-      "Set the equation to zero",
-      "Identify the factoring pattern",
-      "Prepare to factor"
+      "Defina a equação para zero",
+      "Identificar o padrão de factoring",
+      "Preparar para fatorar"
     ]
   },
   {
     "label": "Derivation",
     "section": "Derivation",
     "subgoals": [
-      "Split the middle term",
-      "Group and factor",
-      "Verify the product"
+      "Dividir o meio termo",
+      "Grupo E fator",
+      "Verifique o produto"
     ]
   },
   {
-    "label": "Solve the factors",
+    "label": "Resolver os factores",
     "section": "",
     "subgoals": [
-      "Set each factor to zero",
-      "Solve each linear equation",
-      "State the roots"
+      "Defina cada fator para zero",
+      "Resolver cada equação linear",
+      "Indique as raízes"
     ]
   }
 ]

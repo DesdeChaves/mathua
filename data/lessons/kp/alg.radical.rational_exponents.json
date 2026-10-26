@@ -1,28 +1,28 @@
 [
   {
-    "label": "A root and a power",
+    "label": "Uma raiz e um poder",
     "section": "A root and a power",
     "subgoals": [
-      "Read the denominator as the root",
-      "Read the numerator as the power",
-      "Take the root before the power"
+      "Ler o denominador como a raiz",
+      "Leia o numerador como a potência",
+      "Tirar a raiz antes do poder"
     ]
   },
   {
-    "label": "Evaluate the root first",
+    "label": "Avalie a raiz primeiro",
     "section": "Evaluate the root first",
     "subgoals": [
-      "Write the base as a perfect power",
-      "Apply the exponent rule",
-      "Reduce to an integer"
+      "Escreva a base como um poder perfeito",
+      "Aplicar a regra do expoente",
+      "Reduzir a um número inteiro"
     ]
   },
   {
     "label": "Negative exponents take a reciprocal",
     "section": "Negative exponents take a reciprocal",
     "subgoals": [
-      "Evaluate the positive power",
-      "Take the reciprocal",
+      "Avaliar o poder positivo",
+      "Pegue o recíproco",
       "Enter an exact fraction, not a decimal"
     ]
   }

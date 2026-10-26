@@ -1,29 +1,29 @@
 [
   {
-    "label": "Complete the square",
+    "label": "Complete o quadrado",
     "section": "Complete the square",
     "subgoals": [
-      "Halve the x-coefficient",
-      "Add and subtract the square",
-      "Keep the expression's value"
+      "Reduzir para metade o coeficiente x",
+      "Adicionar e subtrair o quadrado",
+      "Manter o valor da expressão"
     ]
   },
   {
-    "label": "Read off the vertex",
+    "label": "Ler o vértice",
     "section": "Read off the vertex",
     "subgoals": [
-      "Set h to minus half the coefficient",
-      "Adjust the constant to find k",
-      "Identify the vertex as (h,k)"
+      "Defina h para menos metade do coeficiente",
+      "Ajuste a constante para encontrar k",
+      "Identifique o vértice como (h,k)"
     ]
   },
   {
     "label": "Check by expanding",
     "section": "Check by expanding",
     "subgoals": [
-      "Expand the square",
-      "Compare the x-coefficient with -2h",
-      "Compare the constant with h^2+k"
+      "Expandir o quadrado",
+      "Compare o coeficiente x com -2h",
+      "Compare a constante com h^2+k"
     ]
   }
 ]

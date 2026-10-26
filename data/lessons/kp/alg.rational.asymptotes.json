@@ -3,27 +3,27 @@
     "label": "Vertical asymptotes",
     "section": "Vertical asymptotes",
     "subgoals": [
-      "Factor the denominator",
-      "Find its zeros",
-      "Discard any zero that cancels with the numerator"
+      "Fator o denominador",
+      "Encontre os seus zeros",
+      "Descartar qualquer zero que seja cancelado com o numerador"
     ]
   },
   {
     "label": "Horizontal asymptotes",
     "section": "Horizontal asymptotes",
     "subgoals": [
-      "Compare the two degrees",
-      "For equal degrees take the ratio of leading coefficients",
-      "For a larger denominator the axis is the asymptote"
+      "Compare os dois graus",
+      "Para graus iguais, tome a razão dos coeficientes principais",
+      "Para um denominador maior, o eixo é a assíntota"
     ]
   },
   {
-    "label": "Sketching the graph",
+    "label": "Esboçar o gráfico",
     "section": "Sketching the graph",
     "subgoals": [
-      "Draw the asymptotes as guides",
-      "Place points and intercepts in each region",
-      "Follow the sign near each vertical asymptote"
+      "Desenhe as assíntotas como guias",
+      "Colocar pontos e interceptações em cada região",
+      "Siga o sinal perto de cada assíntota vertical"
     ]
   }
 ]

@@ -1,10 +1,10 @@
 [
   {
-    "label": "Adding and subtracting like radicals",
+    "label": "Adicionar e subtrair radicais semelhantes",
     "section": "Adding and subtracting like radicals",
     "subgoals": [
-      "Match the radicals before combining",
-      "Add or subtract only the coefficients",
+      "Combine os radicais antes de combinar",
+      "Adicionar ou subtrair apenas os coeficientes",
       "Leave unlike radicals separate"
     ]
   },
@@ -13,17 +13,17 @@
     "section": "Simplifying before combining",
     "subgoals": [
       "Simplify each radical first",
-      "Compare the remaining radicals",
-      "Combine only the terms that now match"
+      "Compare os radicais restantes",
+      "Combine apenas os termos que agora correspondem"
     ]
   },
   {
-    "label": "Multiplying and dividing",
+    "label": "Multiplicar e Dividir",
     "section": "Multiplying and dividing",
     "subgoals": [
-      "Multiply the numbers under a common root",
+      "Multiplique os números sob uma raiz comum",
       "Divide under a common root",
-      "Simplify the result at the end"
+      "Simplificar o resultado no final"
     ]
   }
 ]

@@ -3,27 +3,27 @@
     "label": "The candidates",
     "section": "The candidates",
     "subgoals": [
-      "List the divisors of the constant term",
-      "List the divisors of the leading coefficient",
-      "Form every fraction and both signs"
+      "Liste os divisores do termo constante",
+      "Liste os divisores do coeficiente principal",
+      "Forme cada fração e ambos os sinais"
     ]
   },
   {
-    "label": "Testing and reducing",
+    "label": "Testar e reduzir",
     "section": "Testing and reducing",
     "subgoals": [
-      "Substitute each candidate to test it",
-      "Divide out the first root found",
-      "Repeat on the quotient"
+      "Substitua cada candidato para testá-lo",
+      "Divida a primeira raiz encontrada",
+      "Repetir no quociente"
     ]
   },
   {
-    "label": "Why the theorem works",
+    "label": "Por que o teorema funciona",
     "section": "Why the theorem works",
     "subgoals": [
-      "Put the root in lowest terms",
-      "Clear denominators to compare divisibility",
-      "Read the numerator and denominator constraints"
+      "Coloque a raiz nos termos mais baixos",
+      "Denominadores claros para comparar a divisibilidade",
+      "Leia as restrições do numerador e do denominador"
     ]
   }
 ]

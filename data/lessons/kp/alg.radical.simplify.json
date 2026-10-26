@@ -3,27 +3,27 @@
     "label": "Pulling out perfect squares",
     "section": "Pulling out perfect squares",
     "subgoals": [
-      "Factor out the largest perfect square",
-      "Split the root of the product",
-      "Leave a squarefree number under the radical"
+      "Fatorar o maior quadrado perfeito",
+      "Dividir a raiz do produto",
+      "Deixe um número quadrado livre sob o radical"
     ]
   },
   {
     "label": "An example by hand",
     "section": "An example by hand",
     "subgoals": [
-      "Write the number as a square times a squarefree part",
-      "Take the root of the square",
-      "Keep the squarefree factor under the radical"
+      "Escreva o número como um quadrado vezes uma parte livre de quadrado",
+      "Tirar a raiz do quadrado",
+      "Mantenha o fator quadrado livre sob o radical"
     ]
   },
   {
     "label": "Radicals in algebra",
     "section": "Radicals in algebra",
     "subgoals": [
-      "Split even powers of variables out of the radical",
-      "Halve the exponent of each even power",
-      "Keep one copy of each odd power inside"
+      "Divida as potências pares das variáveis fora do radical",
+      "Reduzir pela metade o expoente de cada potência par",
+      "Mantenha uma cópia de cada potência ímpar dentro"
     ]
   }
 ]

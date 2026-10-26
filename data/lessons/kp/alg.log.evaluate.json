@@ -3,26 +3,26 @@
     "label": "Definition",
     "section": "Definition",
     "subgoals": [
-      "Rewrite as an exponent",
-      "Match the base",
-      "Evaluate the log"
+      "Reescrever como expoente",
+      "Combine a base",
+      "Avaliar o registo"
     ]
   },
   {
     "label": "Basic identities",
     "section": "Basic identities",
     "subgoals": [
-      "Evaluate log of 1",
-      "Evaluate log of the base",
+      "Avaliar log de 1",
+      "Avaliar log da base",
       "Evaluate powers"
     ]
   },
   {
-    "label": "Properties of logarithms",
+    "label": "Propriedades dos logaritmos",
     "section": "Properties of logarithms",
     "subgoals": [
-      "Apply the product property",
-      "Apply the power property",
+      "Aplicar a propriedade do produto",
+      "Aplicar a propriedade de energia",
       "Simplify evaluations"
     ]
   }

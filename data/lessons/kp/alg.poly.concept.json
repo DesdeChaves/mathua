@@ -3,27 +3,27 @@
     "label": "Definition",
     "section": "Definition",
     "subgoals": [
-      "Identify a polynomial",
-      "Recognize the terms",
-      "Use standard notation"
+      "Identificar um polinómio",
+      "Reconhecer os termos",
+      "Notação-padrão"
     ]
   },
   {
     "label": "Degree",
     "section": "Degree of a polynomial",
     "subgoals": [
-      "Find the leading term",
-      "Read its exponent",
-      "State the degree"
+      "Encontre o termo principal",
+      "Leia o seu expoente",
+      "Indique o grau"
     ]
   },
   {
-    "label": "Interpolation and degree",
+    "label": "Interpolação e grau",
     "section": "Interpolation and degree of a polynomial",
     "subgoals": [
-      "Connect points to a polynomial",
+      "Ligar pontos a um polinómio",
       "Expect degree-related freedom",
-      "Interpret the fit"
+      "Interpretar o ajuste"
     ]
   }
 ]

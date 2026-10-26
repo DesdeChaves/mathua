@@ -3,9 +3,9 @@
     "label": "Definition",
     "section": "Definition",
     "subgoals": [
-      "Define a root of a polynomial",
+      "Definir uma raiz de um polinômio",
       "Check a candidate",
-      "Read roots from factors"
+      "Ler as raízes a partir de fatores"
     ]
   },
   {
@@ -13,17 +13,17 @@
     "section": "Multiplicity of a root",
     "subgoals": [
       "Count repeated factors",
-      "State the multiplicity",
-      "Connect to graph touch"
+      "Indique a multiplicidade",
+      "Ligar ao Graph Touch"
     ]
   },
   {
     "label": "Rational root theorem",
     "section": "Rational root theorem",
     "subgoals": [
-      "List the candidates",
+      "Liste as pessoas candidatas",
       "Test each factor",
-      "Find the rational roots"
+      "Encontre as raízes racionais"
     ]
   }
 ]

@@ -1,29 +1,29 @@
 [
   {
-    "label": "Rewriting the equation",
+    "label": "Reescrever a equação",
     "section": "Rewriting the equation",
     "subgoals": [
-      "Read the equation as a logarithm statement",
-      "Rewrite it as the base raised to the value",
-      "Isolate the unknown as a power"
+      "Leia a equação como uma declaração de logaritmo",
+      "Reescreva-o como a base elevada ao valor",
+      "Isole o desconhecido como um poder"
     ]
   },
   {
-    "label": "Checking the domain",
+    "label": "Verificar o domínio",
     "section": "Checking the domain",
     "subgoals": [
-      "Require the unknown to be positive",
-      "Combine logarithms only within the domain",
-      "Test each candidate in the original equation"
+      "Exigir que o desconhecido seja positivo",
+      "Combinar logaritmos apenas dentro do domínio",
+      "Teste cada candidato na equação original"
     ]
   },
   {
     "label": "Applications",
     "section": "Applications",
     "subgoals": [
-      "Reduce the model to a rewritten logarithm",
-      "Divide by the rate or coefficient",
-      "Attach the units the model supplies"
+      "Reduzir o modelo a um logaritmo reescrito",
+      "Divida pela taxa ou coeficiente",
+      "Anexe as unidades que o modelo fornece"
     ]
   }
 ]

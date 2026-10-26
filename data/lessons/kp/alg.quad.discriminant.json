@@ -3,27 +3,27 @@
     "label": "Quadratic formula",
     "section": "Solving Quadratic Equations with the Quadratic Formula",
     "subgoals": [
-      "Identify a, b, c",
-      "Substitute into the formula",
-      "Simplify the result"
+      "Identifique a, b, c",
+      "Substituir na fórmula",
+      "Simplifique o resultado."
     ]
   },
   {
     "label": "Applications",
     "section": "Applications",
     "subgoals": [
-      "Translate the problem",
-      "Set up the quadratic",
-      "Interpret the solutions"
+      "Traduzir o problema",
+      "Configure o quadrático",
+      "Interpretar as soluções"
     ]
   },
   {
     "label": "Radical equations",
     "section": "Radical Equations",
     "subgoals": [
-      "Isolate the radical",
+      "Isole o radical",
       "Square both sides",
-      "Check for extraneous roots"
+      "Verifique se há raízes estranhas"
     ]
   }
 ]

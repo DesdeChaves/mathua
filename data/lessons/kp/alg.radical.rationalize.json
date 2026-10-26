@@ -1,28 +1,28 @@
 [
   {
-    "label": "Multiply by the root",
+    "label": "Multiplicar pela raiz",
     "section": "Multiply by the root",
     "subgoals": [
-      "Multiply numerator and denominator by the root",
-      "Keep the fraction's value unchanged",
-      "Move the root to the numerator"
+      "Multiplicar numerador e denominador pela raiz",
+      "Manter o valor da fração inalterado",
+      "Mover a raiz para o numerador"
     ]
   },
   {
-    "label": "Clear the denominator",
+    "label": "Limpar o denominador",
     "section": "Clear the denominator",
     "subgoals": [
-      "Multiply out the numerator",
-      "Reduce the coefficient",
-      "Write the integer denominator"
+      "Multiplique o numerador",
+      "Reduzir o coeficiente",
+      "Escreva o denominador inteiro"
     ]
   },
   {
-    "label": "Choose the squarefree radicand",
+    "label": "Escolha o radicando livre de quadrados",
     "section": "Choose the squarefree radicand",
     "subgoals": [
-      "Move perfect squares out of the root",
-      "Keep the radicand squarefree",
+      "Mova quadrados perfeitos para fora da raiz",
+      "Mantenha o radicand squarefree",
       "Enter coefficient first, radicand second"
     ]
   }

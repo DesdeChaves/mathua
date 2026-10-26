@@ -3,27 +3,27 @@
     "label": "Substitution",
     "section": "Substitution",
     "subgoals": [
-      "Solve one equation for a variable",
-      "Substitute into the other equation",
-      "Solve the resulting single-variable equation"
+      "Resolver uma equação para uma variável",
+      "Substitua na outra equação",
+      "Resolver a equação de variável única resultante"
     ]
   },
   {
     "label": "Several solutions",
     "section": "Several solutions",
     "subgoals": [
-      "Expect as many solutions as the substituted equation has roots",
-      "Pair each root with the other variable",
+      "Espere tantas soluções quanto a equação substituída tiver raízes",
+      "Emparelhar cada raiz com a outra variável",
       "Check each pair in both original equations"
     ]
   },
   {
-    "label": "Choosing the easier variable",
+    "label": "Escolher a variável mais fácil",
     "section": "Choosing the easier variable",
     "subgoals": [
-      "Use an already-solved equation first",
-      "Subtract equations to remove a shared square",
-      "Reduce to a single solvable equation"
+      "Use uma equação já resolvida primeiro",
+      "Subtrair equações para remover um quadrado compartilhado",
+      "Reduzir a uma única equação solúvel"
     ]
   }
 ]

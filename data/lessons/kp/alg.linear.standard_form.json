@@ -3,26 +3,26 @@
     "label": "Standard form definition",
     "section": "Standard Form Definition",
     "subgoals": [
-      "Identify Ax + By = C",
+      "Identificar Ax + By = C",
       "Keep A, B, C integers",
-      "Read the structure"
+      "A estrutura"
     ]
   },
   {
     "label": "Intercepts",
     "section": "The Importance of $x$- and $y$-Intercepts",
     "subgoals": [
-      "Find the x-intercept",
-      "Find the y-intercept",
-      "Graph from the intercepts"
+      "Encontrar a interceptação x",
+      "Encontre a interceptação y",
+      "Gráfico das interceptações"
     ]
   },
   {
     "label": "Transform forms",
     "section": "Transforming between Standard Form and Slope-Intercept Form",
     "subgoals": [
-      "Solve for y",
-      "Write slope-intercept form",
+      "Resolver para y",
+      "Escreva o formulário de interceptação de inclinação",
       "Convert back"
     ]
   }

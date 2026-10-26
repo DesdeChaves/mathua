@@ -3,27 +3,27 @@
     "label": "Slope first",
     "section": "Slope first",
     "subgoals": [
-      "Subtract y-coordinates in the numerator",
-      "Subtract x-coordinates in the same order",
-      "Reduce the difference quotient"
+      "Subtrair coordenadas y no numerador",
+      "Subtraia as coordenadas x na mesma ordem",
+      "Reduzir o quociente de diferença"
     ]
   },
   {
-    "label": "Point into the equation",
+    "label": "Aponte para a equação",
     "section": "Point into the equation",
     "subgoals": [
       "Substitute one known point",
-      "Solve for the intercept",
-      "Write y = mx + b"
+      "Resolver para a interceptação",
+      "Escreva y = mx + b"
     ]
   },
   {
-    "label": "Checking the line",
+    "label": "Verificação da linha",
     "section": "Checking the line",
     "subgoals": [
-      "Substitute the second point",
+      "Substituir o segundo ponto",
       "Confirm both sides are equal",
-      "Enter only the right-hand side"
+      "Introduza apenas o lado direito"
     ]
   }
 ]

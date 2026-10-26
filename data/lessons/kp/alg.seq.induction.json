@@ -3,27 +3,27 @@
     "label": "The two parts",
     "section": "The two parts",
     "subgoals": [
-      "Prove the statement for the first integer",
-      "Assume it for n and derive it for n plus one",
-      "Combine the base and the step"
+      "Prove a instrução para o primeiro número inteiro",
+      "Assuma-o para n e derive-o para n mais um",
+      "Combine a base e o degrau"
     ]
   },
   {
-    "label": "Structuring the step",
+    "label": "Estruturação da etapa",
     "section": "Structuring the step",
     "subgoals": [
-      "State the induction hypothesis clearly",
-      "Write the n-plus-one case in terms of the n case",
-      "Substitute the hypothesis and simplify"
+      "Indique claramente a hipótese de indução",
+      "Escreva o caso n-plus-one em termos do caso n",
+      "Substituir a hipótese e simplificar"
     ]
   },
   {
-    "label": "Beyond the simple form",
+    "label": "Além da forma simples",
     "section": "Beyond the simple form",
     "subgoals": [
-      "Use strong induction when the step needs earlier cases",
-      "Start the base case where the statement begins to hold",
-      "Keep the chain unbroken from the base upwards"
+      "Use uma indução forte quando a etapa precisar de casos anteriores",
+      "Inicie o caso base em que a declaração começa a ser mantida",
+      "Mantenha a corrente intacta da base para cima"
     ]
   }
 ]

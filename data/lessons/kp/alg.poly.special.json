@@ -3,26 +3,26 @@
     "label": "Introduction",
     "section": "Introduction",
     "subgoals": [
-      "Identify a notable product pattern",
-      "Recall the standard forms",
-      "Prepare to expand"
+      "Identifique um padrão de produto notável",
+      "Recolher os formulários padrão",
+      "Prepare-se para expandir"
     ]
   },
   {
-    "label": "Square of a binomial",
+    "label": "Quadrado de um binómio",
     "section": "Square of a binomial",
     "subgoals": [
-      "Apply (a+b)^2",
-      "Apply (a-b)^2",
-      "Verify the middle term"
+      "Aplicar (a+b)^2",
+      "Aplicar (a-b)^2",
+      "Verifique o meio termo"
     ]
   },
   {
-    "label": "Difference of two squares",
+    "label": "Diferença de dois quadrados",
     "section": "Difference of two squares",
     "subgoals": [
-      "Apply (a+b)(a-b)",
-      "Recognize the pattern",
+      "Aplicar (a+b)(a-b)",
+      "Reconhecer o padrão",
       "Factor quickly"
     ]
   }

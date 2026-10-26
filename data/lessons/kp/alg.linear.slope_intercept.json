@@ -3,27 +3,27 @@
     "label": "Definition",
     "section": "Definition",
     "subgoals": [
-      "Identify the linear form",
-      "Read slope and intercept",
-      "Prepare to analyze"
+      "Identificar a forma linear",
+      "Ler inclinação e interceptar",
+      "Prepare-se para analisar"
     ]
   },
   {
     "label": "One-variable linear equations",
     "section": "Linear equations in one variable",
     "subgoals": [
-      "Isolate the variable",
-      "Apply inverse operations",
-      "State the solution"
+      "Isole a variável",
+      "Aplicar operações inversas",
+      "Indique a solução"
     ]
   },
   {
     "label": "Two-variable linear equations",
     "section": "Linear equations in two variables",
     "subgoals": [
-      "Identify solutions as points",
-      "Graph the line",
-      "Find intercepts"
+      "Identificar soluções como pontos",
+      "Representar graficamente a linha",
+      "Encontrar interceptações"
     ]
   }
 ]

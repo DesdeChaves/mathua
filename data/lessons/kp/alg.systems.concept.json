@@ -4,7 +4,7 @@
     "section": "What is a linear system?",
     "subgoals": [
       "Count m equations in n unknowns x_1..x_n",
-      "Check each variable appears to first power only",
+      "Verifique se cada variável aparece apenas na primeira alimentação",
       "Sort consistent/determined vs inconsistent systems"
     ]
   },
@@ -13,16 +13,16 @@
     "section": "Why is the matrix form important?",
     "subgoals": [
       "Stack coefficients into matrix A",
-      "Stack unknowns into X and constants into B",
-      "Compress the system to A*X = B"
+      "Empilhar incógnitas em X e constantes em B",
+      "Comprimir o sistema para A*X = B"
     ]
   },
   {
     "label": "Example",
     "section": "Example",
     "subgoals": [
-      "Solve 3x3 via X = A^-1*B when det != 0",
-      "Test the tuple against every equation",
+      "Resolva 3x3 via X = A^-1*B quando det != 0",
+      "Teste a tupla contra cada equação",
       "Reject candidates failing any single row"
     ]
   }

@@ -3,16 +3,16 @@
     "label": "Distributive property",
     "section": "Review of the Distributive Property",
     "subgoals": [
-      "Distribute the monomial",
+      "Distribua o monómio",
       "Multiply each term",
-      "Combine the products"
+      "Combine os produtos"
     ]
   },
   {
     "label": "Multiplying binomials",
     "section": "Multiplying Binomials",
     "subgoals": [
-      "Apply distribution twice",
+      "Aplicar distribuição duas vezes",
       "Collect like terms",
       "Simplify"
     ]
@@ -22,8 +22,8 @@
     "section": "Multiplying Binomials Using Distribution",
     "subgoals": [
       "Distribute term by term",
-      "Use FOIL as a shortcut",
-      "Verify the product"
+      "Usar PAPEL ALUMÍNIO como atalho",
+      "Verifique o produto"
     ]
   }
 ]

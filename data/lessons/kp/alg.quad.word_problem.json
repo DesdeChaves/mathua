@@ -1,29 +1,29 @@
 [
   {
-    "label": "Name the width",
+    "label": "Nomeie a largura",
     "section": "Name the width",
     "subgoals": [
-      "Let w be the width",
-      "Translate the length into an expression",
-      "Multiply the two sides for the area"
+      "Seja w a largura",
+      "Traduzir o comprimento numa expressão",
+      "Multiplique os dois lados pela área"
     ]
   },
   {
-    "label": "Build the equation",
+    "label": "Construir a equação",
     "section": "Build the equation",
     "subgoals": [
-      "Expand the product",
-      "Move the area to the left",
-      "Solve by factoring or the formula"
+      "Expandir o produto.",
+      "Mova a área para a esquerda",
+      "Resolver por factoring ou pela fórmula"
     ]
   },
   {
-    "label": "Reject the negative root",
+    "label": "Rejeitar a raiz negativa",
     "section": "Reject the negative root",
     "subgoals": [
-      "Notice the roots have opposite signs",
-      "Keep the positive width",
-      "Check the area from the answer"
+      "Observe que as raízes têm sinais opostos",
+      "Manter a largura positiva",
+      "Verifique a área a partir da resposta"
     ]
   }
 ]

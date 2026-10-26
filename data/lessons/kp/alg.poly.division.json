@@ -3,9 +3,9 @@
     "label": "Division algorithm",
     "section": "The division algorithm",
     "subgoals": [
-      "Set up the division",
-      "Identify dividend and divisor",
-      "Prepare the quotient"
+      "Configurar a divisão",
+      "Identificar dividendo e divisor",
+      "Preparar o quociente"
     ]
   },
   {
@@ -13,17 +13,17 @@
     "section": "Polynomial long division",
     "subgoals": [
       "Divide leading terms",
-      "Multiply and subtract",
+      "Multiplicar e subtrair",
       "Repeat until done"
     ]
   },
   {
-    "label": "Remainder and factor theorems",
+    "label": "Teoremas do restante e do fator",
     "section": "The remainder theorem and the factor theorem",
     "subgoals": [
-      "Evaluate at a root to get the remainder",
+      "Avalie pela raiz para obter o restante",
       "Test factors",
-      "Use synthetic division shortcuts"
+      "Usar atalhos de divisão sintéticos"
     ]
   }
 ]

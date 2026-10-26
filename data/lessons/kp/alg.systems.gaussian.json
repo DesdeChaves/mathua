@@ -3,8 +3,8 @@
     "label": "What is Gaussian elimination",
     "section": "What is Gaussian elimination",
     "subgoals": [
-      "Set up the augmented matrix",
-      "Identify the pivot columns",
+      "Configurar a matriz aumentada",
+      "Identificar as colunas de pivô",
       "Prepare row operations"
     ]
   },
@@ -13,17 +13,17 @@
     "section": "The process involves the following steps:",
     "subgoals": [
       "Eliminate below each pivot",
-      "Scale pivots to one",
+      "Pivôs de escala para um",
       "Back-substitute"
     ]
   },
   {
-    "label": "Connection with matrices",
+    "label": "Ligação com matrizes",
     "section": "Connection with Matrices",
     "subgoals": [
-      "Read the row-echelon form",
+      "Leia o formulário row-echelon",
       "Interpret each row",
-      "Extract the solution"
+      "Extrair a solução"
     ]
   }
 ]

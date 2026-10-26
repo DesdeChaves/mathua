@@ -3,27 +3,27 @@
     "label": "Row operations",
     "section": "What is Gaussian elimination",
     "subgoals": [
-      "Write the augmented matrix",
-      "Swap, scale, and add rows",
-      "Aim for one variable fewer per step"
+      "Escreva a matriz aumentada",
+      "Trocar, dimensionar e adicionar linhas",
+      "Apontar para uma variável a menos por etapa"
     ]
   },
   {
     "label": "Eliminate in order",
     "section": "The process involves the following steps:",
     "subgoals": [
-      "Clear x_1 below the first row",
-      "Clear x_2 below the second row",
-      "Back-substitute from the last row"
+      "Limpar x_1 abaixo da primeira linha",
+      "Limpar x_2 abaixo da segunda linha",
+      "Substituto de volta da última linha"
     ]
   },
   {
     "label": "Worked 3x3 system",
     "section": "Example",
     "subgoals": [
-      "Read the triangular form",
-      "Solve for the last variable first",
-      "Substitute back up the rows"
+      "Leia a forma triangular",
+      "Resolver para a última variável primeiro",
+      "Substitua o backup das linhas"
     ]
   }
 ]
