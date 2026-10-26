@@ -1,29 +1,29 @@
 [
   {
-    "label": "Imagine filling in the blanks",
+    "label": "Imagine preencher os espaços em branco",
     "section": "Imagine Filling in the Blanks",
     "subgoals": [
       "Guess a candidate value",
-      "Check it in the equation",
+      "Verifique na equação",
       "Adjust until it works"
     ]
   },
   {
-    "label": "Basic principle of algebra",
+    "label": "Princípio básico da álgebra",
     "section": "The Basic Principle of Algebra",
     "subgoals": [
-      "Do the same to both sides",
-      "Undo multiplication with division",
-      "Keep the equation balanced"
+      "Faça o mesmo para ambos os lados",
+      "Desfazer multiplicação com divisão",
+      "Mantenha a equação equilibrada"
     ]
   },
   {
-    "label": "Solve one-step equations",
+    "label": "Resolver equações de uma etapa",
     "section": "Solving One-Step Equations and Stating Solution Sets",
     "subgoals": [
-      "Identify the coefficient",
+      "Identificar o coeficiente",
       "Divide both sides by it",
-      "State the solution set"
+      "Indique o conjunto de soluções"
     ]
   }
 ]

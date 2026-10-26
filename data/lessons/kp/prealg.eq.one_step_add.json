@@ -1,29 +1,29 @@
 [
   {
-    "label": "Basic principle of algebra",
+    "label": "Princípio básico da álgebra",
     "section": "The Basic Principle of Algebra",
     "subgoals": [
-      "Do the same to both sides",
-      "Keep the equation balanced",
-      "Undo addition with subtraction"
+      "Faça o mesmo para ambos os lados",
+      "Mantenha a equação equilibrada",
+      "Desfazer adição com subtração"
     ]
   },
   {
-    "label": "Solve one-step equations",
+    "label": "Resolver equações de uma etapa",
     "section": "Solving One-Step Equations and Stating Solution Sets",
     "subgoals": [
-      "Identify the operation on the variable",
-      "Apply the inverse operation",
-      "State the solution set"
+      "Identificar a operação na variável",
+      "Aplicar a operação inversa",
+      "Indique o conjunto de soluções"
     ]
   },
   {
-    "label": "Equations with fractions",
+    "label": "Equações com frações",
     "section": "Equations with Fractions",
     "subgoals": [
-      "Undo a fraction with multiplication",
-      "Clear the denominator",
-      "Solve the resulting equation"
+      "Desfazer uma fracção com multiplicação",
+      "Limpar o denominador",
+      "Resolver a equação resultante"
     ]
   }
 ]
