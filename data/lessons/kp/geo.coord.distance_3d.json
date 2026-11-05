@@ -1,10 +1,10 @@
 [
   {
-    "label": "Adding the third dimension",
+    "label": "Adicionar a terceira dimensão",
     "section": "Adding the third dimension",
     "subgoals": [
-      "Write the three-dimensional formula",
-      "Explain it as Pythagoras twice",
+      "Escreva a fórmula tridimensional",
+      "Explique como Pitágoras duas vezes",
       "Compute a distance"
     ]
   },
@@ -21,8 +21,8 @@
     "label": "The same formula everywhere",
     "section": "The same formula everywhere",
     "subgoals": [
-      "Extend it to any dimension",
-      "Read a vector's length",
+      "Estenda-o para qualquer dimensão",
+      "Ler o comprimento de um vetor",
       "See why it is a definition"
     ]
   }

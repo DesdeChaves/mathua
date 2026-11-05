@@ -3,9 +3,9 @@
     "label": "Opposite angles are supplementary",
     "section": "Opposite angles are supplementary",
     "subgoals": [
-      "State the property",
-      "Find the opposite angle",
-      "State the converse"
+      "Indique a propriedade",
+      "Encontre o ângulo oposto",
+      "Indique o inverso"
     ]
   },
   {
@@ -13,8 +13,8 @@
     "section": "Why it holds",
     "subgoals": [
       "Halve each arc",
-      "Add the two arcs",
-      "Conclude the sum"
+      "Adicione os dois arcos",
+      "Conclua a soma"
     ]
   },
   {

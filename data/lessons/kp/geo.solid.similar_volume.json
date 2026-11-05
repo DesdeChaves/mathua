@@ -1,20 +1,20 @@
 [
   {
-    "label": "Volumes scale by the cube",
+    "label": "Volumes dimensionados pelo cubo",
     "section": "Volumes scale by the cube",
     "subgoals": [
-      "State the volume ratio",
-      "Apply it to a scale model",
-      "Explain the three dimensions"
+      "Indique a relação de volume",
+      "Aplique-o a um modelo em escala",
+      "Explique as três dimensões"
     ]
   },
   {
-    "label": "Area and volume together",
+    "label": "Área e volume juntos",
     "section": "Area and volume together",
     "subgoals": [
-      "State the area ratio",
-      "Compare the two powers",
-      "Connect surface-to-volume to size"
+      "Indique a proporção da área",
+      "Compare os dois poderes",
+      "Conecte a superfície ao volume ao tamanho"
     ]
   },
   {
@@ -22,8 +22,8 @@
     "section": "Checking a claim",
     "subgoals": [
       "Test a volume answer",
-      "Reject the square or the ratio",
-      "Name the common mistake"
+      "Rejeitar o quadrado ou a proporção",
+      "Nomeie o erro comum"
     ]
   }
 ]

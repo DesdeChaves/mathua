@@ -4,26 +4,26 @@
     "section": "Scaling about a point",
     "subgoals": [
       "Define a dilation",
-      "Apply a factor to a length",
-      "Explain why the centre is fixed"
+      "Aplicar um fator a um comprimento",
+      "Explique por que o centro é fixo"
     ]
   },
   {
     "label": "Factors below one",
     "section": "Factors below one",
     "subgoals": [
-      "Shrink with a fraction factor",
-      "Reflect with a negative factor",
-      "Keep the shape either way"
+      "Encolher com um factor de fracção",
+      "Refletir com um fator negativo",
+      "Mantenha a forma de qualquer maneira"
     ]
   },
   {
-    "label": "Dilations and similar figures",
+    "label": "Dilatações e figuras semelhantes",
     "section": "Dilations and similar figures",
     "subgoals": [
-      "Relate similarity to a dilation",
-      "Name the rigid motion allowed with it",
-      "Derive the area scaling"
+      "Relacionar a semelhança com uma dilatação",
+      "Nomeie o movimento rígido permitido com ele",
+      "Derivar a escala da área"
     ]
   }
 ]

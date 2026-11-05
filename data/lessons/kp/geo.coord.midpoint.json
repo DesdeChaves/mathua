@@ -1,11 +1,11 @@
 [
   {
-    "label": "Halves of the street-grid steps",
+    "label": "Metades dos degraus da grade da rua",
     "section": "",
     "subgoals": [
-      "Average the two x-values for the middle x",
-      "Average the two y-values for the middle y",
-      "Keep horizontal-first order in the answer pair"
+      "Média dos dois valores x para o meio x",
+      "Média dos dois valores y para o meio y",
+      "Mantenha a primeira ordem horizontal no par de respostas"
     ],
     "slice": {
       "rule": "The midpoint of two points is found by averaging each coordinate separately: add the two $x$-values and halve, add the two $y$-values and halve. Nothing else is involved — the midpoint is componentwise, not a new kind of average.",
@@ -22,24 +22,24 @@
     }
   },
   {
-    "label": "Origin and axes as reference points",
+    "label": "Origem e eixos como pontos de referência",
     "section": "",
     "subgoals": [
-      "Start every address at the origin (0, 0)",
-      "Measure x along the horizontal axis",
-      "Measure y along the vertical axis"
+      "Iniciar todos os endereços na origem (0, 0)",
+      "Medir x ao longo do eixo horizontal",
+      "Meça y ao longo do eixo vertical"
     ],
     "slice": {
       "rule": "Coordinates are measured from the origin, with $x$ along the horizontal axis and $y$ along the vertical. Averaging works regardless of sign, because each coordinate is handled on its own axis."
     }
   },
   {
-    "label": "Drill: middle of two addresses",
+    "label": "Drill: meio de dois endereços",
     "section": "",
     "subgoals": [
-      "Add the two x-values and halve the total",
-      "Add the two y-values and halve the total",
-      "Check the midpoint sits halfway on each axis"
+      "Adicione os dois valores x e divida pela metade o total",
+      "Adicione os dois valores y e divida pela metade o total",
+      "Verifique se o ponto médio fica a meio caminho de cada eixo"
     ],
     "slice": {
       "rule": "Average the two $x$-values for the middle $x$, average the two $y$-values for the middle $y$, and write the pair in that order. Then check the result really is halfway on each axis.",

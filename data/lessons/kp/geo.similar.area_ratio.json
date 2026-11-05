@@ -1,29 +1,29 @@
 [
   {
-    "label": "Areas scale by the square",
+    "label": "Áreas dimensionadas pelo quadrado",
     "section": "Areas scale by the square",
     "subgoals": [
-      "State the area ratio",
-      "Explain the two dimensions",
+      "Indique a proporção da área",
+      "Explique as duas dimensões",
       "Compute a ratio"
     ]
   },
   {
-    "label": "Volumes scale by the cube",
+    "label": "Volumes dimensionados pelo cubo",
     "section": "Volumes scale by the cube",
     "subgoals": [
-      "State the volume ratio",
-      "Apply it to a scale model",
-      "Relate surface area and volume"
+      "Indique a relação de volume",
+      "Aplique-o a um modelo em escala",
+      "Relacionar área de superfície e volume"
     ]
   },
   {
     "label": "Checking a claim",
     "section": "Checking a claim",
     "subgoals": [
-      "Test an area answer for plausibility",
+      "Testar a plausibilidade de uma resposta de área",
       "Reject a length-ratio answer",
-      "Use the rule as a check"
+      "Usar a regra como verificação"
     ]
   }
 ]

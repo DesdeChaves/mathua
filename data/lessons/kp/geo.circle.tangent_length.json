@@ -1,29 +1,29 @@
 [
   {
-    "label": "The tangent is perpendicular to the radius",
+    "label": "A tangente é perpendicular ao raio",
     "section": "The tangent is perpendicular to the radius",
     "subgoals": [
-      "State the right angle",
+      "Indique o ângulo certo",
       "See why an inside point cannot work",
-      "Recognise the one-point contact"
+      "Reconhecer o contacto de um ponto"
     ]
   },
   {
-    "label": "Using the right triangle",
+    "label": "Usando o triângulo retângulo",
     "section": "Using the right triangle",
     "subgoals": [
-      "Name the triangle's sides",
-      "Apply Pythagoras",
-      "Answer the converse question"
+      "Nomeie os lados do triângulo",
+      "Aplicar Pitágoras",
+      "Responda à pergunta inversa"
     ]
   },
   {
-    "label": "Two tangents from one point",
+    "label": "Duas tangentes de um ponto",
     "section": "Two tangents from one point",
     "subgoals": [
-      "Show the two segments are equal",
+      "Mostrar que os dois segmentos são iguais",
       "Justify it by congruence",
-      "Use the symmetry to measure"
+      "Use a simetria para medir"
     ]
   }
 ]

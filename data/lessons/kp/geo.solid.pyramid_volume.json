@@ -1,29 +1,29 @@
 [
   {
-    "label": "One third of a prism",
+    "label": "Um terço de um prisma",
     "section": "One third of a prism",
     "subgoals": [
-      "State the volume formula",
+      "Indique a fórmula do volume",
       "Compute a volume",
-      "Identify the base area"
+      "Identificar a área de base"
     ]
   },
   {
-    "label": "Why the third",
+    "label": "Por que o terceiro",
     "section": "Why the third",
     "subgoals": [
       "Assemble three pyramids into a prism",
-      "Describe the slicing argument",
+      "Descrever o argumento de fatiamento",
       "Say what a first course assumes"
     ]
   },
   {
-    "label": "Cones and other pyramids",
+    "label": "Cones e outras pirâmides",
     "section": "Cones and other pyramids",
     "subgoals": [
       "Treat a cone as a pyramid",
-      "Add a prism and a pyramid",
-      "Keep the two formulas apart"
+      "Adicione um prisma e uma pirâmide",
+      "Mantenha as duas fórmulas separadas"
     ]
   }
 ]

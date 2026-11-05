@@ -1,29 +1,29 @@
 [
   {
-    "label": "Setting up the proportion",
+    "label": "Configurar a proporção",
     "section": "Setting up the proportion",
     "subgoals": [
-      "Write the ratios of corresponding sides",
+      "Escreva as proporções dos lados correspondentes",
       "Equate them as a proportion",
-      "Solve a multiplication"
+      "Resolver uma multiplicação"
     ]
   },
   {
-    "label": "Solving for the unknown",
+    "label": "Resolver para o desconhecido",
     "section": "Solving for the unknown",
     "subgoals": [
       "Cross-multiply",
-      "Check the answer's size",
+      "Verifique o tamanho da resposta",
       "Detect an upside-down proportion"
     ]
   },
   {
-    "label": "Choosing the corresponding sides",
+    "label": "Escolher os lados correspondentes",
     "section": "Choosing the corresponding sides",
     "subgoals": [
       "Match sides by their angles",
-      "Use the vertex order in the name",
-      "Write a similarity statement"
+      "Use a ordem dos vértices no nome",
+      "Escreva uma declaração de semelhança"
     ]
   }
 ]

@@ -1,29 +1,29 @@
 [
   {
-    "label": "The perpendicular bisects the chord",
+    "label": "A perpendicular corta a corda",
     "section": "The perpendicular bisects the chord",
     "subgoals": [
-      "State the bisection",
+      "Indique a bissecção",
       "Justify it by congruent triangles",
-      "Find the centre from a chord"
+      "Encontre o centro a partir de um acorde"
     ]
   },
   {
-    "label": "Using the right triangle",
+    "label": "Usando o triângulo retângulo",
     "section": "Using the right triangle",
     "subgoals": [
-      "Name the triangle's three sides",
-      "Apply Pythagoras",
+      "Nomeie os três lados do triângulo",
+      "Aplicar Pitágoras",
       "Compute a chord's length"
     ]
   },
   {
-    "label": "Equal chords and equal distances",
+    "label": "Acordes iguais e distâncias iguais",
     "section": "Equal chords and equal distances",
     "subgoals": [
-      "Relate chord length to distance",
-      "Name the longest chord",
-      "Derive both from the triangle"
+      "Relacionar o comprimento da corda à distância",
+      "Nomeie o acorde mais longo",
+      "Derivar ambos do triângulo"
     ]
   }
 ]

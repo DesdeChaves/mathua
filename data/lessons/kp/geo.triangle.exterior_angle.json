@@ -3,17 +3,17 @@
     "label": "The theorem",
     "section": "The theorem",
     "subgoals": [
-      "State the exterior angle theorem",
-      "Identify the remote interior angles",
-      "Use it instead of the third angle"
+      "Declarar o teorema do ângulo externo",
+      "Identifique os ângulos internos remotos",
+      "Use-o em vez do terceiro ângulo"
     ]
   },
   {
     "label": "Why it is true",
     "section": "Why it is true",
     "subgoals": [
-      "Use the angle sum",
-      "Use the straight angle",
+      "Use a soma do ângulo",
+      "Use o ângulo reto",
       "Equate the two expressions"
     ]
   },

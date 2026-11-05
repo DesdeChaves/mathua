@@ -3,9 +3,9 @@
     "label": "The Vocabulary",
     "section": "The Vocabulary",
     "subgoals": [
-      "Run the radius from center to edge",
-      "Double the radius through the center for the diameter",
-      "Join any two edge points for a chord"
+      "Execute o raio do centro para a borda",
+      "Duplique o raio através do centro para o diâmetro",
+      "Junte quaisquer dois pontos de borda para um acorde"
     ]
   },
   {
@@ -13,16 +13,16 @@
     "section": "Naming Arcs",
     "subgoals": [
       "Name an arc by its two endpoints",
-      "Split the circle into 180-degree semicircles",
-      "Sort leftover arcs into minor and major"
+      "Divida o círculo em semicírculos de 180 graus",
+      "Classifique os arcos restantes em menores e maiores"
     ]
   },
   {
-    "label": "Drill: radius 6 and the 9-inch chord test",
+    "label": "Broca: raio 6 e o teste de corda de 9 polegadas",
     "section": "",
     "subgoals": [
-      "Double 6 to a 12 cm diameter",
-      "Cap every chord at the diameter",
+      "Duplo 6 a 12 cm de diâmetro",
+      "Tampe cada corda no diâmetro",
       "Reject radius 4 against a 9-inch chord"
     ]
   }

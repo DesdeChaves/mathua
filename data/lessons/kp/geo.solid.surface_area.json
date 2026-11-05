@@ -3,27 +3,27 @@
     "label": "The Formula",
     "section": "The Formula",
     "subgoals": [
-      "Pair top-bottom as 2lw and front-back as 2lh",
+      "Emparelhe a parte superior inferior como 2lw e a parte frontal traseira como 2lh",
       "Pair left-right as 2wh",
-      "Sum to SA equals 2(lw + lh + wh)"
+      "A soma para SA é igual a 2(lw + lh + wh)"
     ]
   },
   {
     "label": "Volume vs. Surface Area",
     "section": "Volume vs. Surface Area",
     "subgoals": [
-      "Charge volume with the inside and area with the wrapping",
-      "Bill volume in cubic units and area in square units",
-      "Collapse cubes to SA equals 6 s-squared"
+      "Volume de carga com o interior e área com o invólucro",
+      "Volume da fatura em unidades cúbicas e área em unidades quadradas",
+      "Recolher cubos para SA é igual a 6 s ao quadrado"
     ]
   },
   {
-    "label": "Drill: 5-by-4-by-3 prism and edge-2 cube",
+    "label": "Broca: prisma 5 por 4 por 3 e cubo Edge-2",
     "section": "",
     "subgoals": [
-      "Score the face pairs 40, 30, and 24 for 94 total",
-      "Attach square centimeters to the 94",
-      "Multiply six 2-by-2 faces for 24 square meters"
+      "Marque os pares de faces 40, 30 e 24 para um total de 94",
+      "Anexe centímetros quadrados ao 94",
+      "Multiplique seis faces 2 por 2 por 24 metros quadrados"
     ]
   }
 ]

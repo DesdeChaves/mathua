@@ -3,18 +3,18 @@
     "label": "Base area times height",
     "section": "Base area times height",
     "subgoals": [
-      "State the formula",
+      "Indique a fórmula",
       "Compute a volume",
-      "Note that the base shape does not matter"
+      "Observe que a forma da base não importa"
     ]
   },
   {
     "label": "Any base shape",
     "section": "Any base shape",
     "subgoals": [
-      "Work from the base area",
-      "Contrast it with a pyramid",
-      "See the average cross-section"
+      "Trabalhe a partir da área de base",
+      "Compare-o com uma pirâmide",
+      "Veja a secção transversal média"
     ]
   },
   {

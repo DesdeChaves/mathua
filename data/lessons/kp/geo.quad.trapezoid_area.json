@@ -1,20 +1,20 @@
 [
   {
-    "label": "The average of the parallel sides",
+    "label": "A média dos lados paralelos",
     "section": "The average of the parallel sides",
     "subgoals": [
-      "State the formula",
+      "Indique a fórmula",
       "Compute an average width",
-      "Apply it to a trapezoid"
+      "Aplique-o a um trapézio"
     ]
   },
   {
-    "label": "Why the average",
+    "label": "Por que a média",
     "section": "Why the average",
     "subgoals": [
       "Fit two copies into a parallelogram",
       "Halve it",
-      "Recover the triangle case"
+      "Recupere a caixa triangular"
     ]
   },
   {
@@ -23,7 +23,7 @@
     "subgoals": [
       "Show a parallelogram is a special case",
       "Show a triangle is a special case",
-      "Use the perpendicular height"
+      "Use a altura perpendicular"
     ]
   }
 ]

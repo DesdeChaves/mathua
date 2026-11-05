@@ -3,18 +3,18 @@
     "label": "Rectangle",
     "section": "Rectangle",
     "subgoals": [
-      "Tile l rows of w unit squares",
+      "Ladrilho l fileiras de w quadrados unitários",
       "Multiply A = l*w, squares as A = s^2",
-      "Evaluate 8 x 5 = 40 m^2 for the worked case"
+      "Avaliar 8 x 5 = 40 m^2 para o caso trabalhado"
     ]
   },
   {
     "label": "Parallelogram",
     "section": "Parallelogram",
     "subgoals": [
-      "Slice the end triangle onto the other side",
+      "Corte o triângulo final no outro lado",
       "Multiply base by perpendicular height A = b*h",
-      "Evaluate 7 x 4 = 28 cm^2 ignoring the 5 cm slant"
+      "Avaliar 7 x 4 = 28 cm^2 ignorando a inclinação de 5 cm"
     ]
   },
   {
@@ -23,7 +23,7 @@
     "subgoals": [
       "Multiply lengths into square units",
       "Keep height perpendicular, never slanted",
-      "Summarize A = lw, A = s^2, A = bh with square units"
+      "Resuma A = lw, A = s^2, A = bh com unidades quadradas"
     ]
   }
 ]

@@ -1,29 +1,29 @@
 [
   {
-    "label": "Exterior angles add to 360",
+    "label": "Ângulos externos somam 360",
     "section": "Exterior angles add to 360",
     "subgoals": [
       "Define an exterior angle",
-      "Explain the full turn",
-      "State the sum for any convex polygon"
+      "Explicar o turno completo",
+      "Indique a soma para qualquer polígono convexo"
     ]
   },
   {
-    "label": "One angle of a regular polygon",
+    "label": "Um ângulo de um polígono regular",
     "section": "One angle of a regular polygon",
     "subgoals": [
-      "Divide 360 by the side count",
+      "Divida 360 pela contagem lateral",
       "Compute an octagon's angle",
-      "See when the answer is whole"
+      "Veja quando a resposta está completa"
     ]
   },
   {
-    "label": "Why the walk turns once",
+    "label": "Por que a caminhada vira uma vez",
     "section": "Why the walk turns once",
     "subgoals": [
-      "Follow the heading around the boundary",
-      "Account for direction",
-      "See the total turn"
+      "Siga o cabeçalho ao redor do limite",
+      "Conta para orientação",
+      "Veja o giro total"
     ]
   }
 ]

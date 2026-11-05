@@ -4,8 +4,8 @@
     "section": "Vertical Angles",
     "subgoals": [
       "Pair opposite angles at one intersection",
-      "Copy 60 degrees across to the vertical partner",
-      "Fill the linear-pair neighbors with 180 minus 60"
+      "Copie 60 graus para o parceiro vertical",
+      "Preencha os vizinhos de pares lineares com 180 menos 60"
     ]
   },
   {
@@ -14,16 +14,16 @@
     "subgoals": [
       "Match corresponding angles at each crossing",
       "Equate alternate interior angles",
-      "Subtract from 180 for same-side interior partners"
+      "Subtraia de 180 para parceiros de interiores do mesmo lado"
     ]
   },
   {
-    "label": "Drill: all four angles from one 60-degree angle",
+    "label": "Broca: todos os quatro ângulos de um ângulo de 60 graus",
     "section": "",
     "subgoals": [
-      "Mirror 60 across the vertex",
-      "Compute 180 minus 60 for the neighbors",
-      "List 60, 120, 60, 120 around the point"
+      "Espelho 60 através do vértice",
+      "Calcule 180 menos 60 para os vizinhos",
+      "Lista 60, 120, 60, 120 em torno do ponto"
     ]
   }
 ]

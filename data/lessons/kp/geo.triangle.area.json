@@ -4,26 +4,26 @@
     "section": "Why Half?",
     "subgoals": [
       "Cut a base-by-height rectangle on its diagonal",
-      "Halve bh for two congruent triangles",
-      "Pair any base only with its perpendicular height"
+      "Metade bh para dois triângulos congruentes",
+      "Emparelhe qualquer base apenas com a sua altura perpendicular"
     ]
   },
   {
     "label": "Units",
     "section": "Units",
     "subgoals": [
-      "Multiply lengths to get square units",
+      "Multiplique os comprimentos para obter unidades quadradas",
       "Convert inch sides into square inches",
-      "Ignore the extra side that lacks the height"
+      "Ignore o lado extra que não tem a altura"
     ]
   },
   {
-    "label": "Drill: base 10 height 6, and base 8 height 3",
+    "label": "Broca: base 10 altura 6 e base 8 altura 3",
     "section": "",
     "subgoals": [
-      "Halve 10 times 6 for 30 square cm",
-      "Halve 8 times 3 for 12 with side 5 ignored",
-      "Check the height meets the base at a right angle"
+      "Metade 10 vezes 6 para 30 cm quadrados",
+      "Metade 8 vezes 3 para 12 com o lado 5 ignorado",
+      "Verifique se a altura encontra a base em ângulo reto"
     ]
   }
 ]

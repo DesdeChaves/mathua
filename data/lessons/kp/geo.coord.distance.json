@@ -4,8 +4,8 @@
     "section": "",
     "subgoals": [
       "Move east-west first, then north-south",
-      "Write the horizontal step before the vertical step",
-      "Pin the origin at (0, 0)"
+      "Escreva a etapa horizontal antes da etapa vertical",
+      "Fixar a origem em (0, 0)"
     ],
     "slice": {
       "rule": "A point in the plane is written $(x, y)$: the first coordinate says how far east or west of the origin, the second how far north or south. To locate a point, move horizontally first, then vertically — the reverse order lands somewhere else entirely.",
@@ -23,12 +23,12 @@
     }
   },
   {
-    "label": "Axes split the plane into quadrants",
+    "label": "Os eixos dividem o plano em quadrantes",
     "section": "",
     "subgoals": [
-      "Cross the x-axis and y-axis at the origin",
-      "Number the four quadrants with Roman numerals",
-      "Read (1, 2) as x-coordinate 1, y-coordinate 2"
+      "Cruze o eixo x e o eixo y na origem",
+      "Numere os quatro quadrantes com algarismos romanos",
+      "Ler (1, 2) como coordenada x 1, coordenada y 2"
     ],
     "slice": {
       "rule": "The axes cross at the origin $(0,0)$. The $x$-axis is horizontal and the $y$-axis vertical; together they divide the plane into four quadrants, numbered anticlockwise from the upper right. A point with a zero coordinate sits on an axis rather than in a quadrant.",
@@ -49,12 +49,12 @@
     }
   },
   {
-    "label": "Drill: addresses off the street grid",
+    "label": "Drill: endereços fora da grade da rua",
     "section": "",
     "subgoals": [
-      "Count 2 blocks east and 3 north to the restaurant",
-      "Count 3 right and 3 down for the bar",
-      "Count 2 left and 4 down for the gas station"
+      "Conte 2 quarteirões a leste e 3 ao norte até o restaurante",
+      "Contagem 3 direita e 3 para baixo para a barra",
+      "Contagem 2 esquerda e 4 para baixo para o posto de gasolina"
     ],
     "slice": {
       "rule": "Apply the two rules together: read the pair, place it with a horizontal move then a vertical one, and check which quadrant it lands in.",

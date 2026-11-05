@@ -4,25 +4,25 @@
     "section": "The Basic Objects",
     "subgoals": [
       "Draw a point as a sizeless dot labeled A",
-      "Extend two points forever both ways for a line",
-      "Stop at one endpoint for a ray and two for a segment"
+      "Estenda dois pontos para sempre nos dois sentidos para uma linha",
+      "Parar em um ponto de extremidade para um raio e dois para um segmento"
     ]
   },
   {
-    "label": "How Points and Lines Interact",
+    "label": "Como pontos e linhas interagem",
     "section": "How Points and Lines Interact",
     "subgoals": [
-      "Test points for lying on one line (collinear)",
+      "Pontos de teste para ficar deitado em uma linha (colinear)",
       "Cross two lines at exactly one intersection point",
       "Keep parallel lines apart forever"
     ]
   },
   {
-    "label": "Drill: segment to ray to line",
+    "label": "Broca: segmento a raio a linha",
     "section": "",
     "subgoals": [
-      "Stretch segment AB past B for ray AB",
-      "Stretch past both ends for line AB",
+      "Segmento extensível AB passado B para Ray AB",
+      "Esticar após ambas as extremidades para a linha AB",
       "Count three noncollinear points fixing one plane"
     ]
   }

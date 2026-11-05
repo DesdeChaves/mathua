@@ -3,9 +3,9 @@
     "label": "Why Multiply?",
     "section": "Why Multiply?",
     "subgoals": [
-      "Tile the bottom layer as 5 times 4 cubes",
-      "Stack 3 layers for 5 times 4 times 3",
-      "Report the 60 in cubic inches"
+      "Coloque a camada inferior como 5 vezes 4 cubos",
+      "Empilhar 3 camadas por 5 vezes 4 vezes 3",
+      "Informe os 60 em polegadas cúbicas"
     ]
   },
   {
@@ -13,17 +13,17 @@
     "section": "The Base-Times-Height View",
     "subgoals": [
       "Fold length times width into base area B",
-      "Multiply B by height for V equals Bh",
-      "Carry the Bh view forward to cylinders"
+      "Multiplique B pela altura para V igual a Bh",
+      "Carregue a vista Bh para a frente para os cilindros"
     ]
   },
   {
-    "label": "Drill: 5-by-4-by-3 box and the 2-ft base tower",
+    "label": "Broca: caixa 5 por 4 por 3 e a torre de base de 2 pés",
     "section": "",
     "subgoals": [
-      "Multiply 5, 4, 3 for 60 cubic cm",
-      "Square the 2-ft base to 4 square ft",
-      "Raise 4 by 5 for 20 cubic ft"
+      "Multiplique 5, 4, 3 por 60 cm cúbicos",
+      "Quadrado a base de 2 pés para 4 pés quadrados",
+      "Elevar 4 por 5 para 20 pés cúbicos"
     ]
   }
 ]

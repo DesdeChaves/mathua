@@ -1,10 +1,10 @@
 [
   {
-    "label": "Triangulating the polygon",
+    "label": "Triangular o polígono",
     "section": "Triangulating the polygon",
     "subgoals": [
-      "Draw the diagonals from one vertex",
-      "Count the triangles",
+      "Desenhe as diagonais de um vértice",
+      "Conte os triângulos",
       "See that they cover every angle"
     ]
   },
@@ -12,18 +12,18 @@
     "label": "The formula",
     "section": "The formula",
     "subgoals": [
-      "State the sum formula",
-      "Evaluate for a pentagon",
-      "Recover the quadrilateral case"
+      "Indique a fórmula da soma",
+      "Avaliar para um pentágono",
+      "Recuperar o caso do quadrilátero"
     ]
   },
   {
     "label": "Regular polygons",
     "section": "Regular polygons",
     "subgoals": [
-      "Divide the sum by the sides",
+      "Divida a soma pelos lados",
       "Compute a regular pentagon's angle",
-      "Read the formula as sharing out"
+      "Ler a fórmula como partilha"
     ]
   }
 ]

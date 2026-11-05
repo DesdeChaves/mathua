@@ -12,18 +12,18 @@
     "label": "From two points",
     "section": "From two points",
     "subgoals": [
-      "Use any two points on the line",
+      "Use quaisquer dois pontos na linha",
       "Recognise a vertical line's missing slope",
-      "Check the sign"
+      "Verifique o sinal"
     ]
   },
   {
-    "label": "What the slope tells you",
+    "label": "O que a inclinação lhe diz",
     "section": "What the slope tells you",
     "subgoals": [
-      "Read the sign",
+      "Leia o sinal",
       "Compare steepness",
-      "Identify parallel lines"
+      "Identificar linhas paralelas"
     ]
   }
 ]

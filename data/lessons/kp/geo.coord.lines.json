@@ -3,27 +3,27 @@
     "label": "What are lines",
     "section": "What are lines",
     "subgoals": [
-      "Write the implicit form ax + by + c = 0",
-      "Fix a line through any two of its points",
+      "Escreva a forma implícita ax + by + c = 0",
+      "Fixe uma linha através de quaisquer dois dos seus pontos",
       "Test membership by substituting (x, y)"
     ]
   },
   {
-    "label": "Parallel and perpendicular lines",
+    "label": "Linhas paralelas e perpendiculares",
     "section": "Parallel and perpendicular lines",
     "subgoals": [
-      "Match slopes m_r = m_s for parallels",
-      "Flip to m_r = -1/m_s for perpendiculars",
-      "Read x = k vertical and y = k horizontal directly"
+      "Corresponder inclinações m_r = m_s para paralelos",
+      "Inverter para m_r = -1/m_s para perpendiculares",
+      "Ler x = k vertical e y = k horizontal diretamente"
     ]
   },
   {
-    "label": "General equation of a line",
+    "label": "Equação geral de uma reta",
     "section": "General equation of a line",
     "subgoals": [
-      "Expose slope m and intercept q in y = mx + q",
-      "Solve y = 0 for the x-intercept root",
-      "Test (2, 5) against y = 2x + 1 for membership"
+      "Exponha a inclinação m e intercepte q em y = mx + q",
+      "Resolva y = 0 para a raiz de interceptação x",
+      "Teste (2, 5) contra y = 2x + 1 para associação"
     ]
   }
 ]

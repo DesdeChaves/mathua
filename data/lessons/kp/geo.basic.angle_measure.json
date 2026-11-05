@@ -3,26 +3,26 @@
     "label": "Using a Protractor",
     "section": "Using a Protractor",
     "subgoals": [
-      "Center the protractor on the vertex B",
-      "Line up the 0-degree mark with side BA",
-      "Read the scale that starts at 0 degrees"
+      "Centralize o transferidor no vértice B",
+      "Alinhe a marca de 0 grau com o lado BA",
+      "Leia a escala que começa em 0 graus"
     ]
   },
   {
     "label": "Comparing Angle Measures",
     "section": "Comparing Angle Measures",
     "subgoals": [
-      "Sort 65 degrees as acute against the 90-degree benchmark",
-      "Record the measure with m-angle notation",
+      "Classificar 65 graus como agudo em relação ao benchmark de 90 graus",
+      "Registre a medida com a notação de ângulo m",
       "Spot congruent angles by equal measures"
     ]
   },
   {
-    "label": "Drill: quarter-turn and protractor reads",
+    "label": "Broca: quarto de volta e leituras do transferidor",
     "section": "",
     "subgoals": [
-      "Divide a 360-degree turn by 4 to get 90",
-      "Classify the quarter-turn result as a right angle",
+      "Divida uma volta de 360 graus por 4 para obter 90",
+      "Classifique o resultado do quarto de volta como um ângulo reto",
       "Check 65 degrees against 90 before naming it acute"
     ]
   }

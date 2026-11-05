@@ -1,10 +1,10 @@
 [
   {
-    "label": "Plotting points from pairs",
+    "label": "Plotagem de pontos a partir de pares",
     "section": "",
     "subgoals": [
-      "Step right for positive x and left for negative x",
-      "Step up for positive y and down for negative y",
+      "Dê um passo para a direita para x positivo e para a esquerda para x negativo",
+      "Suba para y positivo e desça para y negativo",
       "Mark (3, 2) after stepping 3 then 2"
     ],
     "slice": {
@@ -22,11 +22,11 @@
     }
   },
   {
-    "label": "Quadrants and axis points",
+    "label": "Quadrantes e pontos do eixo",
     "section": "",
     "subgoals": [
       "Sort sign pairs into quadrants I through IV",
-      "Park (0, -3) and (4, 0) on their axes",
+      "Estacione (0, -3) e (4, 0) nos seus eixos",
       "Name all seven special places: origin, axes, quadrants"
     ],
     "slice": {
@@ -54,7 +54,7 @@
     "subgoals": [
       "Walk each pair horizontal-first, then vertical",
       "Land (-5, -1) two signs deep in Quadrant III",
-      "Rest every point with a zero on its axis"
+      "Descanse cada ponto com um zero no seu eixo"
     ],
     "slice": {
       "rule": "Plot each pair and name where it lands. Checking the sign pattern before drawing catches most errors.",

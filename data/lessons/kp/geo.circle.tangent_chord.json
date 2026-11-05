@@ -3,27 +3,27 @@
     "label": "The tangent-chord angle",
     "section": "The tangent-chord angle",
     "subgoals": [
-      "Identify the angle",
-      "Halve the intercepted arc",
+      "Identifique o ângulo",
+      "Reduzir para metade o arco intercetado",
       "Compute an angle"
     ]
   },
   {
-    "label": "Half the intercepted arc",
+    "label": "Metade do arco interceptado",
     "section": "Half the intercepted arc",
     "subgoals": [
-      "Compare with the inscribed angle",
-      "Describe the limiting argument",
-      "See why the half survives"
+      "Comparar com o ângulo inscrito",
+      "Descrever o argumento limitante",
+      "Veja por que a metade sobrevive"
     ]
   },
   {
     "label": "The same halving as before",
     "section": "The same halving as before",
     "subgoals": [
-      "Locate the vertex",
-      "Name the three cases",
-      "Choose the right theorem"
+      "Localize o vértice",
+      "Nomeie os três casos",
+      "Escolha o teorema certo"
     ]
   }
 ]

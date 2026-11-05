@@ -1,29 +1,29 @@
 [
   {
-    "label": "Where the Formula Comes From",
+    "label": "De onde vem a fórmula",
     "section": "Where the Formula Comes From",
     "subgoals": [
-      "Slice the circle into thin pie wedges",
-      "Stack the wedges into an almost-rectangle of height r",
-      "Read width pi-r to get area pi r-squared"
+      "Corte o círculo em fatias finas de torta",
+      "Empilhe as cunhas num quase retângulo de altura r",
+      "Leia a largura pi-r para obter a área pi r-quadrado"
     ]
   },
   {
     "label": "Area vs. Circumference",
     "section": "Area vs. Circumference",
     "subgoals": [
-      "Match C equals 2 pi r with plain lengths",
-      "Match A equals pi r-squared with square units",
+      "A correspondência C é igual a 2 pi r com comprimentos simples",
+      "A correspondência A é igual a pi r-quadrado com unidades quadradas",
       "Halve a 12 cm diameter before squaring"
     ]
   },
   {
-    "label": "Drill: area of a radius-5 circle",
+    "label": "Broca: área de um círculo de raio-5",
     "section": "",
     "subgoals": [
-      "Square 5 to 25 and keep pi exact",
-      "Multiply 25 by 3.14159 for 78.5398",
-      "Round to 78.5 square meters"
+      "Quadrado de 5 a 25 e mantenha o pi exato",
+      "Multiplique 25 por 3,14159 para 78,5398",
+      "Arredondar para 78,5 metros quadrados"
     ]
   }
 ]

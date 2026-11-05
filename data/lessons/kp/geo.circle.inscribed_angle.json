@@ -4,7 +4,7 @@
     "section": "The inscribed-angle theorem",
     "subgoals": [
       "Define an inscribed angle",
-      "Halve the central angle",
+      "Corte pela metade o ângulo central",
       "Compute an inscribed angle"
     ]
   },
@@ -12,18 +12,18 @@
     "label": "The semicircle case",
     "section": "The semicircle case",
     "subgoals": [
-      "Apply the theorem to 180 degrees",
-      "Conclude the angle is a right angle",
-      "Use the converse to construct one"
+      "Aplique o teorema a 180 graus",
+      "Concluir que o ângulo é um ângulo reto",
+      "Use o inverso para construir um"
     ]
   },
   {
-    "label": "Angles on the same arc",
+    "label": "Ângulos no mesmo arco",
     "section": "Angles on the same arc",
     "subgoals": [
       "Show two angles on one arc are equal",
       "Describe what a chord is seen at",
-      "Explain the cyclic quadrilateral sum"
+      "Explicar a soma do quadrilátero cíclico"
     ]
   }
 ]
