@@ -3,27 +3,27 @@
     "label": "Distributive property",
     "section": "Distributive Property",
     "subgoals": [
-      "Multiply the term by each term inside",
-      "Keep the signs",
-      "Combine the products"
+      "Multiplique o termo por cada termo dentro",
+      "Mantenha os sinais",
+      "Combine os produtos"
     ]
   },
   {
-    "label": "Applying the properties",
+    "label": "Aplicar as propriedades",
     "section": "Applying the Commutative, Associative, and Distributive Properties",
     "subgoals": [
-      "Reorder terms with commutativity",
-      "Regroup with associativity",
-      "Distribute to simplify"
+      "Reordenar termos com comutatividade",
+      "Reagrupar com associatividade",
+      "Distribuir para simplificar"
     ]
   },
   {
-    "label": "Role of order of operations",
+    "label": "Papel da ordem das operações",
     "section": "The Role of the Order of Operations",
     "subgoals": [
       "Simplify inside grouping first",
-      "Multiply and divide before adding",
-      "Compare with and without distribution"
+      "Multiplique e divida antes de adicionar",
+      "Comparar com e sem distribuição"
     ]
   }
 ]

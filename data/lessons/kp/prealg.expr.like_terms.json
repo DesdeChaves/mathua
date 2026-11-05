@@ -4,7 +4,7 @@
     "section": "Identifying Terms",
     "subgoals": [
       "Separate an expression into terms",
-      "Recognize the variable parts",
+      "Reconhecer as partes variáveis",
       "Classify like terms"
     ]
   },
@@ -12,17 +12,17 @@
     "label": "Combining like terms",
     "section": "Combining Like Terms",
     "subgoals": [
-      "Add the coefficients of like terms",
-      "Keep the variable part unchanged",
-      "Simplify the expression"
+      "Adicione os coeficientes de termos semelhantes",
+      "Mantenha a parte variável inalterada",
+      "Simplifique a expressão"
     ]
   },
   {
     "label": "Applications",
     "section": "Applications",
     "subgoals": [
-      "Apply combining to word contexts",
-      "Simplify the model",
+      "Aplicar combinação a contextos de palavras",
+      "Simplificar o modelo",
       "Evaluate when needed"
     ]
   }

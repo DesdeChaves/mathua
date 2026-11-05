@@ -3,8 +3,8 @@
     "label": "Closure property",
     "section": "Closure property",
     "subgoals": [
-      "Add two reals and stay in the reals",
-      "Multiply two reals and stay in the reals",
+      "Adicione dois reais e fique nos reais",
+      "Multiplique dois reais e fique nos reais",
       "Test closure on examples"
     ]
   },
@@ -12,9 +12,9 @@
     "label": "Commutative property",
     "section": "Commutative property",
     "subgoals": [
-      "Swap the order of addition",
-      "Swap the order of multiplication",
-      "Verify the results match"
+      "Trocar a ordem de adição",
+      "Trocar a ordem de multiplicação",
+      "Verifique se os resultados correspondem"
     ]
   },
   {
@@ -22,8 +22,8 @@
     "section": "Distributive property",
     "subgoals": [
       "Expand a(b + c)",
-      "Factor the expanded form",
-      "Use it to simplify"
+      "Fatorar a forma expandida",
+      "Use-o para simplificar"
     ]
   }
 ]

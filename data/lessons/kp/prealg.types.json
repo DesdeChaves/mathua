@@ -3,17 +3,17 @@
     "label": "Natural numbers",
     "section": "Natural numbers",
     "subgoals": [
-      "Identify the counting numbers",
-      "Recognize where they sit in the hierarchy",
-      "Contrast with other types"
+      "Identificar os números de contagem",
+      "Reconhecer onde eles se sentam na hierarquia",
+      "Contraste com outros tipos"
     ]
   },
   {
     "label": "Integer numbers",
     "section": "Integer numbers",
     "subgoals": [
-      "Include zero and the negatives",
-      "Locate integers on the number line",
+      "Inclua zero e os negativos",
+      "Localizar números inteiros na linha numérica",
       "Classify examples"
     ]
   },
@@ -21,9 +21,9 @@
     "label": "Rational numbers",
     "section": "Rational numbers",
     "subgoals": [
-      "Write a rational as a ratio of integers",
+      "Escreva um racional como uma razão de números inteiros",
       "Recognize repeating decimals as rational",
-      "Distinguish from irrationals"
+      "Distinguir dos irracionais"
     ]
   }
 ]

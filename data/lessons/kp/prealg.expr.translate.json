@@ -1,29 +1,29 @@
 [
   {
-    "label": "Identify the operations",
+    "label": "Identificar as operações",
     "section": "Identify the operations",
     "subgoals": [
-      "Match words to operations",
-      "Use a variable for the unknown",
-      "Keep the numbers with their operations"
+      "Combinar palavras com operações",
+      "Use uma variável para o desconhecido",
+      "Manter os números com as suas operações"
     ]
   },
   {
-    "label": "Keep the order of subtraction and division",
+    "label": "Manter a ordem de subtração e divisão",
     "section": "Keep the order of subtraction and division",
     "subgoals": [
-      "Read 'less than' as a reversal",
-      "Put the first-named number first in a quotient",
-      "Do not swap the terms"
+      "Ler \"menor que\" como uma reversão",
+      "Coloque o primeiro número nomeado primeiro num quociente",
+      "Não troque os termos"
     ]
   },
   {
-    "label": "Use grouping for a difference or sum",
+    "label": "Use o agrupamento para uma diferença ou soma",
     "section": "Use grouping for a difference or sum",
     "subgoals": [
-      "Parenthesize the difference or sum",
-      "Apply the multiplier to the whole group",
-      "Test the expression with a value"
+      "Faça parênteses da diferença ou soma",
+      "Aplicar o multiplicador a todo o grupo",
+      "Teste a expressão com um valor"
     ]
   }
 ]

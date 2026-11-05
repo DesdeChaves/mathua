@@ -1,11 +1,11 @@
 [
   {
-    "label": "Field and order structure",
+    "label": "Estrutura de campo e pedido",
     "section": "Field and order structure",
     "subgoals": [
-      "Recognize the arithmetic operations on reals",
-      "Apply the ordering of reals",
-      "Combine structure with intuition"
+      "Reconhecer as operações aritméticas em reais",
+      "Aplicar a ordenação de reais",
+      "Combine estrutura com intuição"
     ]
   },
   {
@@ -13,7 +13,7 @@
     "section": "The real line",
     "subgoals": [
       "Place every real number on a line",
-      "Locate negatives and fractions",
+      "Localizar negativos e frações",
       "Compare positions"
     ]
   },
@@ -21,9 +21,9 @@
     "label": "The completeness axiom",
     "section": "The completeness axiom",
     "subgoals": [
-      "State the axiom in words",
+      "Exponha o axioma em palavras",
       "See why fractions have limits",
-      "Use it to place irrationals"
+      "Use-o para colocar irracionais"
     ]
   }
 ]

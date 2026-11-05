@@ -1,29 +1,29 @@
 [
   {
-    "label": "Solve multistep inequalities",
+    "label": "Resolver as desigualdades em várias etapas",
     "section": "Solving Multistep Inequalities",
     "subgoals": [
       "Undo addition or subtraction first",
       "Then undo multiplication or division",
-      "Reverse the sign when dividing by a negative"
+      "Inverta o sinal ao dividir por um negativo"
     ]
   },
   {
     "label": "Applications",
     "section": "Applications",
     "subgoals": [
-      "Translate the constraint into an inequality",
-      "Solve for the variable",
-      "Interpret the range of answers"
+      "Traduzir a restrição numa desigualdade",
+      "Resolver para a variável",
+      "Interpretar o leque de respostas"
     ]
   },
   {
-    "label": "Graph the solution set",
+    "label": "Representar graficamente o conjunto de soluções",
     "section": "",
     "subgoals": [
-      "Mark the boundary on a number line",
-      "Shade the valid side",
-      "Use an open or closed circle"
+      "Marque o limite numa linha numérica",
+      "Sombrear o lado válido",
+      "Use um círculo aberto ou fechado"
     ]
   }
 ]

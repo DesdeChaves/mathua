@@ -1,27 +1,27 @@
 [
   {
-    "label": "Introduction to variables",
+    "label": "Introdução às variáveis",
     "section": "Introduction to Variables",
     "subgoals": [
       "Recognize a variable as a placeholder",
-      "Read expressions with variables",
-      "Choose a letter for an unknown"
+      "Ler expressões com variáveis",
+      "Escolha uma letra para um desconhecido"
     ]
   },
   {
     "label": "Algebraic expressions",
     "section": "Algebraic Expressions",
     "subgoals": [
-      "Build an expression from a phrase",
-      "Identify terms and coefficients",
+      "Construir uma expressão a partir de uma frase",
+      "Identificar termos e coeficientes",
       "Evaluate when values are given"
     ]
   },
   {
-    "label": "Evaluating with exponents and radicals",
+    "label": "Avaliar com expoentes e radicais",
     "section": "Evaluating Expressions with Exponents, Absolute Value, and Radicals",
     "subgoals": [
-      "Apply exponents to the variable",
+      "Aplicar expoentes à variável",
       "Handle absolute values",
       "Evaluate radicals"
     ]

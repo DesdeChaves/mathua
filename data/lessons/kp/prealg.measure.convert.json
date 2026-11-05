@@ -1,29 +1,29 @@
 [
   {
-    "label": "Use a conversion factor",
+    "label": "Usar um fator de conversão",
     "section": "Use a conversion factor",
     "subgoals": [
-      "Write the factor as a ratio equal to 1",
-      "Choose the form that cancels the old unit",
-      "Keep the unit you want"
+      "Escreva o fator como uma razão igual a 1",
+      "Escolha o formulário que cancela a unidade antiga",
+      "Mantenha a unidade que deseja"
     ]
   },
   {
     "label": "Multiply or divide",
     "section": "Multiply or divide",
     "subgoals": [
-      "Multiply for a larger-to-smaller conversion",
-      "Divide for a smaller-to-larger conversion",
-      "Use the factor in the correct direction"
+      "Multiplique para uma conversão maior para menor",
+      "Divida para uma conversão de menor para maior",
+      "Utilize o fator na direção correta"
     ]
   },
   {
-    "label": "Check the size",
+    "label": "Verifique o tamanho",
     "section": "Check the size",
     "subgoals": [
-      "Compare the number with the original",
+      "Compare o número com o original",
       "Remember that a smaller unit gives a larger number",
-      "Reverse the factor if the answer moves the wrong way"
+      "Inverta o fator se a resposta se mover para o lado errado"
     ]
   }
 ]

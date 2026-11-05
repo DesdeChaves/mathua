@@ -1,11 +1,11 @@
 [
   {
-    "label": "Solve linear inequalities",
+    "label": "Resolver desigualdades lineares",
     "section": "Solving Linear Inequalities",
     "subgoals": [
-      "Isolate the variable",
-      "Keep the inequality direction",
-      "Graph the solution set"
+      "Isole a variável",
+      "Manter a direção da desigualdade",
+      "Representar graficamente o conjunto de soluções"
     ]
   },
   {
@@ -13,17 +13,17 @@
     "section": "Negation",
     "subgoals": [
       "Negate both sides carefully",
-      "Reverse the inequality sign",
-      "Check the direction"
+      "Inverter o sinal de desigualdade",
+      "Verifique a direcção"
     ]
   },
   {
-    "label": "Check the solution",
+    "label": "Verificar a solução",
     "section": "",
     "subgoals": [
-      "Pick a value from the solution set",
-      "Verify it satisfies the inequality",
-      "Pick one outside to confirm"
+      "Escolha um valor do conjunto de soluções",
+      "Verifique se satisfaz a desigualdade",
+      "Escolha um do lado de fora para confirmar"
     ]
   }
 ]

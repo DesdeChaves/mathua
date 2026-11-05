@@ -1,29 +1,29 @@
 [
   {
-    "label": "Choose the inequality symbol",
+    "label": "Escolha o símbolo da desigualdade",
     "section": "Choose the inequality symbol",
     "subgoals": [
-      "Read 'at most' as less than or equal",
-      "Read 'at least' as greater than or equal",
-      "Keep the direction of the comparison"
+      "Ler \"no máximo\" como menor ou igual",
+      "Ler \"pelo menos\" como maior ou igual",
+      "Manter a direção da comparação"
     ]
   },
   {
-    "label": "Write the inequality",
+    "label": "Escreva a desigualdade",
     "section": "Write the inequality",
     "subgoals": [
-      "Let the unknown be x",
-      "Write the fixed plus repeated amount",
-      "Compare the expression with the limit"
+      "Deixe o desconhecido ser x",
+      "Escreva o valor fixo mais o valor repetido",
+      "Compare a expressão com o limite"
     ]
   },
   {
-    "label": "Solve and interpret the whole-number answer",
+    "label": "Resolver e interpretar a resposta de número inteiro",
     "section": "Solve and interpret the whole-number answer",
     "subgoals": [
-      "Subtract the fixed amount",
-      "Divide by the rate",
-      "Choose the greatest or least whole number"
+      "Subtrair o valor fixo",
+      "Dividir pela taxa",
+      "Escolha o maior ou o menor número inteiro"
     ]
   }
 ]

@@ -1,29 +1,29 @@
 [
   {
-    "label": "Read the prefix",
+    "label": "Leia o prefixo",
     "section": "Read the prefix",
     "subgoals": [
-      "Relate kilo- to 1000",
-      "Relate centi- to one hundredth",
-      "Relate milli- to one thousandth"
+      "Relacionar quilo a 1000",
+      "Relacionar centésimo a centésimo",
+      "Relacionar mili- a um milésimo"
     ]
   },
   {
-    "label": "Move the decimal point",
+    "label": "Mover o ponto decimal",
     "section": "Move the decimal point",
     "subgoals": [
-      "Count the places in the power of ten",
-      "Move right for a smaller unit",
-      "Keep the digits in order"
+      "Conte os lugares no poder de dez",
+      "Mover para a direita para uma unidade menor",
+      "Mantenha os dígitos em ordem"
     ]
   },
   {
-    "label": "Check the direction",
+    "label": "Verifique a direcção",
     "section": "Check the direction",
     "subgoals": [
-      "Compare the size of the units",
-      "Check that the number grows when the unit shrinks",
-      "Confirm the measurement is unchanged"
+      "Compare o tamanho das unidades",
+      "Verifique se o número aumenta quando a unidade encolhe",
+      "Confirme se a medição está inalterada"
     ]
   }
 ]

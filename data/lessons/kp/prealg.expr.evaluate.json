@@ -1,29 +1,29 @@
 [
   {
-    "label": "Introduction to variables",
+    "label": "Introdução às variáveis",
     "section": "Introduction to Variables",
     "subgoals": [
       "Recognize a variable as a placeholder",
-      "Substitute the given value",
-      "Prepare to evaluate"
+      "Substituir o valor dado",
+      "Prepare-se para avaliar"
     ]
   },
   {
     "label": "Algebraic expressions",
     "section": "Algebraic Expressions",
     "subgoals": [
-      "Replace each variable with its value",
-      "Apply the order of operations",
-      "Simplify to a number"
+      "Substitua cada variável pelo seu valor",
+      "Aplicar a ordem das operações",
+      "Simplificar para um número"
     ]
   },
   {
-    "label": "Evaluating with negative numbers",
+    "label": "Avaliar com números negativos",
     "section": "Evaluating Expressions with Negative Numbers",
     "subgoals": [
       "Substitute negative values carefully",
       "Track signs in multiplication",
-      "Simplify the result"
+      "Simplifique o resultado."
     ]
   }
 ]

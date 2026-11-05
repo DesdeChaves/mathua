@@ -1,29 +1,29 @@
 [
   {
-    "label": "Substitute the given values",
+    "label": "Substituir os valores fornecidos",
     "section": "Substitute the given values",
     "subgoals": [
-      "Replace each variable with its value",
-      "Use parentheses around substituted values",
-      "Keep the structure of the formula"
+      "Substitua cada variável pelo seu valor",
+      "Usar parênteses em torno de valores substituídos",
+      "Manter a estrutura da fórmula"
     ]
   },
   {
-    "label": "Follow the order of operations",
+    "label": "Seguir a ordem das operações",
     "section": "Follow the order of operations",
     "subgoals": [
       "Multiply before adding",
       "Divide after multiplying in a fraction",
-      "Compute the result step by step"
+      "Calcule o resultado passo a passo"
     ]
   },
   {
-    "label": "Keep the units and the meaning",
+    "label": "Mantenha as unidades e o significado",
     "section": "Keep the units and the meaning",
     "subgoals": [
-      "Attach the unit of the quantity",
-      "Check the size of the result",
-      "Read the formula as a relationship"
+      "Anexe a unidade da quantidade",
+      "Verifique o tamanho do resultado",
+      "Leia a fórmula como uma relação"
     ]
   }
 ]
