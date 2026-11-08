@@ -3,26 +3,26 @@
     "label": "Statement",
     "section": "Statement",
     "subgoals": [
-      "Square the hypotenuse c^2 = a^2 + b^2",
-      "Invert to legs a = sqrt(c^2 - b^2), b = sqrt(c^2 - a^2)",
-      "Test the converse a^2 + b^2 = c^2 for rightness"
+      "Esquadre a hipotenusa c^2 = a^2 + b^2",
+      "Inverter para pernas a = sqrt(c^2 - b^2), b = sqrt(c^2 - a^2)",
+      "Teste o inverso a^2 + b^2 = c^2 quanto à correção"
     ]
   },
   {
     "label": "Applications",
     "section": "Applications",
     "subgoals": [
-      "Split the square along diagonal DB",
-      "Apply c = sqrt(a^2 + b^2) to each half",
-      "Drop altitude H to halve isosceles triangles"
+      "Divida o quadrado ao longo da diagonal DB",
+      "Aplique c = sqrt(a^2 + b^2) a cada metade",
+      "Altitude de queda H para reduzir pela metade os triângulos isósceles"
     ]
   },
   {
     "label": "Pythagorean triples",
     "section": "Pythagorean triples",
     "subgoals": [
-      "Check 3^2 + 4^2 = 5^2 for the (3, 4, 5) triple",
-      "Scale (3, 4, 5) to (6, 8, 10) and (9, 12, 15)",
+      "Marque 3^2 + 4^2 = 5^2 para o (3, 4, 5) triplo",
+      "Escala (3, 4, 5) a (6, 8, 10) e (9, 12, 15)",
       "List (5, 12, 13), (7, 24, 25), (8, 15, 17) as primitives"
     ]
   }

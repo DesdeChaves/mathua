@@ -1,28 +1,28 @@
 [
   {
-    "label": "The equal sides and angles",
+    "label": "Os lados e ângulos iguais",
     "section": "The equal sides and angles",
     "subgoals": [
-      "Define the vertex angle",
+      "Definir o ângulo do vértice",
       "State that base angles are equal",
-      "Find the angles from one"
+      "Encontre os ângulos de um"
     ]
   },
   {
     "label": "The symmetry",
     "section": "The symmetry",
     "subgoals": [
-      "Name the axis of symmetry",
+      "Nomeie o eixo de simetria",
       "List what it bisects",
-      "Use it in a problem"
+      "Utilize-o num problema"
     ]
   },
   {
     "label": "Working backwards",
     "section": "Working backwards",
     "subgoals": [
-      "Use the converse",
-      "Recognise isosceles from angles",
+      "Use o inverso",
+      "Reconhecer isósceles de ângulos",
       "Choose sides or angles"
     ]
   }

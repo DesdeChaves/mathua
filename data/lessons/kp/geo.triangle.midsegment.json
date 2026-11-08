@@ -1,6 +1,6 @@
 [
   {
-    "label": "Half of the third side",
+    "label": "Metade do terceiro lado",
     "section": "Half of the third side",
     "subgoals": [
       "State both properties",
@@ -12,18 +12,18 @@
     "label": "Why it is half",
     "section": "Why it is half",
     "subgoals": [
-      "Find the similar triangle",
-      "Give the similarity ratio",
-      "Conclude the parallelism"
+      "Encontre o triângulo semelhante",
+      "Dê a razão de similaridade",
+      "Conclua o paralelismo"
     ]
   },
   {
     "label": "Three midsegments",
     "section": "Three midsegments",
     "subgoals": [
-      "Divide the triangle into four",
-      "Identify the congruent copies",
-      "Compute the area ratio"
+      "Divida o triângulo em quatro",
+      "Identificar as cópias congruentes",
+      "Calcular a razão de área"
     ]
   }
 ]

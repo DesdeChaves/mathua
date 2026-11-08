@@ -4,7 +4,7 @@
     "section": "Classifying by Sides",
     "subgoals": [
       "Count equal sides: 0 scalene, 2 isosceles, 3 equilateral",
-      "Read tick marks for the equal sides",
+      "Ler marcas de escala para os lados iguais",
       "File 5, 5, 8 by sides as isosceles"
     ]
   },
@@ -12,17 +12,17 @@
     "label": "Classifying by Angles",
     "section": "Classifying by Angles",
     "subgoals": [
-      "Cap right and obtuse at one angle each",
-      "Blame the 180-degree total for the cap",
-      "Name the longest side of a right triangle the hypotenuse"
+      "Tampa direita e obtusa em um ângulo cada",
+      "Culpe o total de 180 graus pelo limite",
+      "Nomeie o lado mais longo de um triângulo retângulo como hipotenusa"
     ]
   },
   {
-    "label": "Drill: the 5-5-8 triangle and the 2-2-2 test",
+    "label": "Broca: o triângulo 5-5-8 e o teste 2-2-2",
     "section": "",
     "subgoals": [
-      "Pair equal sides with acute angles for acute isosceles",
-      "Total three 90s to 270 to reject a right equilateral",
+      "Par de lados iguais com ângulos agudos para isósceles agudos",
+      "Total de três anos 90 a 270 para rejeitar um equilátero direito",
       "Hand each triangle one side-name plus one angle-name"
     ]
   }

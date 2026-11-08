@@ -1,29 +1,29 @@
 [
   {
-    "label": "Name the sides in the story",
+    "label": "Nomeie os lados da história",
     "section": "Statement",
     "subgoals": [
-      "Find the right angle in the picture",
-      "Name the side opposite it",
-      "Name the two sides that are known"
+      "Encontre o ângulo certo na imagem",
+      "Nomeie o lado oposto",
+      "Nomeie os dois lados que são conhecidos"
     ]
   },
   {
-    "label": "Choose the form of the theorem",
+    "label": "Escolha a forma do teorema",
     "section": "Applications",
     "subgoals": [
-      "Add the squares when the longest side is missing",
-      "Subtract the squares when a shorter side is missing",
-      "Keep the unit of length through the work"
+      "Adicione os quadrados quando o lado mais longo estiver faltando",
+      "Subtraia os quadrados quando um lado mais curto estiver faltando",
+      "Mantenha a unidade de comprimento durante o trabalho"
     ]
   },
   {
-    "label": "Recognise the triangle",
+    "label": "Reconhecer o triângulo",
     "section": "Pythagorean triples",
     "subgoals": [
-      "Square the known sides",
-      "Take the square root of the result",
-      "Check the answer against a familiar triple"
+      "Esquadreje os lados conhecidos",
+      "Tome a raiz quadrada do resultado",
+      "Verifique a resposta em relação a um triplo familiar"
     ]
   }
 ]

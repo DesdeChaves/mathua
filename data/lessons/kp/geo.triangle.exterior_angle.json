@@ -14,16 +14,16 @@
     "subgoals": [
       "Use a soma do ângulo",
       "Use o ângulo reto",
-      "Equate the two expressions"
+      "Equacionar as duas expressões"
     ]
   },
   {
     "label": "Using it",
     "section": "Using it",
     "subgoals": [
-      "Answer without the third angle",
+      "Resposta sem o terceiro ângulo",
       "Bound each interior angle",
-      "Extend it to a polygon"
+      "Estenda-o para um polígono"
     ]
   }
 ]

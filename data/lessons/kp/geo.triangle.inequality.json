@@ -3,27 +3,27 @@
     "label": "The inequality",
     "section": "The inequality",
     "subgoals": [
-      "State the triangle inequality",
+      "Indique a desigualdade do triângulo",
       "Test three lengths",
-      "Recognise the degenerate case"
+      "Reconhecer o caso degenerado"
     ]
   },
   {
-    "label": "The smallest and largest sides",
+    "label": "Os lados menor e maior",
     "section": "The smallest and largest sides",
     "subgoals": [
-      "Bound the third side from above",
-      "Bound it from below",
-      "Find the extreme whole numbers"
+      "Vinculou o terceiro lado de cima",
+      "Encadernado por baixo",
+      "Encontre os números inteiros extremos"
     ]
   },
   {
     "label": "Why it holds",
     "section": "Why it holds",
     "subgoals": [
-      "Argue from the shortest path",
-      "See why the inequality is strict",
-      "Connect it to the distance formula"
+      "Argumente a partir do caminho mais curto",
+      "Veja por que a desigualdade é estrita",
+      "Conecte-o à fórmula da distância"
     ]
   }
 ]
